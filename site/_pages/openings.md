@@ -11,5 +11,5 @@ permalink: /vacancies/
 We are always looking for motivated students and postdocs interested in quantum
 information, quantum computing for chemistry, and quantum machine learning.
 
-Please contact [Prof. Sabre Kais](mailto:kais@purdue.edu) with a CV and a short
+Please contact [Prof. Sabre Kais](mailto:skais@ncsu.edu) with a CV and a short
 description of your interests.

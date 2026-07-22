@@ -3,7 +3,7 @@ layout: member
 category: staff
 title: Sabre Kais
 image: sabre-kais.jpg
-role: Research Advisor; Director, Center for Quantum Technology; Distinguished Professor of Chemistry
+role: Goodnight Distinguished Chair in Quantum Computing
 permalink: 'team/sabre-kais'
 social:
     website:
@@ -13,6 +13,6 @@ social:
 education: []
 ---
 
-Distinguished Professor of Chemistry at Purdue University and Director of the Center for Quantum Technologies. Research focuses on quantum information and quantum computation for chemical systems.
+Goodnight Distinguished Chair in Quantum Computing in the Department of Electrical and Computer Engineering at North Carolina State University. Research focuses on quantum information and quantum computation for complex many-body systems.
 
-**Email:** [kais@purdue.edu](mailto:kais@purdue.edu)
+**Email:** [skais@ncsu.edu](mailto:skais@ncsu.edu)

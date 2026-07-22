@@ -14,9 +14,8 @@ and coherence in complex chemical and biological systems, design quantum
 algorithms for molecular simulation, and advance quantum machine learning for
 scientific datasets.
 
-Professor Kais directs the [Center for Quantum Technologies](https://www.purdue.edu/cqt/)
-and is a Distinguished Professor of Chemistry at Purdue University, with
-appointments in Electrical and Computer Engineering.
+Professor Kais is the [Goodnight Distinguished Chair in Quantum Computing](https://ece.ncsu.edu/people/skais/)
+in the Department of Electrical and Computer Engineering at North Carolina State University.
 
 ### Research Highlights
 
