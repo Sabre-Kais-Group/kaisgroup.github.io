@@ -1,0 +1,90 @@
+---
+title: "Team"
+layout: default
+excerpt: "Sabre Kais Group: Team members"
+sitemap: false
+permalink: /team/
+---
+
+<h1>{{page.title}}</h1>
+
+<p>Principal investigator, postdoctoral researchers, and graduate students in the Kais Group.</p>
+
+<h2><a id="staff"></a>Principal Investigator &amp; Postdocs</h2>
+{% assign members = site.posts | where: 'category', 'staff' | sort: 'date' %}
+{% for member in members %}
+<div class="card team-member-card">
+    <div class="row mt-3">
+        <div class="col-md-2">
+            <a href="{{ member.url | relative_url }}">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
+                    class="card-img img-responsive img-thumbnail"
+                    style="max-width: 100px;"
+                    alt="{{ member.title }}"/>
+            </a>
+        </div>
+
+        <div class="col-md-10">
+            <div class="card-body">
+            <h4 class="card-title">{{ member.title }}</h4>
+            <p class="card-text">{{ member.role }}</p>
+            </div>
+        </div>
+    </div>
+</div>
+{% endfor %}
+
+<h2><a id="student"></a>Graduate Students</h2>
+{% assign members = site.posts | where: 'category', 'student' | sort: 'date' %}
+{% for member in members %}
+<div class="card team-member-card">
+    <div class="row mt-3">
+        <div class="col-md-2">
+            <a href="{{ member.url | relative_url }}">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
+                    class="card-img img-responsive img-thumbnail"
+                    style="max-width: 100px;"
+                    alt="{{ member.title }}"/>
+            </a>
+        </div>
+
+        <div class="col-md-10">
+            <div class="card-body">
+            <h4 class="card-title">{{ member.title }}</h4>
+            <p class="card-text">{{ member.role }}</p>
+            </div>
+        </div>
+    </div>
+</div>
+{% endfor %}
+
+<h2>Former Group Members</h2>
+
+<h3>Postdoctoral Fellows</h3>
+<ul>
+<li>Dr. Sangchul Oh (Postdoc. 2023): Faculty, Department of Physics, Southern Illinois University Carbondale</li>
+<li>Dr. Vivek Dixit (Postdoc. 2021): Associate Professor, uGDX School of Technology, ATLAS SkillTech University</li>
+<li>Dr. Kumar Ghosh (Postdoc. 2020): Quantum Scientist at E.ON, Essen, Germany</li>
+<li>Dr. Yijue Ding (Postdoc. 2020)</li>
+<li>Dr. Sachin Yeole (Postdoc. 2016)</li>
+<li>Dr. Jian Wang (Postdoc. 2015)</li>
+<li>Dr. Nan Jiang (Postdoc. 2015)</li>
+<li>Dr. Dong Wang (Postdoc. 2014)</li>
+<li>Dr. Felipe Herrera (Postdoc. 2012)</li>
+</ul>
+
+<h3>Ph.D. Alumni</h3>
+<ul>
+<li>Dr. Raja Selvarajan (Ph.D. 2023): Research Scientist, PASQAL, Netherlands</li>
+<li>Dr. Junxu Li (Ph.D. 2023): Faculty, Department of Physics, Northeastern University, Shenyang, China</li>
+<li>Dr. Shree Hari Sureshbabu (Ph.D. 2023): Sr. Applied Research Associate, JPMorgan Chase &amp; Co.</li>
+<li>Dr. Yuchen Wang (Ph.D. 2023): Postdoctoral Fellow, Dept. of Chemistry, Purdue University</li>
+<li>Dr. Ronxin Xia (Ph.D. 2020): Research Scientist, Facebook, San Francisco</li>
+<li>Dr. Teng Bian (Ph.D. 2020): Research Scientist, Facebook, San Francisco</li>
+<li>Dr. Shuxian Jiang (Ph.D. 2018)</li>
+<li>Dr. Yitang Zhang (Ph.D. 2017)</li>
+<li>Dr. Yudong Cao (Ph.D. 2016)</li>
+<li>Dr. Shuhao Yeh (Ph.D. 2016)</li>
+<li>Dr. Ross Hoehn (Ph.D. 2014)</li>
+<li>Dr. Anmer Daskin (Ph.D. 2013)</li>
+</ul>

@@ -1,0 +1,189 @@
+[
+  {
+    "id": "kais-2024-01",
+    "type": "article-journal",
+    "title": "Defect-induced localization of information scrambling in 1D Kitaev model",
+    "container-title": "Physica Scripta",
+    "page": "105123",
+    "volume": "99",
+    "DOI": "10.1088/1402-4896/ad7911",
+    "abstract": "Study of defect-induced localization of information scrambling in the 1D Kitaev model.",
+    "author": [
+      {"family": "Muruganandam", "given": "Varadharajan"},
+      {"family": "Sajjan", "given": "Manas"},
+      {"family": "Kais", "given": "Sabre"}
+    ],
+    "issued": {"date-parts": [["2024"]]}
+  },
+  {
+    "id": "kais-2024-02",
+    "type": "article-journal",
+    "title": "Quantum computing and chemistry",
+    "container-title": "Cell Reports Physical Science",
+    "volume": "5",
+    "page": "102105",
+    "DOI": "10.1016/j.xcrp.2024.102105",
+    "abstract": "Perspective on quantum computing applications in chemistry.",
+    "author": [
+      {"family": "Weidman", "given": "Jared D."},
+      {"family": "Sajjan", "given": "Manas"},
+      {"family": "Mikolas", "given": "Camille"},
+      {"family": "Stewart", "given": "Zachary J."},
+      {"family": "Pollanen", "given": "Johannes"},
+      {"family": "Kais", "given": "Sabre"},
+      {"family": "Wilson", "given": "Angela K."}
+    ],
+    "issued": {"date-parts": [["2024"]]}
+  },
+  {
+    "id": "kais-2024-03",
+    "type": "article-journal",
+    "title": "Psitrum: An open source simulator for universal quantum computers",
+    "container-title": "IET Quantum Communication",
+    "DOI": "10.1049/qtc2.12101",
+    "abstract": "Open-source simulator for universal quantum computers.",
+    "author": [
+      {"family": "Alghadeer", "given": "Mohammed"},
+      {"family": "Aldawsari", "given": "Eid"},
+      {"family": "Selvarajan", "given": "Raja"},
+      {"family": "Alutaibi", "given": "Khaled"},
+      {"family": "Kais", "given": "Sabre"},
+      {"family": "Alharbi", "given": "Fahhad H."}
+    ],
+    "issued": {"date-parts": [["2024"]]}
+  },
+  {
+    "id": "kais-2024-04",
+    "type": "article-journal",
+    "title": "Designing Variational Ansatz for Quantum-Enabled Simulation of Non-Unitary Dynamical Evolution - An Excursion into Dicke Superradiance",
+    "container-title": "Advanced Quantum Technologies",
+    "page": "2400088",
+    "DOI": "10.1002/qute.202400088",
+    "abstract": "Variational ansatz design for simulating non-unitary dynamical evolution, demonstrated on Dicke superradiance.",
+    "author": [
+      {"family": "Shivpuje", "given": "Saurabh"},
+      {"family": "Sajjan", "given": "Manas"},
+      {"family": "Wang", "given": "Yuchen"},
+      {"family": "Hu", "given": "Zixuan"},
+      {"family": "Kais", "given": "Sabre"}
+    ],
+    "issued": {"date-parts": [["2024"]]}
+  },
+  {
+    "id": "kais-2024-05",
+    "type": "article-journal",
+    "title": "Simulation of Chemical Reactions on a Quantum Computer",
+    "container-title": "Journal of Physical Chemistry Letters",
+    "volume": "15",
+    "page": "5633-5642",
+    "DOI": "10.1021/acs.jpclett.4c01100",
+    "abstract": "Approaches for simulating chemical reactions on quantum computers.",
+    "author": [
+      {"family": "Kale", "given": "Sumit Suresh"},
+      {"family": "Kais", "given": "Sabre"}
+    ],
+    "issued": {"date-parts": [["2024"]]}
+  },
+  {
+    "id": "kais-2024-06",
+    "type": "article-journal",
+    "title": "Walking with the Atoms in a Chemical Bond: A Perspective Using Quantum Phase Transition",
+    "container-title": "Entropy",
+    "volume": "26",
+    "page": "230",
+    "DOI": "10.3390/e26030230",
+    "abstract": "Perspective connecting chemical bonding to quantum phase transitions.",
+    "author": [
+      {"family": "Kais", "given": "Sabre"}
+    ],
+    "issued": {"date-parts": [["2024"]]}
+  },
+  {
+    "id": "kais-2024-07",
+    "type": "article-journal",
+    "title": "Random projection using random quantum circuits",
+    "container-title": "Physical Review Research",
+    "volume": "6",
+    "page": "013010",
+    "DOI": "10.1103/PhysRevResearch.6.013010",
+    "abstract": "Random projection methods using random quantum circuits.",
+    "author": [
+      {"family": "Kumaran", "given": "Keerthi"},
+      {"family": "Sajjan", "given": "Manas"},
+      {"family": "Oh", "given": "Sangchul"},
+      {"family": "Kais", "given": "Sabre"}
+    ],
+    "issued": {"date-parts": [["2024"]]}
+  },
+  {
+    "id": "kais-2023-01",
+    "type": "article-journal",
+    "title": "Physics-Inspired Quantum Simulation of Resonating Valence Bond States - A Prototypical Template for a Spin-Liquid Ground State",
+    "container-title": "Journal of Physical Chemistry A",
+    "volume": "127",
+    "issue": "41",
+    "page": "8751-8764",
+    "DOI": "10.1021/acs.jpca.3c05172",
+    "abstract": "Quantum simulation of RVB / spin-liquid ground states on near-term devices.",
+    "author": [
+      {"family": "Sajjan", "given": "Manas"},
+      {"family": "Gupta", "given": "Rishabh"},
+      {"family": "Kale", "given": "Sumit Suresh"},
+      {"family": "Singh", "given": "Vinit"},
+      {"family": "Kumaran", "given": "Keerthi"},
+      {"family": "Kais", "given": "Sabre"}
+    ],
+    "issued": {"date-parts": [["2023"]]}
+  },
+  {
+    "id": "kais-2023-02",
+    "type": "article-journal",
+    "title": "Quantum Machine Learning Predicting ADME-Tox Properties in Drug Discovery",
+    "container-title": "Journal of Chemical Information and Modeling",
+    "DOI": "10.1021/acs.jcim.3c01079",
+    "abstract": "Quantum machine learning framework for predicting ADME-Tox properties of small molecules.",
+    "author": [
+      {"family": "Bhatia", "given": "Amandeep Singh"},
+      {"family": "Saggi", "given": "Mandeep Kaur"},
+      {"family": "Kais", "given": "Sabre"}
+    ],
+    "issued": {"date-parts": [["2023"]]}
+  },
+  {
+    "id": "kais-2023-03",
+    "type": "article-journal",
+    "title": "Toward perturbation theory methods on a quantum computer",
+    "container-title": "Science Advances",
+    "volume": "9",
+    "page": "eadg4576",
+    "DOI": "10.1126/sciadv.adg4576",
+    "abstract": "Perturbation theory methods implemented on quantum computers.",
+    "author": [
+      {"family": "Li", "given": "Junxu"},
+      {"family": "Jones", "given": "Barbara A."},
+      {"family": "Kais", "given": "Sabre"}
+    ],
+    "issued": {"date-parts": [["2023"]]}
+  },
+  {
+    "id": "kais-2022-01",
+    "type": "article-journal",
+    "title": "Quantum machine learning for chemistry and physics",
+    "container-title": "Chemical Society Reviews",
+    "volume": "51",
+    "page": "6475",
+    "DOI": "10.1039/D2CS00203E",
+    "abstract": "Review of quantum machine learning methods for chemistry and physics applications.",
+    "author": [
+      {"family": "Sajjan", "given": "Manas"},
+      {"family": "Li", "given": "Junxu"},
+      {"family": "Selvarajan", "given": "Raja"},
+      {"family": "Sureshbabu", "given": "Shree Hari"},
+      {"family": "Kale", "given": "Sumit Suresh"},
+      {"family": "Gupta", "given": "Rishabh"},
+      {"family": "Singh", "given": "Vinit"},
+      {"family": "Kais", "given": "Sabre"}
+    ],
+    "issued": {"date-parts": [["2022"]]}
+  }
+]

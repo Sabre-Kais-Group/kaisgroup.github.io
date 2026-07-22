@@ -1,0 +1,33 @@
+# Sabre Kais Group — Jekyll site (research-lab-website template)
+
+title: Sabre Kais Group
+email: skais@ncsu.edu
+description: >-
+  Quantum Information and Quantum Computation research group led by
+  Distinguished Professor Sabre Kais.
+baseurl: "/kais-website"
+url: "https://staimoo_ncstate.github.io"
+
+include:
+  - .htaccess
+  - _pages
+
+sass:
+  sass_dir: _sass
+
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  parse_block_html: true

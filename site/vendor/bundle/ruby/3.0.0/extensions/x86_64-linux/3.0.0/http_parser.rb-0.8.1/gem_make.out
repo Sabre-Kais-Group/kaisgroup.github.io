@@ -1,0 +1,16 @@
+current directory: /home/hpatil2/Desktop/kais-website/site/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20260720-600063-mlryrb.rb extconf.rb
+creating Makefile
+
+current directory: /home/hpatil2/Desktop/kais-website/site/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make DESTDIR\= clean
+
+current directory: /home/hpatil2/Desktop/kais-website/site/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make DESTDIR\=
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/hpatil2/Desktop/kais-website/site/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20260720-600063-2orh86

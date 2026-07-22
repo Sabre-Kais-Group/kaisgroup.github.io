@@ -1,0 +1,38 @@
+<div id="footer" class="panel">
+  <div class="panel-footer">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-4">
+				<p>{{ site.title }}</p>
+				<p>Quantum Information and Quantum Computation</p>
+			</div>
+
+			<div class="col-sm-4">
+				<p>Links</p>
+				<ul class="list-unstyled">
+					<li><a href="https://www.purdue.edu/cqt/">Center for Quantum Technologies</a></li>
+					<li><a href="https://www.chem.purdue.edu/">Purdue Chemistry</a></li>
+					<li><a href="https://github.com/staimoo_ncstate/kais-website">Website repository</a></li>
+				</ul>
+			</div>
+
+			<div class="col-sm-4">
+				<p>Contact</p>
+				<p>
+					Department of Chemistry<br>
+					Purdue University<br>
+					West Lafayette, IN 47907<br>
+					<a href="mailto:{{ site.email }}">{{ site.email }}</a>
+				</p>
+			</div>
+		</div>
+
+		<div class="row mt-3">
+			<p class="text-center">Copyright &copy; {{ 'now' | date: "%Y" }}, Sabre Kais Research Group</p>
+		</div>
+	</div>
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
