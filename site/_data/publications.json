@@ -1,189 +1,2153 @@
 [
   {
-    "id": "kais-2024-01",
-    "type": "article-journal",
-    "title": "Defect-induced localization of information scrambling in 1D Kitaev model",
-    "container-title": "Physica Scripta",
-    "page": "105123",
-    "volume": "99",
-    "DOI": "10.1088/1402-4896/ad7911",
-    "abstract": "Study of defect-induced localization of information scrambling in the 1D Kitaev model.",
-    "author": [
-      {"family": "Muruganandam", "given": "Varadharajan"},
-      {"family": "Sajjan", "given": "Manas"},
-      {"family": "Kais", "given": "Sabre"}
-    ],
-    "issued": {"date-parts": [["2024"]]}
+    "id": "2026-continuous-time-quantum-walk-centrality-for",
+    "title": "Continuous-time quantum-walk centrality for protein residue interaction networks",
+    "authors": "SI Mohtashim, M Sajjan, S Kais",
+    "container": "Journal of the American Chemical Society",
+    "year": 2026,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:I858iXPj1OkC"
   },
   {
-    "id": "kais-2024-02",
-    "type": "article-journal",
-    "title": "Quantum computing and chemistry",
-    "container-title": "Cell Reports Physical Science",
-    "volume": "5",
-    "page": "102105",
-    "DOI": "10.1016/j.xcrp.2024.102105",
-    "abstract": "Perspective on quantum computing applications in chemistry.",
-    "author": [
-      {"family": "Weidman", "given": "Jared D."},
-      {"family": "Sajjan", "given": "Manas"},
-      {"family": "Mikolas", "given": "Camille"},
-      {"family": "Stewart", "given": "Zachary J."},
-      {"family": "Pollanen", "given": "Johannes"},
-      {"family": "Kais", "given": "Sabre"},
-      {"family": "Wilson", "given": "Angela K."}
-    ],
-    "issued": {"date-parts": [["2024"]]}
+    "id": "2026-joseph-s-francisco-a-biographical-sketch",
+    "title": "Joseph S. Francisco: A Biographical Sketch",
+    "authors": "V Vaida, M Lester, J Hansen, S Kais",
+    "container": "The Journal of Physical Chemistry A 130 (24), 4481-4483",
+    "year": 2026,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:J3LtWjKFLicC"
   },
   {
-    "id": "kais-2024-03",
-    "type": "article-journal",
+    "id": "2026-tribute-to-joseph-s-francisco",
+    "title": "Tribute to Joseph S. Francisco",
+    "authors": "V Vaida, M Lester, J Hansen, S Kais",
+    "container": "The Journal of Physical Chemistry A 130 (24), 4479-4480",
+    "year": 2026,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:vnF2_uLGgtgC"
+  },
+  {
+    "id": "2026-emergence-of-a-luttinger-liquid-phase",
+    "title": "Emergence of a Luttinger liquid phase in an array of chiral molecules",
+    "authors": "MA Ali Akbar, B Friedrich, S Kais",
+    "container": "Physical Review Research 8 (2), 023340",
+    "year": 2026,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:PlWzFYVEG4EC"
+  },
+  {
+    "id": "2026-topological-edge-states-from-molecular-chirality",
+    "title": "Topological Edge States from Molecular Chirality: A General Framework for Dimerized Dipolar Arrays",
+    "authors": "MAA Akbar, M Raza, S Kais",
+    "container": "arXiv preprint arXiv:2606.00877",
+    "year": 2026,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:eH23hyXCXa4C"
+  },
+  {
+    "id": "2026-drive-only-interaction-engineering-via-dynamical",
+    "title": "Drive-Only Interaction Engineering via Dynamical Freezing",
+    "authors": "S Xie, J Duan, S Kais",
+    "container": "arXiv preprint arXiv:2605.19114",
+    "year": 2026,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:XDrR66g3YHsC"
+  },
+  {
+    "id": "2026-polynomially-efficient-quantum-enabled-variational-monte",
+    "title": "Polynomially efficient quantum enabled variational Monte Carlo for training neural-network quantum states for physico-chemical applications",
+    "authors": "M Sajjan, V Singh, S Kais",
+    "container": "npj Quantum Information",
+    "year": 2026,
+    "citations": 3,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:yY3RG6sOEgwC"
+  },
+  {
+    "id": "2026-ensemble-engineering-to-overcome-destructive-cancellation",
+    "title": "Ensemble Engineering to Overcome Destructive Cancellation in Quantum Measurements",
+    "authors": "M Kim, M Sajjan, S Kais",
+    "container": "arXiv preprint arXiv:2605.03729",
+    "year": 2026,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Y9VhQm-5nPIC"
+  },
+  {
+    "id": "2026-superdiffusion-resilience-in-heisenberg-chains-with",
+    "title": "Superdiffusion resilience in Heisenberg chains with two-dimensional interactions on a quantum processor",
+    "authors": "K Kumaran, M Sajjan, B Pokharel, K Wang, J Gibbs, J Cohn, B Jones, ...",
+    "container": "Physical Review B 113 (17), 174408",
+    "year": 2026,
+    "citations": 1,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:6ZzL7HXColQC"
+  },
+  {
+    "id": "2026-quantum-machine-learning-for-complex-systems",
+    "title": "Quantum machine learning for complex systems: paradigms, applications, and challenges",
+    "authors": "V Singh, AS Bhatia, MK Saggi, M Sajjan, S Kais",
+    "container": "Academia Quantum 3 (2)",
+    "year": 2026,
+    "citations": 1,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:g8uWPOAv7ggC"
+  },
+  {
+    "id": "2026-quantum-ai-for-cancer-diagnostic-biomarker",
+    "title": "Quantum AI for Cancer Diagnostic Biomarker Discovery",
+    "authors": "MK Saggi, AS Bhatia, H Gowher, S Kais",
+    "container": "arXiv preprint arXiv:2604.18621",
+    "year": 2026,
+    "citations": 1,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:kUhpeDhEZMUC"
+  },
+  {
+    "id": "2026-chiral-discrimination-on-gate-based-quantum",
+    "title": "Chiral discrimination on gate-based quantum computers",
+    "authors": "MA Ali Akbar, S Kais",
+    "container": "The Journal of Chemical Physics 164 (14)",
+    "year": 2026,
+    "citations": 2,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:x21FZCSn4ZoC"
+  },
+  {
+    "id": "2026-out-of-time-order-correlators-bridge",
+    "title": "Out-of-time-order correlators bridge classical transport and quantum dynamics",
+    "authors": "SN Fricke, H Mao, M Sajjan, J Demarteau, BA Helms, A Ajoy, ...",
+    "container": "The Journal of chemical physics 164 (13)",
+    "year": 2026,
+    "citations": 1,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:EaFouW7jFu4C"
+  },
+  {
+    "id": "2026-qflux-an-open-source-toolkit-for",
+    "title": "QFlux: An Open-Source Toolkit for Quantum Dynamics Simulations on Quantum Computers. Part V-Adaptive Variational Quantum Algorithms for Open Quantum Systems",
+    "authors": "AV Soudackov, X Dan, Y Wang, BC Allen, DGA Cabral, Z Hu, N Lyu, ...",
+    "container": "",
+    "year": 2026,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:aDl3D7KC1E4C"
+  },
+  {
+    "id": "2026-quantum-simulation-of-interlayer-charge-ordering",
+    "title": "Quantum simulation of interlayer charge ordering in Kagome frustrated-magnet",
+    "authors": "K Ghosh, S Kais",
+    "container": "arXiv preprint arXiv:2603.27826",
+    "year": 2026,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:KI9T_ytC6pkC"
+  },
+  {
+    "id": "2026-quantum-simulation-of-inelastic-neutron-scattering",
+    "title": "Quantum Simulation of Inelastic Neutron Scattering",
+    "authors": "YT Lee, K Kumaran, BB Pokharel, AO Scheie, C Sarkis, M Sajjan, S Kais, ...",
+    "container": "APS Global Physics Summit 2026",
+    "year": 2026,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:BAanoTsO0WEC"
+  },
+  {
+    "id": "2026-quantum-computing-algorithms-and-applications-for",
+    "title": "Quantum Computing Algorithms and Applications for Coherent and Strongly Correlated Chemical Systems",
+    "authors": "L Huang, S Kais, Y Chen, J Anderson, P Narang, D Mazziotti",
+    "container": "Purdue University",
+    "year": 2026,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:PuOEWVtPfzwC"
+  },
+  {
+    "id": "2026-quantum-reinforcement-learning-for-semantic-ranking",
+    "title": "Quantum Reinforcement Learning for Semantic Ranking of Enzyme Functionality",
+    "authors": "M Isik, S Kais",
+    "container": "APS Global Physics Summit 2026",
+    "year": 2026,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:3A3nxV7CjKIC"
+  },
+  {
+    "id": "2026-pearsan-a-machine-learning-method-for",
+    "title": "Pearsan: a machine learning method for inverse design using pearson correlated surrogate annealing",
+    "authors": "M Bezick, BA Wilson, V Iyer, Y Chen, VM Shalaev, S Kais, AV Kildishev, ...",
+    "container": "Advanced Optical Materials 14 (10), e00249",
+    "year": 2026,
+    "citations": 2,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:2vr6o8x5NLkC"
+  },
+  {
+    "id": "2026-quantum-machine-learning-for-complex-systems-2",
+    "title": "Quantum Machine Learning for Complex Systems",
+    "authors": "V Singh, AS Bhatia, MK Saggi, M Sajjan, S Kais",
+    "container": "arXiv preprint arXiv:2602.20352",
+    "year": 2026,
+    "citations": 1,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ifOnle78iJkC"
+  },
+  {
+    "id": "2026-qflux-quantum-circuit-implementations-of-molecular",
+    "title": "QFlux: Quantum Circuit Implementations of Molecular Dynamics. Part II-Closed Quantum Systems",
+    "authors": "BC Allen, C Cianci, AV Soudackov, X Dan, NP Vu, R Dutta, S Kais, ...",
+    "container": "",
+    "year": 2026,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:TGkaJS32XoUC"
+  },
+  {
+    "id": "2026-quantum-computing-for-electronic-circular-dichroism",
+    "title": "Quantum Computing for Electronic Circular Dichroism Spectrum Prediction of Chiral Molecules",
+    "authors": "AS Bhatia, S Kais",
+    "container": "arXiv preprint arXiv:2602.03710",
+    "year": 2026,
+    "citations": 1,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:wyM6WWKXmoIC"
+  },
+  {
+    "id": "2026-qflux-an-open-source-toolkit-for-2",
+    "title": "QFlux: An Open-Source Toolkit for Quantum Dynamics Simulations on Quantum Computers. Part IV-Dilation Method for Open Quantum Systems",
+    "authors": "X Dan, S Shivpuje, Y Wang, DGA Cabral, BC Allen, P Khazaei, ...",
+    "container": "",
+    "year": 2026,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:rOcdG6UcVlcC"
+  },
+  {
+    "id": "2026-qflux-quantum-circuit-implementations-of-molecular-2",
+    "title": "QFlux: Quantum Circuit Implementations of Molecular Dynamics. Part III-State Initialization and Unitary Decomposition",
+    "authors": "AV Soudackov, DGA Cabral, BC Allen, X Dan, NP Vu, C Cianci, R Dutta, ...",
+    "container": "Yale University, New Haven, CT 06511, USA",
+    "year": 2026,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:xGWFX6Gbr9MC"
+  },
+  {
+    "id": "2026-qflux-an-open-source-toolkit-for-3",
+    "title": "QFlux: An Open-Source Toolkit for Quantum Dynamics Simulations on Quantum Computers. Part VI-The Generalized Quantum Master Equation",
+    "authors": "P Khazaei, BC Allen, N Lyu, C Wilson, E Mulvihill, Y Wang, S Shivpuje, ...",
+    "container": "",
+    "year": 2026,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:YPNY0knpFBYC"
+  },
+  {
+    "id": "2026-qflux-classical-foundations-for-quantum-dynamics",
+    "title": "QFlux: Classical Foundations for Quantum Dynamics Simulation. Part I-Building Intuition and Computational Workflows",
+    "authors": "BC Allen, X Dan, DGA Cabral, NP Vu, C Cianci, AV Soudackov, R Dutta, ...",
+    "container": "",
+    "year": 2026,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:3_LpOwP6eMYC"
+  },
+  {
+    "id": "2026-digital-quantum-simulation-of-wavepacket-correlations",
+    "title": "Digital Quantum Simulation of Wavepacket Correlations in a Chemical Reaction",
+    "authors": "SI Mohtashim, S Kais",
+    "container": "Entropy 28 (2), 144",
+    "year": 2026,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:TesyEGJKHF4C"
+  },
+  {
+    "id": "2026-introduction-quantum-computing",
+    "title": "Introduction: Quantum Computing",
+    "authors": "P Narang, S Kais, A Aspuru-Guzik, VS Batista",
+    "container": "Chemical Reviews 126 (1), 1-3",
+    "year": 2026,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:bVQMTfhMCi4C"
+  },
+  {
+    "id": "2026-multi-omic-and-quantum-machine-learning",
+    "title": "Multi-Omic and quantum machine learning integration for lung subtypes classification",
+    "authors": "MK Saggi, AS Bhatia, IK Mensah, H Gowher, S Kais",
+    "container": "Future Generation Computer Systems 174, 107905",
+    "year": 2026,
+    "citations": 28,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ijdKiLOsEJMC"
+  },
+  {
+    "id": "2025-quantum-smell-tunneling-mechanisms-in-olfaction",
+    "title": "Quantum smell: tunneling mechanisms in olfaction",
+    "authors": "D Szcz\u0229\u015bniak, EA Drzazga-Szcz\u0229\u015bniak, AZ Kaczmarek, S Kais",
+    "container": "Molecules 30 (24), 4663",
+    "year": 2025,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:DXE8ND7PrJAC"
+  },
+  {
+    "id": "2025-strong-local-passivity-in-unconventional-scenarios",
+    "title": "Strong Local Passivity in Unconventional Scenarios: A New Protocol for Amplified Quantum Energy Teleportation",
+    "authors": "S Xie, M Sajjan, S Kais",
+    "container": "Entropy 27 (11), 1147",
+    "year": 2025,
+    "citations": 2,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:RMgMIBzvq-4C"
+  },
+  {
+    "id": "2025-multimodal-quantum-vision-transformer-for-enzyme",
+    "title": "Multimodal Quantum Vision Transformer for Enzyme Commission Classification from Biochemical Representations",
+    "authors": "M Isik, MK Saggi, H Gowher, S Kais",
+    "container": "2025 IEEE International Conference on Quantum Artificial Intelligence (QAI\u00a0\u2026",
+    "year": 2025,
+    "citations": 2,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:QoJ_w57xiyAC"
+  },
+  {
+    "id": "2025-machine-learning-assisted-surrogate-annealing-for",
+    "title": "Machine-learning assisted surrogate annealing for photonic device inverse design",
+    "authors": "V Iyer, M Bezick, BA Wilson, Y Chen, VM Shalaev, S Kais, AV Kildishev, ...",
+    "container": "Photonic Computing: From Materials and Devices to Systems and Applications\u00a0\u2026",
+    "year": 2025,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:cBPnxVikjH8C"
+  },
+  {
+    "id": "2025-quantum-integration-of-spiking-leaky-integrate",
+    "title": "Quantum Integration of Spiking Leaky Integrate-and-Fire Neurons and Variational Circuits for Enhanced Multiclass Classification",
+    "authors": "MK Saggi, AS Bhatia, S Kais",
+    "container": "2025 IEEE International Conference on Quantum Computing and Engineering (QCE\u00a0\u2026",
+    "year": 2025,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:I8rxH6phXEkC"
+  },
+  {
+    "id": "2025-enhancing-quantum-federated-learning-with-fisher",
+    "title": "Enhancing Quantum Federated Learning with Fisher Information-Based Optimization",
+    "authors": "AS Bhatia, S Kais",
+    "container": "2025 IEEE International Conference on Quantum Computing and Engineering (QCE\u00a0\u2026",
+    "year": 2025,
+    "citations": 3,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:KS-xo-ZNxMsC"
+  },
+  {
+    "id": "2025-a-deep-dive-into-the-interplay",
+    "title": "A deep dive into the interplay of structured quantum peaked circuits and infinite temperature correlation functions",
+    "authors": "M Kim, M Sajjan, S Kais",
+    "container": "2025 IEEE International Conference on Quantum Computing and Engineering (QCE\u00a0\u2026",
+    "year": 2025,
+    "citations": 1,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:M0leSnx2MbUC"
+  },
+  {
+    "id": "2025-roadblocks-and-opportunities-in-quantum-algorithms",
+    "title": "Roadblocks and Opportunities in Quantum Algorithms--Insights from the National Quantum Initiative Joint Algorithms Workshop, May 20--22, 2024",
+    "authors": "E Kapit, P Love, J Larson, A Sornborger, E Crane, A Schuckert, T Tomesh, ...",
+    "container": "arXiv preprint arXiv:2508.13973",
+    "year": 2025,
+    "citations": 1,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:6VlyvFCUEfcC"
+  },
+  {
+    "id": "2025-spectral-bounds-on-entropy-and-ergotropy",
+    "title": "Spectral bounds on entropy and ergotropy via statistical effective temperature in classical polarization and quantum thermal states",
+    "authors": "T Aziz, ML Song, L Ye, D Wang, JJ Gil, S Kais",
+    "container": "Physical Review Research 7 (3), 033117",
+    "year": 2025,
+    "citations": 7,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:7Frjd3zlGBUC"
+  },
+  {
+    "id": "2025-generalized-multipartite-entropic-uncertainty-relations-theory",
+    "title": "Generalized multipartite entropic uncertainty relations: theory and experiment",
+    "authors": "S Kais",
+    "container": "arXiv (Cornell University)",
+    "year": 2025,
+    "citations": 2,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ghEM2AJqZyQC"
+  },
+  {
+    "id": "2025-classical-analog-of-entanglement-for-a",
+    "title": "Classical analog of entanglement for a kicked top",
+    "authors": "B Khalid, S Kais",
+    "container": "Physical Review A 112 (1), 012201",
+    "year": 2025,
+    "citations": 3,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:sJPMR1oEGYQC"
+  },
+  {
+    "id": "2025-the-qubit-information-logic-theory-for",
+    "title": "The Qubit Information Logic Theory for Understanding Multi\u2010Qubit Entanglement and Designing Exotic Entangled States",
+    "authors": "Z Hu, S Kais",
+    "container": "Annalen der Physik 537 (7), 2500176",
+    "year": 2025,
+    "citations": 1,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:oPLKW5k6eA4C"
+  },
+  {
+    "id": "2025-modulator-assisted-local-control-of-quantum",
+    "title": "Modulator-Assisted Local Control of Quantum Battery via Zeno Effect",
+    "authors": "S Xie, M Sajjan, A Ajoy, S Kais",
+    "container": "arXiv preprint arXiv:2506.18276",
+    "year": 2025,
+    "citations": 2,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Vr2j17o0sqMC"
+  },
+  {
+    "id": "2025-entanglement-entropy-as-a-potential-measure",
+    "title": "Entanglement entropy as a potential measure for non-adiabatic coupling",
+    "authors": "VS Makhija, R Gupta, S Kais",
+    "container": "56th Annual Meeting of the APS Division of Atomic, Molecular and Optical Physics",
+    "year": 2025,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:L24QuVWYgZ0C"
+  },
+  {
+    "id": "2025-maximal-entropy-formalism-and-the-restricted",
+    "title": "Maximal entropy formalism and the restricted boltzmann machine",
+    "authors": "V Singh, R Gupta, M Sajjan, F Remacle, RD Levine, S Kais",
+    "container": "The Journal of Physical Chemistry A 129 (24), 5405-5414",
+    "year": 2025,
+    "citations": 5,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:hNSvKAmkeYkC"
+  },
+  {
+    "id": "2025-application-of-quantum-inspired-tensor-networks",
+    "title": "Application of quantum-inspired tensor networks to optimize federated learning systems",
+    "authors": "AS Bhatia, MK Saggi, S Kais",
+    "container": "Quantum Machine Intelligence 7 (1), 12",
+    "year": 2025,
+    "citations": 14,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:m92CDrhVnKEC"
+  },
+  {
+    "id": "2025-photonic-inverse-design-through-machine-learning",
+    "title": "Photonic Inverse Design Through Machine Learning and Correlated Surrogate Annealing",
+    "authors": "M Bezick, BA Wilson, V Iyer, Y Chen, VM Shalaev, S Kais, AV Kildishev, ...",
+    "container": "2025 Conference on Lasers and Electro-Optics (CLEO), 1-2",
+    "year": 2025,
+    "citations": 2,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:rCNdntzdTkkC"
+  },
+  {
+    "id": "2025-open-quantum-system-simulation-through-exploiting",
+    "title": "Open-quantum-system simulation through exploiting noise on quantum computers",
+    "authors": "M Rose, S Kais, DA Mazziotti",
+    "container": "Physical Review A 111 (5), 052612",
+    "year": 2025,
+    "citations": 4,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ymY9cBF3mdcC"
+  },
+  {
+    "id": "2025-entropy-assisted-quality-pattern-identification-in",
+    "title": "Entropy-Assisted Quality Pattern Identification in Finance",
+    "authors": "R Gupta, S Gupta, J Singh, S Kais",
+    "container": "Entropy 27 (4), 430",
+    "year": 2025,
+    "citations": 1,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:nPTYJWkExTIC"
+  },
+  {
+    "id": "2025-teleporting-extracting-and-storing-energy-from",
+    "title": "Teleporting, Extracting, and Storing Energy From a Quasi-Vacuum on a Quantum Computer",
+    "authors": "S Xie, M Sajjan, S Kais",
+    "container": "APS Global Physics Summit 2025",
+    "year": 2025,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Y0-TYkg6YM4C"
+  },
+  {
+    "id": "2025-pearsan-an-inverse-design-framework-for",
+    "title": "PearSAN: an inverse design framework for the latent optimization of photonic devices using Pearson Correlated Surrogate Annealing",
+    "authors": "M Bezick, BA Wilson, V Iyer, Y Chen, VM Shalaev, S Kais, AV Kildishev, ...",
+    "container": "APS Global Physics Summit 2025",
+    "year": 2025,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:9NZAP19TdFAC"
+  },
+  {
+    "id": "2025-quantum-simulation-of-infinite-temperature-spin",
+    "title": "Quantum simulation of infinite temperature spin transport in Heisenberg-like models",
+    "authors": "K Kumaran, M Sajjan, NM Eassa, BB Pokharel, J Gibbs, S Kais, ...",
+    "container": "APS Global Physics Summit 2025",
+    "year": 2025,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:7H_jS4BsgvYC"
+  },
+  {
+    "id": "2025-superdiffusion-resilience-in-heisenberg-chains-with",
+    "title": "Superdiffusion resilience in Heisenberg Chains with 2D interactions on a quantum processor",
+    "authors": "K Kumaran, M Sajjan, B Pokharel, K Wang, J Gibbs, J Cohn, B Jones, ...",
+    "container": "arXiv preprint arXiv:2503.14371",
+    "year": 2025,
+    "citations": 1,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:aEW5N-EHWIMC"
+  },
+  {
+    "id": "2025-efficient-quantum-enabled-monte-carlo-sampling",
+    "title": "Efficient Quantum-enabled Monte Carlo sampling for training neural network quantum states",
+    "authors": "M Sajjan, VK Singh, S Kais",
+    "container": "APS Global Physics Summit 2025",
+    "year": 2025,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:tz746QTLzJkC"
+  },
+  {
+    "id": "2025-quantum-simulation-of-superdiffusion-breakdown-in",
+    "title": "Quantum simulation of superdiffusion breakdown in heisenberg chains via 2d interactions",
+    "authors": "K Kumaran, M Sajjan, B Pokharel, J Gibbs, J Cohn, B Jones, S Mostame, ...",
+    "container": "arXiv e-prints, arXiv: 2503.14371",
+    "year": 2025,
+    "citations": 2,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:n3vGvpFsckwC"
+  },
+  {
+    "id": "2025-refined-phase-diagram-for-a-spin",
+    "title": "Refined phase diagram for a spin-1 system exhibiting a Haldane phase",
+    "authors": "M Mousa, B Wehefritz-Kaufmann, S Kais, S Cui, R Kaufmann",
+    "container": "Physical Review B 111 (8), 085303",
+    "year": 2025,
+    "citations": 4,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:c_xDhezhKKUC"
+  },
+  {
+    "id": "2025-quantum-algorithms-and-applications-for-open",
+    "title": "Quantum algorithms and applications for open quantum systems",
+    "authors": "LH Delgado-Granados, TJ Krogmeier, LAM Sager-Smith, I Avdic, Z Hu, ...",
+    "container": "Chemical Reviews 125 (4), 1823-1839",
+    "year": 2025,
+    "citations": 66,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:37UQlXuwjP4C"
+  },
+  {
+    "id": "2025-quantum-energy-teleportation-a-novel-protocol",
+    "title": "Quantum energy teleportation: A novel protocol relaxing previous constraints",
+    "authors": "S Xie, M Sajjan, S Kais",
+    "container": "arXiv e-prints, arXiv: 2502.05288",
+    "year": 2025,
+    "citations": 1,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:iyewoVqAXLQC"
+  },
+  {
+    "id": "2025-designing-variational-ansatz-for-quantum-enabled",
+    "title": "Designing Variational Ansatz for Quantum\u2010Enabled Simulation of Non\u2010Unitary Dynamical Evolution\u2010An Excursion into Dicke Supperradiance",
+    "authors": "S Shivpuje, M Sajjan, Y Wang, Z Hu, S Kais",
+    "container": "Advanced Quantum Technologies 8 (2), 2400088",
+    "year": 2025,
+    "citations": 7,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:s85pQhAUCrAC"
+  },
+  {
+    "id": "2024-experimental-test-of-generalized-multipartite-entropic",
+    "title": "Experimental test of generalized multipartite entropic uncertainty relations",
+    "authors": "ZA Wang, BF Xie, F Ming, YT Wang, D Wang, Y Meng, ZH Liu, K Xu, ...",
+    "container": "Physical Review A 110 (6), 062220",
+    "year": 2024,
+    "citations": 19,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:AZju0d2GQJ0C"
+  },
+  {
+    "id": "2024-psitrum-an-open-source-simulator-for",
     "title": "Psitrum: An open source simulator for universal quantum computers",
-    "container-title": "IET Quantum Communication",
-    "DOI": "10.1049/qtc2.12101",
-    "abstract": "Open-source simulator for universal quantum computers.",
-    "author": [
-      {"family": "Alghadeer", "given": "Mohammed"},
-      {"family": "Aldawsari", "given": "Eid"},
-      {"family": "Selvarajan", "given": "Raja"},
-      {"family": "Alutaibi", "given": "Khaled"},
-      {"family": "Kais", "given": "Sabre"},
-      {"family": "Alharbi", "given": "Fahhad H."}
-    ],
-    "issued": {"date-parts": [["2024"]]}
+    "authors": "M Alghadeer, E Aldawsari, R Selvarajan, K Alutaibi, S Kais, FH Alharbi",
+    "container": "IET Quantum Communication 5 (4), 586-600",
+    "year": 2024,
+    "citations": 7,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:aIdbFUkbNIkC"
   },
   {
-    "id": "kais-2024-04",
-    "type": "article-journal",
-    "title": "Designing Variational Ansatz for Quantum-Enabled Simulation of Non-Unitary Dynamical Evolution - An Excursion into Dicke Superradiance",
-    "container-title": "Advanced Quantum Technologies",
-    "page": "2400088",
-    "DOI": "10.1002/qute.202400088",
-    "abstract": "Variational ansatz design for simulating non-unitary dynamical evolution, demonstrated on Dicke superradiance.",
-    "author": [
-      {"family": "Shivpuje", "given": "Saurabh"},
-      {"family": "Sajjan", "given": "Manas"},
-      {"family": "Wang", "given": "Yuchen"},
-      {"family": "Hu", "given": "Zixuan"},
-      {"family": "Kais", "given": "Sabre"}
-    ],
-    "issued": {"date-parts": [["2024"]]}
+    "id": "2024-entropy-corrected-geometric-brownian-motion",
+    "title": "Entropy corrected geometric Brownian motion",
+    "authors": "R Gupta, EA Drzazga-Szcz\u0229\u015bniak, S Kais, D Szcz\u0229\u015bniak",
+    "container": "Scientific Reports 14 (1), 28384",
+    "year": 2024,
+    "citations": 13,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:_AeoHAGD03cC"
   },
   {
-    "id": "kais-2024-05",
-    "type": "article-journal",
-    "title": "Simulation of Chemical Reactions on a Quantum Computer",
-    "container-title": "Journal of Physical Chemistry Letters",
-    "volume": "15",
-    "page": "5633-5642",
-    "DOI": "10.1021/acs.jpclett.4c01100",
-    "abstract": "Approaches for simulating chemical reactions on quantum computers.",
-    "author": [
-      {"family": "Kale", "given": "Sumit Suresh"},
-      {"family": "Kais", "given": "Sabre"}
-    ],
-    "issued": {"date-parts": [["2024"]]}
+    "id": "2024-communication-efficient-quantum-federated-learning-optimization",
+    "title": "Communication-efficient quantum federated learning optimization for multi-center healthcare data",
+    "authors": "AS Bhatia, MK Saggi, S Kais",
+    "container": "2024 IEEE EMBS International Conference on Biomedical and Health Informatics\u00a0\u2026",
+    "year": 2024,
+    "citations": 16,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:OzeSX8-yOCQC"
   },
   {
-    "id": "kais-2024-06",
-    "type": "article-journal",
-    "title": "Walking with the Atoms in a Chemical Bond: A Perspective Using Quantum Phase Transition",
-    "container-title": "Entropy",
-    "volume": "26",
-    "page": "230",
-    "DOI": "10.3390/e26030230",
-    "abstract": "Perspective connecting chemical bonding to quantum phase transitions.",
-    "author": [
-      {"family": "Kais", "given": "Sabre"}
-    ],
-    "issued": {"date-parts": [["2024"]]}
+    "id": "2024-statistical-virtual-temperature-of-classical-and",
+    "title": "Statistical Virtual Temperature of Classical and Quantum Systems",
+    "authors": "T Aziz, ML Song, L Ye, D Wang, JJ Gil, S Kais",
+    "container": "arXiv e-prints, arXiv: 2410.01286",
+    "year": 2024,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:wLxue7F8ec0C"
   },
   {
-    "id": "kais-2024-07",
-    "type": "article-journal",
+    "id": "2024-defect-induced-localization-of-information-scrambling",
+    "title": "Defect-induced localization of information scrambling in 1D Kitaev model",
+    "authors": "V Muruganandam, M Sajjan, S Kais",
+    "container": "Physica Scripta 99 (10), 105123",
+    "year": 2024,
+    "citations": 4,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:QVtou7C4vgoC"
+  },
+  {
+    "id": "2024-quantum-computing-and-chemistry",
+    "title": "Quantum computing and chemistry",
+    "authors": "JD Weidman, M Sajjan, C Mikolas, ZJ Stewart, J Pollanen, S Kais, ...",
+    "container": "Cell Reports Physical Science 5 (9)",
+    "year": 2024,
+    "citations": 63,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:pQTOvowfQioC"
+  },
+  {
+    "id": "2024-on-the-robustness-of-variational-quantum",
+    "title": "On the robustness of variational quantum classifier against \u201clabel flipping attacks\u201d in federated learning for semiconductor manufacturing",
+    "authors": "AS Bhatia, S Kais, MA Alam",
+    "container": "2024 IEEE International Conference on Quantum Computing and Engineering (QCE\u00a0\u2026",
+    "year": 2024,
+    "citations": 4,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:m4fbC6XIj1kC"
+  },
+  {
+    "id": "2024-mqml-multi-omic-quantum-machine-learning",
+    "title": "Mqml: Multi-omic quantum machine learning based cancer classification, biomarker identification in human lung adenocarcinoma",
+    "authors": "MK Saggi, S Kais",
+    "container": "2024 IEEE International Conference on Quantum Computing and Engineering (QCE\u00a0\u2026",
+    "year": 2024,
+    "citations": 8,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:eI34FqJmdUoC"
+  },
+  {
+    "id": "2024-time-resolved-quantum-tomography-in-molecular",
+    "title": "Time resolved quantum tomography in molecular spectroscopy by the maximal entropy approach",
+    "authors": "V Makhija, R Gupta, S Neville, M Schuurman, J Francisco, S Kais",
+    "container": "The Journal of Physical Chemistry Letters 15 (37), 9525-9534",
+    "year": 2024,
+    "citations": 7,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:jmjb1lOE9QIC"
+  },
+  {
+    "id": "2024-extracting-and-storing-energy-from-a",
+    "title": "Extracting and storing energy from a quasi-vacuum on a quantum computer",
+    "authors": "S Xie, M Sajjan, S Kais",
+    "container": "arXiv preprint arXiv:2409.03973",
+    "year": 2024,
+    "citations": 2,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:JWITY9-sCbMC"
+  },
+  {
+    "id": "2024-simulating-chemistry-on-bosonic-quantum-devices",
+    "title": "Simulating chemistry on bosonic quantum devices",
+    "authors": "R Dutta, DGA Cabral, N Lyu, NP Vu, Y Wang, B Allen, X Dan, RG Corti\u00f1as, ...",
+    "container": "Journal of Chemical Theory and Computation 20 (15), 6426-6441",
+    "year": 2024,
+    "citations": 48,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:X0DADzN9RKwC"
+  },
+  {
+    "id": "2024-non-native-quantum-generative-optimization-with",
+    "title": "Non-native quantum generative optimization with adversarial autoencoders",
+    "authors": "BA Wilson, J Wurtz, V Mkhitaryan, M Bezick, ST Wang, S Kais, ...",
+    "container": "arXiv preprint arXiv:2407.13830",
+    "year": 2024,
+    "citations": 8,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:c59VksA5Vz4C"
+  },
+  {
+    "id": "2024-rf-control-of-an-ultracold-photochemical",
+    "title": "Rf-Control of an Ultracold Photochemical Reaction via Quantum Interference",
+    "authors": "F Martinez, CH Li, SS Kale, SW Feng, Y Chen, S Kais",
+    "container": "APS Division of Atomic, Molecular and Optical Physics Meeting Abstracts 2024\u00a0\u2026",
+    "year": 2024,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:wUn16MOA3RoC"
+  },
+  {
+    "id": "2024-imagaing-ultrafast-molecular-dynamics-wirh-quantum",
+    "title": "Imagaing Ultrafast Molecular Dynamics wirh Quantum Tomography",
+    "authors": "V Makhija, S Kais, R Gupta",
+    "container": "APS Division of Atomic, Molecular and Optical Physics Meeting Abstracts 2024\u00a0\u2026",
+    "year": 2024,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:jtI9f0ekYq0C"
+  },
+  {
+    "id": "2024-simulation-of-chemical-reactions-on-a",
+    "title": "Simulation of chemical reactions on a quantum computer",
+    "authors": "SS Kale, S Kais",
+    "container": "The Journal of Physical Chemistry Letters 15 (21), 5633-5642",
+    "year": 2024,
+    "citations": 19,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:hQUaER0FWQ4C"
+  },
+  {
+    "id": "2024-robustness-of-quantum-federated-learning-qfl",
+    "title": "Robustness of quantum federated learning (qfl) against \u201clabel flipping attacks\u201d for lithography hotspot detection in semiconductor manufacturing",
+    "authors": "AS Bhatia, S Kais, MA Alam",
+    "container": "2024 IEEE international reliability physics symposium (IRPS), 1-4",
+    "year": 2024,
+    "citations": 11,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:z8nqeaKD1nsC"
+  },
+  {
+    "id": "2024-walking-with-the-atoms-in-a",
+    "title": "Walking with the atoms in a chemical bond: A perspective using quantum phase transition",
+    "authors": "S Kais",
+    "container": "Entropy 26 (3), 230",
+    "year": 2024,
+    "citations": 1,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:2ywjKiB__4kC"
+  },
+  {
+    "id": "2024-information-localization-in-defective-spin-chain",
+    "title": "Information localization in defective spin-chain",
+    "authors": "V Muruganandam, M Sajjan, S Kais",
+    "container": "APS March Meeting Abstracts 2024, OD01. 069",
+    "year": 2024,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ji7lAbPyDbYC"
+  },
+  {
+    "id": "2024-sampling-based-quantum-training-of-arbitrary",
+    "title": "Sampling based quantum training of arbitrary spin-graphs",
+    "authors": "M Sajjan, V Singh, S Kais",
+    "container": "APS March Meeting Abstracts 2024, N49. 009",
+    "year": 2024,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:t-hv7AR41mYC"
+  },
+  {
+    "id": "2024-scheduled-maintenance-close-the-message-box",
+    "title": "SCHEDULED MAINTENANCE Close the message box",
+    "authors": "A Anand, S Kompalli, E Ajiboye, AA Presto",
+    "container": "",
+    "year": 2024,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:yeL6HyUMUGUC"
+  },
+  {
+    "id": "2024-information-bottleneck-of-quantum-neural-networks",
+    "title": "Information Bottleneck of Quantum Neural Networks",
+    "authors": "J Wang, M Kim, S Kais",
+    "container": "NeurIPS 2024 Workshop Machine Learning with new Compute Paradigms",
+    "year": 2024,
+    "citations": 2,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Og1tA8FjbJAC"
+  },
+  {
+    "id": "2024-federated-quantum-machine-learning-for-drug",
+    "title": "Federated quantum machine learning for drug discovery and healthcare",
+    "authors": "MK Saggi, AS Bhatia, S Kais",
+    "container": "Annual Reports in Computational Chemistry 20, 269-322",
+    "year": 2024,
+    "citations": 13,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:BOlwja0KXvYC"
+  },
+  {
+    "id": "2024-random-projection-using-random-quantum-circuits",
     "title": "Random projection using random quantum circuits",
-    "container-title": "Physical Review Research",
-    "volume": "6",
-    "page": "013010",
-    "DOI": "10.1103/PhysRevResearch.6.013010",
-    "abstract": "Random projection methods using random quantum circuits.",
-    "author": [
-      {"family": "Kumaran", "given": "Keerthi"},
-      {"family": "Sajjan", "given": "Manas"},
-      {"family": "Oh", "given": "Sangchul"},
-      {"family": "Kais", "given": "Sabre"}
-    ],
-    "issued": {"date-parts": [["2024"]]}
+    "authors": "K Kumaran, M Sajjan, S Oh, S Kais",
+    "container": "Physical Review Research 6 (1), 013010",
+    "year": 2024,
+    "citations": 8,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:RtRctb2lSbAC"
   },
   {
-    "id": "kais-2023-01",
-    "type": "article-journal",
-    "title": "Physics-Inspired Quantum Simulation of Resonating Valence Bond States - A Prototypical Template for a Spin-Liquid Ground State",
-    "container-title": "Journal of Physical Chemistry A",
-    "volume": "127",
-    "issue": "41",
-    "page": "8751-8764",
-    "DOI": "10.1021/acs.jpca.3c05172",
-    "abstract": "Quantum simulation of RVB / spin-liquid ground states on near-term devices.",
-    "author": [
-      {"family": "Sajjan", "given": "Manas"},
-      {"family": "Gupta", "given": "Rishabh"},
-      {"family": "Kale", "given": "Sumit Suresh"},
-      {"family": "Singh", "given": "Vinit"},
-      {"family": "Kumaran", "given": "Keerthi"},
-      {"family": "Kais", "given": "Sabre"}
-    ],
-    "issued": {"date-parts": [["2023"]]}
+    "id": "2023-defect-induced-localization-of-information-in",
+    "title": "Defect-induced localization of information in 1D Kitaev model",
+    "authors": "V Muruganandam, M Sajjan, S Kais",
+    "container": "arXiv preprint arXiv:2312.11765",
+    "year": 2023,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:BmWJbWwHJAwC"
   },
   {
-    "id": "kais-2023-02",
-    "type": "article-journal",
-    "title": "Quantum Machine Learning Predicting ADME-Tox Properties in Drug Discovery",
-    "container-title": "Journal of Chemical Information and Modeling",
-    "DOI": "10.1021/acs.jcim.3c01079",
-    "abstract": "Quantum machine learning framework for predicting ADME-Tox properties of small molecules.",
-    "author": [
-      {"family": "Bhatia", "given": "Amandeep Singh"},
-      {"family": "Saggi", "given": "Mandeep Kaur"},
-      {"family": "Kais", "given": "Sabre"}
-    ],
-    "issued": {"date-parts": [["2023"]]}
+    "id": "2023-dimensionality-reduction-with-variational-encoders-based",
+    "title": "Dimensionality reduction with variational encoders based on subsystem purification",
+    "authors": "R Selvarajan, M Sajjan, TS Humble, S Kais",
+    "container": "Mathematics 11 (22), 4678",
+    "year": 2023,
+    "citations": 11,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:AYInfyleIOsC"
   },
   {
-    "id": "kais-2023-03",
-    "type": "article-journal",
+    "id": "2023-physics-inspired-quantum-simulation-of-resonating",
+    "title": "Physics-Inspired Quantum Simulation of Resonating Valence Bond States\u2500 A Prototypical Template for a Spin-Liquid Ground State",
+    "authors": "M Sajjan, R Gupta, SS Kale, V Singh, K Kumaran, S Kais",
+    "container": "The Journal of Physical Chemistry A 127 (41), 8751-8764",
+    "year": 2023,
+    "citations": 5,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:G1UMdFYMoxkC"
+  },
+  {
+    "id": "2023-federated-quanvolutional-neural-network-a-new",
+    "title": "Federated quanvolutional neural network: a new paradigm for collaborative quantum learning",
+    "authors": "AS Bhatia, S Kais, MA Alam",
+    "container": "Quantum Science and Technology 8 (4), 045032",
+    "year": 2023,
+    "citations": 47,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:BJrgspguQaEC"
+  },
+  {
+    "id": "2023-foray-into-the-topology-of-poly",
+    "title": "Foray into the topology of poly\u2010bi\u2010[8]\u2010annulenylene",
+    "authors": "V Muruganandam, M Sajjan, S Kais",
+    "container": "Natural Sciences 3 (4), e20230015",
+    "year": 2023,
+    "citations": 3,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:NMlhSUseqAsC"
+  },
+  {
+    "id": "2023-mapping-molecular-hamiltonians-into-hamiltonians-of",
+    "title": "Mapping molecular hamiltonians into hamiltonians of modular cqed processors",
+    "authors": "N Lyu, A Miano, I Tsioutsios, RG Corti\u00f1as, K Jung, Y Wang, Z Hu, E Geva, ...",
+    "container": "Journal of Chemical Theory and Computation 19 (19), 6564-6576",
+    "year": 2023,
+    "citations": 12,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:8dzOF9BpDQoC"
+  },
+  {
+    "id": "2023-cutoff-phenomenon-and-entropic-uncertainty-for",
+    "title": "Cutoff phenomenon and entropic uncertainty for random quantum circuits",
+    "authors": "S Oh, S Kais",
+    "container": "Electronic Structure 5 (3), 035004",
+    "year": 2023,
+    "citations": 5,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:-uzm3Y7AvW0C"
+  },
+  {
+    "id": "2023-quantum-machine-learning-predicting-adme-tox",
+    "title": "Quantum machine learning predicting ADME-Tox properties in drug discovery",
+    "authors": "AS Bhatia, MK Saggi, S Kais",
+    "container": "Journal of Chemical Information and Modeling 63 (21), 6476-6486",
+    "year": 2023,
+    "citations": 79,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:mel-f30kHHgC"
+  },
+  {
+    "id": "2023-m-o-ller-plesset-perturbation-theory",
+    "title": "M {\\o} ller-Plesset Perturbation Theory Calculations on Quantum Devices",
+    "authors": "J Li, X Gao, M Sajjan, JH Su, ZK Li, S Kais",
+    "container": "arXiv preprint arXiv:2308.01559",
+    "year": 2023,
+    "citations": 4,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:hvmnpdAuIbkC"
+  },
+  {
+    "id": "2023-dormant-entanglement-that-can-be-activated",
+    "title": "Dormant entanglement that can be activated or destroyed by the basis choice of measurements on an external system",
+    "authors": "Z Hu, S Kais",
+    "container": "arXiv preprint arXiv:2306.05517",
+    "year": 2023,
+    "citations": 2,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Zh0EY9V9P6UC"
+  },
+  {
+    "id": "2023-simulating-open-quantum-system-dynamics-on",
+    "title": "Simulating open quantum system dynamics on NISQ computers with generalized quantum master equations",
+    "authors": "Y Wang, E Mulvihill, Z Hu, N Lyu, S Shivpuje, Y Liu, MB Soley, E Geva, ...",
+    "container": "Journal of Chemical Theory and Computation 19 (15), 4851-4862",
+    "year": 2023,
+    "citations": 68,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:KWzIFqRkAKkC"
+  },
+  {
+    "id": "2023-photonic-realization-of-qudit-quantum-computing",
+    "title": "Photonic realization of qudit quantum computing",
+    "authors": "Y Wang, Z Hu, S Kais",
+    "container": "Photonic Quantum Technologies: Science and Applications 2, 651-674",
+    "year": 2023,
+    "citations": 8,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ZqE1mSdD_DYC"
+  },
+  {
+    "id": "2023-quantum-federated-learning-in-healthcare-the",
+    "title": "Quantum federated learning in healthcare: The shift from development to deployment and from models to data",
+    "authors": "S Kais, A Bhatia, M Alam",
+    "container": "",
+    "year": 2023,
+    "citations": 20,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:JP7YXuLIOvAC"
+  },
+  {
+    "id": "2023-toward-perturbation-theory-methods-on-a",
     "title": "Toward perturbation theory methods on a quantum computer",
-    "container-title": "Science Advances",
-    "volume": "9",
-    "page": "eadg4576",
-    "DOI": "10.1126/sciadv.adg4576",
-    "abstract": "Perturbation theory methods implemented on quantum computers.",
-    "author": [
-      {"family": "Li", "given": "Junxu"},
-      {"family": "Jones", "given": "Barbara A."},
-      {"family": "Kais", "given": "Sabre"}
-    ],
-    "issued": {"date-parts": [["2023"]]}
+    "authors": "J Li, BA Jones, S Kais",
+    "container": "Science Advances 9 (19), eadg4576",
+    "year": 2023,
+    "citations": 22,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:eGYfIraVYiQC"
   },
   {
-    "id": "kais-2022-01",
-    "type": "article-journal",
+    "id": "2023-supplementary-information-simulating-open-quantum-system",
+    "title": "Supplementary Information: Simulating Open Quantum System Dynamics on NISQ Computers with Generalized Quantum Master Equations",
+    "authors": "Y Wang, E Mulvihill, Z Hu, N Lyu, S Shivpuje, Y Liu, MB Soley, E Geva, ...",
+    "container": "",
+    "year": 2023,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:4aZ_i-5WJEQC"
+  },
+  {
+    "id": "2023-analogy-between-boltzmann-machines-and-feynman",
+    "title": "Analogy between Boltzmann machines and Feynman path integrals",
+    "authors": "SS Iyengar, S Kais",
+    "container": "Journal of Chemical Theory and Computation 19 (9), 2446-2454",
+    "year": 2023,
+    "citations": 5,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:__bU50VfleQC"
+  },
+  {
+    "id": "2023-measurement-induced-nonlocality-for-observers-near",
+    "title": "Measurement-induced nonlocality for observers near a black hole",
+    "authors": "AZ Kaczmarek, D Szcz\u0229\u015bniak, S Kais",
+    "container": "Universe 9 (4), 199",
+    "year": 2023,
+    "citations": 4,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:H_jBuBxbQIAC"
+  },
+  {
+    "id": "2023-the-unitary-dependence-theory-for-characterizing",
+    "title": "The unitary dependence theory for characterizing quantum circuits and states",
+    "authors": "Z Hu, S Kais",
+    "container": "Communications Physics 6 (1), 68",
+    "year": 2023,
+    "citations": 4,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:CNPyR2KL9-0C"
+  },
+  {
+    "id": "2023-characterizing-quantum-circuits-with-qubit-functional",
+    "title": "Characterizing quantum circuits with qubit functional configurations",
+    "authors": "Z Hu, S Kais",
+    "container": "Scientific Reports 13 (1), 5539",
+    "year": 2023,
+    "citations": 8,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:c1e4I3QdEKYC"
+  },
+  {
+    "id": "2023-hamiltonian-learning-from-time-dynamics-using",
+    "title": "Hamiltonian learning from time dynamics using variational algorithms",
+    "authors": "R Gupta, R Selvarajan, M Sajjan, RD Levine, S Kais",
+    "container": "The Journal of Physical Chemistry A 127 (14), 3246-3255",
+    "year": 2023,
+    "citations": 16,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:A8cqit5AE6sC"
+  },
+  {
+    "id": "2023-dimension-reduction-and-redundancy-removal-through",
+    "title": "Dimension reduction and redundancy removal through successive Schmidt decompositions",
+    "authors": "A Daskin, R Gupta, S Kais",
+    "container": "Applied Sciences 13 (5), 3172",
+    "year": 2023,
+    "citations": 9,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:-yGd096yOn8C"
+  },
+  {
+    "id": "2023-comparison-of-quantum-advantage-experiments-using",
+    "title": "Comparison of quantum advantage experiments using random circuit sampling",
+    "authors": "S Oh, S Kais",
+    "container": "Physical Review A 107 (2), 022610",
+    "year": 2023,
+    "citations": 5,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:NxmKEeNBbOMC"
+  },
+  {
+    "id": "2023-imaginary-components-of-out-of-time",
+    "title": "Imaginary components of out-of-time-order correlator and information scrambling for navigating the learning landscape of a quantum machine learning model",
+    "authors": "M Sajjan, V Singh, R Selvarajan, S Kais",
+    "container": "Physical Review Research 5 (1), 013146",
+    "year": 2023,
+    "citations": 51,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:RJOyoaXV5v8C"
+  },
+  {
+    "id": "2023-quantum-simulation-of-the-radical-pair",
+    "title": "Quantum simulation of the radical pair dynamics of the avian compass",
+    "authors": "Y Zhang, Z Hu, Y Wang, S Kais",
+    "container": "The Journal of Physical Chemistry Letters 14 (3), 832-837",
+    "year": 2023,
+    "citations": 32,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:tHtfpZlB6tUC"
+  },
+  {
+    "id": "2023-psitrum-and-simulation-of-decoherence-in",
+    "title": "Psitrum and Simulation of Decoherence in Quantum Algorithms",
+    "authors": "M Alghadeer, R Selvarajan, S Kais, F Alharbi",
+    "container": "APS March Meeting Abstracts 2023, G00. 296",
+    "year": 2023,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:MIg0yeAD4ggC"
+  },
+  {
+    "id": "2023-comparison-of-random-circuit-sampling-on",
+    "title": "Comparison of Random Circuit Sampling on Quantum and Classical Processors",
+    "authors": "S Oh, S Kais",
+    "container": "APS March Meeting Abstracts 2023, LL07. 005",
+    "year": 2023,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:z6xuaG2dYH0C"
+  },
+  {
+    "id": "2023-demystifying-a-generative-quantum-machine-learning",
+    "title": "Demystifying a generative Quantum Machine Learning model using Information scrambling and Imaginary components of out-of-time correlators.",
+    "authors": "M Sajjan, V Singh, S Kais",
+    "container": "APS March Meeting Abstracts 2023, K73. 012",
+    "year": 2023,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:-6RzNnnwWf8C"
+  },
+  {
+    "id": "2023-using-quantum-circuits-with-convolutional-neural",
+    "title": "Using quantum circuits with convolutional neural networks for multi-object detection and classification",
+    "authors": "M Saggi, S Kais",
+    "container": "APS march meeting abstracts 2023, D73. 001",
+    "year": 2023,
+    "citations": 2,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:T_ojBgVMvoEC"
+  },
+  {
+    "id": "2023-handling-privacy-sensitive-clinical-data-with",
+    "title": "Handling privacy-sensitive clinical data with federated quantum machine learning",
+    "authors": "A Bhatia, S Kais, M Alam",
+    "container": "APS March Meeting Abstracts 2023, T70. 007",
+    "year": 2023,
+    "citations": 13,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:SAZ1SQo2q1kC"
+  },
+  {
+    "id": "2023-simulation-of-open-quantum-system-dynamics",
+    "title": "Simulation of open quantum system dynamics based on the generalized quantum master equation on quantum computing devices",
+    "authors": "Y Wang, E Mulvihill, Z Hu, N Lyu, S Shivpuje, Y Liu, M Soley, E Geva, ...",
+    "container": "APS March Meeting Abstracts 2023, LL08. 004",
+    "year": 2023,
+    "citations": 6,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:isU91gLudPYC"
+  },
+  {
+    "id": "2022-magnetic-phases-of-spatially-modulated-spin",
+    "title": "Magnetic phases of spatially modulated spin-1 chains in Rydberg excitons: Classical and quantum simulations",
+    "authors": "M Sajjan, H Alaeian, S Kais",
+    "container": "The Journal of Chemical Physics 157 (22)",
+    "year": 2022,
+    "citations": 13,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:C33y2ycGS3YC"
+  },
+  {
+    "id": "2022-variational-approach-to-quantum-state-tomography",
+    "title": "Variational approach to quantum state tomography based on maximal entropy formalism",
+    "authors": "R Gupta, M Sajjan, RD Levine, S Kais",
+    "container": "Physical Chemistry Chemical Physics 24 (47), 28870-28877",
+    "year": 2022,
+    "citations": 20,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:2v_ZtQDX9iAC"
+  },
+  {
+    "id": "2022-race-for-quantum-advantage-using-random",
+    "title": "Race for Quantum Advantage using Random Circuit Sampling",
+    "authors": "S Oh, S Kais",
+    "container": "arXiv preprint arXiv:2211.13267",
+    "year": 2022,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:D_tqNUsBuKoC"
+  },
+  {
+    "id": "2022-realization-of-heisenberg-models-of-spin",
+    "title": "Realization of Heisenberg models of spin systems with polar molecules in pendular states",
+    "authors": "W Yue, Q Wei, S Kais, B Friedrich, D Herschbach",
+    "container": "Physical Chemistry Chemical Physics 24 (41), 25270-25278",
+    "year": 2022,
+    "citations": 11,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:65Yg0jNCQDAC"
+  },
+  {
+    "id": "2022-psitrum-and-universal-simulation-of-quantum",
+    "title": "Psitrum and universal simulation of quantum computers",
+    "authors": "M Alghadeer, E Aldawsari, R Selvarajan, K Alutaibi, S Kais, FH Alharbi",
+    "container": "2022 IEEE International Conference on Quantum Computing and Engineering (QCE\u00a0\u2026",
+    "year": 2022,
+    "citations": 11,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:L_l9e5I586QC"
+  },
+  {
+    "id": "2022-statistical-analysis-on-random-quantum-circuit",
+    "title": "Statistical analysis on random quantum circuit sampling by Sycamore and Zuchongzhi quantum processors",
+    "authors": "S Oh, S Kais",
+    "container": "Physical Review A 106 (3), 032433",
+    "year": 2022,
+    "citations": 7,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:SIv7DqKytYAC"
+  },
+  {
+    "id": "2022-statistical-properties-of-bit-strings-sampled",
+    "title": "Statistical Properties of Bit Strings Sampled from Sycamore Random Quantum Circuits",
+    "authors": "S Oh, S Kais",
+    "container": "The Journal of Physical Chemistry Letters 13 (32), 7469-7475",
+    "year": 2022,
+    "citations": 6,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:0aBXIfxlw9sC"
+  },
+  {
+    "id": "2022-the-wave-particle-duality-of-the",
+    "title": "The wave-particle duality of the qudit quantum space and the quantum wave gates",
+    "authors": "Z Hu, S Kais",
+    "container": "arXiv preprint arXiv:2207.05213",
+    "year": 2022,
+    "citations": 5,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:hGdtkIFZdKAC"
+  },
+  {
+    "id": "2022-empowering-quantum-2-0-devices-and",
+    "title": "Empowering quantum 2.0 devices and approaches with machine learning",
+    "authors": "B Wilson, Y Chen, S Kais, A Kildishev, V Shalaev, A Boltasseva",
+    "container": "Quantum 2.0, QTu2A. 13",
+    "year": 2022,
+    "citations": 7,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:1tZ8xJnm2c8C"
+  },
+  {
+    "id": "2022-a-relative-church-turing-deutsch-thesis",
+    "title": "A Relative Church-Turing-Deutsch Thesis from Special Relativity and Undecidability",
+    "authors": "B Wilson, E Dickey, V Iyer, S Kais",
+    "container": "arXiv preprint arXiv:2206.06419",
+    "year": 2022,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:hSRAE-fF4OAC"
+  },
+  {
+    "id": "2022-measurement-induced-nonlocality-for-noninertial-observers",
+    "title": "Measurement-induced nonlocality for noninertial observers near a black hole",
+    "authors": "AZ Kaczmarek, D Szczesniak, S Kais",
+    "container": "arXiv e-prints, arXiv: 2206.14787",
+    "year": 2022,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:v6i8RKmR8ToC"
+  },
+  {
+    "id": "2022-a-general-quantum-algorithm-for-open",
+    "title": "A general quantum algorithm for open quantum dynamics demonstrated with the Fenna-Matthews-Olson complex",
+    "authors": "Z Hu, K Head-Marsden, DA Mazziotti, P Narang, S Kais",
+    "container": "Quantum 6, 726",
+    "year": 2022,
+    "citations": 100,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:O0nohqN1r9EC"
+  },
+  {
+    "id": "2022-finite-size-scaling-on-a-digital",
+    "title": "Finite-size scaling on a digital quantum simulator using quantum restricted Boltzmann machine",
+    "authors": "B Khalid, SH Sureshbabu, A Banerjee, S Kais",
+    "container": "Frontiers in Physics 10, 915863",
+    "year": 2022,
+    "citations": 7,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:LXmCCkuhhTsC"
+  },
+  {
+    "id": "2022-tribute-to-dor-ben-amotz",
+    "title": "Tribute to Dor Ben-Amotz",
+    "authors": "A Vila Verde, P Cremer, S Kais, K Mochizuki, S Roke",
+    "container": "The Journal of Physical Chemistry B 126 (16), 2943-2945",
+    "year": 2022,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:UmS_249rOGwC"
+  },
+  {
+    "id": "2022-geometrical-picture-of-the-electron-electron",
+    "title": "Geometrical picture of the electron\u2013electron correlation at the large-D limit",
+    "authors": "KJB Ghosh, S Kais, DR Herschbach",
+    "container": "Physical Chemistry Chemical Physics 24 (16), 9298-9307",
+    "year": 2022,
+    "citations": 2,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:IsPWOBWtZBwC"
+  },
+  {
+    "id": "2022-the-unitary-dependence-theory-for-understanding",
+    "title": "The unitary dependence theory for understanding quantum circuits and states",
+    "authors": "Z Hu, S Kais",
+    "container": "arXiv preprint arXiv:2204.02452",
+    "year": 2022,
+    "citations": 1,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:silx2ntsSuwC"
+  },
+  {
+    "id": "2022-front-cover-the-quantum-condition-space",
+    "title": "Front Cover: The Quantum Condition Space (Adv. Quantum Technol. 4/2022)",
+    "authors": "Z Hu, S Kais",
+    "container": "Advanced Quantum Technologies 5 (4), 2270041",
+    "year": 2022,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:sA9dB-pw3HoC"
+  },
+  {
+    "id": "2022-the-quantum-condition-space",
+    "title": "The quantum condition space",
+    "authors": "Z Hu, S Kais",
+    "container": "Advanced Quantum Technologies 5 (4), 2100158",
+    "year": 2022,
+    "citations": 6,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:mWEH9CqjF64C"
+  },
+  {
+    "id": "2022-statistical-approach-to-quantum-phase-estimation",
+    "title": "Statistical Approach to Quantum Phase Estimation",
+    "authors": "Y Wang, A Moore, Z Hu, S Kais, A Weiner",
+    "container": "APS March Meeting Abstracts 2022, M40. 001",
+    "year": 2022,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Hck25ST_3aIC"
+  },
+  {
+    "id": "2022-quantum-machine-learning-algorithm-for-complex",
+    "title": "Quantum machine-learning algorithm for complex chemical systems",
+    "authors": "S Kais",
+    "container": "APS March Meeting Abstracts 2022, B01. 001",
+    "year": 2022,
+    "citations": 1,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:UuEBAcK4md4C"
+  },
+  {
+    "id": "2022-variational-quantum-circuits-to-prepare-low",
+    "title": "Variational quantum circuits to prepare low energy symmetry states",
+    "authors": "R Selvarajan, M Sajjan, S Kais",
+    "container": "Symmetry 14 (3), 457",
+    "year": 2022,
+    "citations": 20,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:zGdJYJv2LkUC"
+  },
+  {
+    "id": "2022-relaxation-of-stationary-states-on-a",
+    "title": "Relaxation of stationary states on a quantum computer yields a unique spectroscopic fingerprint of the computer\u2019s noise",
+    "authors": "SE Smart, Z Hu, S Kais, DA Mazziotti",
+    "container": "Communications Physics 5 (1), 28",
+    "year": 2022,
+    "citations": 24,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:oi2SiIJ9l4AC"
+  },
+  {
+    "id": "2022-variational-quantum-circuits-to-prepare-low-2",
+    "title": "Variational Quantum Circuits to Prepare Low Energy Symmetry States. Symmetry 2022, 14, 457",
+    "authors": "R Selvarajan, M Sajjan, S Kais",
+    "container": "s Note: MDPI stays neutral with regard to jurisdictional claims in published\u00a0\u2026",
+    "year": 2022,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:LK8CI43ZvvMC"
+  },
+  {
+    "id": "2022-quantum-machine-learning-for-chemistry-and",
     "title": "Quantum machine learning for chemistry and physics",
-    "container-title": "Chemical Society Reviews",
-    "volume": "51",
-    "page": "6475",
-    "DOI": "10.1039/D2CS00203E",
-    "abstract": "Review of quantum machine learning methods for chemistry and physics applications.",
-    "author": [
-      {"family": "Sajjan", "given": "Manas"},
-      {"family": "Li", "given": "Junxu"},
-      {"family": "Selvarajan", "given": "Raja"},
-      {"family": "Sureshbabu", "given": "Shree Hari"},
-      {"family": "Kale", "given": "Sumit Suresh"},
-      {"family": "Gupta", "given": "Rishabh"},
-      {"family": "Singh", "given": "Vinit"},
-      {"family": "Kais", "given": "Sabre"}
-    ],
-    "issued": {"date-parts": [["2022"]]}
+    "authors": "M Sajjan, J Li, R Selvarajan, SH Sureshbabu, SS Kale, R Gupta, V Singh, ...",
+    "container": "Chemical Society Reviews 51 (15), 6475-6573",
+    "year": 2022,
+    "citations": 226,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:X9ykpCP0fEIC"
+  },
+  {
+    "id": "2021-a-quantum-encryption-design-featuring-confusion",
+    "title": "A quantum encryption design featuring confusion, diffusion, and mode of operation",
+    "authors": "Z Hu, S Kais",
+    "container": "Scientific Reports 11 (1), 23774",
+    "year": 2021,
+    "citations": 24,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:MAUkC_7iAq8C"
+  },
+  {
+    "id": "2021-statistical-correlation-between-quantum-entanglement-and",
+    "title": "Statistical correlation between quantum entanglement and spin\u2013orbit coupling in crossed beam molecular dynamics",
+    "authors": "J Li, M Sajjan, SS Kale, S Kais",
+    "container": "Advanced Quantum Technologies 4 (12), 2100098",
+    "year": 2021,
+    "citations": 6,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:69ZgNCALVd0C"
+  },
+  {
+    "id": "2021-machine-learning-framework-for-quantum-sampling",
+    "title": "Machine learning framework for quantum sampling of highly constrained, continuous optimization problems",
+    "authors": "BA Wilson, ZA Kudyshev, AV Kildishev, S Kais, VM Shalaev, A Boltasseva",
+    "container": "Applied Physics Reviews 8 (4)",
+    "year": 2021,
+    "citations": 52,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:YsrPvlHIBpEC"
+  },
+  {
+    "id": "2021-constructive-quantum-interference-in-photochemical-reactions",
+    "title": "Constructive quantum interference in photochemical reactions",
+    "authors": "SS Kale, YP Chen, S Kais",
+    "container": "Journal of Chemical Theory and Computation 17 (12), 7822-7826",
+    "year": 2021,
+    "citations": 9,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:rbm3iO8VlycC"
+  },
+  {
+    "id": "2021-quantum-computing-enhanced-machine-learning-for",
+    "title": "Quantum computing enhanced machine learning for physico-chemical applications",
+    "authors": "M Sajjan, J Li, R Selvarajan, SH Sureshbabu, SS Kale, R Gupta, S Kais",
+    "container": "arXiv preprint arXiv:2111.00851",
+    "year": 2021,
+    "citations": 8,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:PkcyUWeTMh0C"
+  },
+  {
+    "id": "2021-quantum-machine-learning-for-eigenstate-filtration",
+    "title": "Quantum machine-learning for eigenstate filtration in two-dimensional materials",
+    "authors": "M Sajjan, SH Sureshbabu, S Kais",
+    "container": "Journal of the American Chemical Society 143 (44), 18426-18445",
+    "year": 2021,
+    "citations": 61,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:WAzi4Gm8nLoC"
+  },
+  {
+    "id": "2021-prime-factorization-using-quantum-variational-imaginary",
+    "title": "Prime factorization using quantum variational imaginary time evolution",
+    "authors": "R Selvarajan, V Dixit, X Cui, TS Humble, S Kais",
+    "container": "Scientific reports 11 (1), 20835",
+    "year": 2021,
+    "citations": 21,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:SnGPuo6Feq8C"
+  },
+  {
+    "id": "2021-quantum-cluster-algorithm-for-data-classification",
+    "title": "Quantum cluster algorithm for data classification",
+    "authors": "J Li, S Kais",
+    "container": "Materials Theory 5 (1), 6",
+    "year": 2021,
+    "citations": 18,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:kzcSZmkxUKAC"
+  },
+  {
+    "id": "2021-non-randomness-of-google-s-quantum",
+    "title": "Non-Randomness of Google's Quantum Supremacy Benchmark",
+    "authors": "S Kais",
+    "container": "arXiv (Cornell University)",
+    "year": 2021,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:rLGzs9wiiwIC"
+  },
+  {
+    "id": "2021-a-universal-quantum-circuit-design-for",
+    "title": "A universal quantum circuit design for periodical functions",
+    "authors": "J Li, S Kais",
+    "container": "New Journal of Physics 23 (10), 103022",
+    "year": 2021,
+    "citations": 14,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:kF1pexMAQbMC"
+  },
+  {
+    "id": "2021-quantum-information-and-quantum-computing-for",
+    "title": "Quantum information and quantum computing for chemical systems",
+    "authors": "S Kais, T Humble, K Kowalski, I Tavernelli, P Walther, J Du",
+    "container": "Frontiers in Physics 9, 753618",
+    "year": 2021,
+    "citations": 1,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:HJSXoJQnj-YC"
+  },
+  {
+    "id": "2021-dimensional-interpolation-for-random-walk",
+    "title": "Dimensional interpolation for random walk",
+    "authors": "KJB Ghosh, S Kais, DR Herschbach",
+    "container": "The Journal of Physical Chemistry A 125 (34), 7581-7587",
+    "year": 2021,
+    "citations": 2,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:DkZNVXde3BIC"
+  },
+  {
+    "id": "2021-convergence-of-a-reconstructed-density-matrix",
+    "title": "Convergence of a reconstructed density matrix to a pure state using the maximal entropy approach",
+    "authors": "R Gupta, RD Levine, S Kais",
+    "container": "The Journal of Physical Chemistry A 125 (34), 7588-7595",
+    "year": 2021,
+    "citations": 16,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:rTD5ala9j4wC"
+  },
+  {
+    "id": "2021-constructive-quantum-interference-in-a-photo",
+    "title": "Constructive Quantum Interference in a Photo-Chemical Reaction of Rb Bose Einstein Condensate",
+    "authors": "SS Kale, YP Chen, S Kais",
+    "container": "arXiv preprint arXiv:2107.05441",
+    "year": 2021,
+    "citations": 1,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:QUX0mv85b1cC"
+  },
+  {
+    "id": "2021-training-restricted-boltzmann-machines-with-a",
+    "title": "Training restricted boltzmann machines with a d-wave quantum annealer",
+    "authors": "V Dixit, R Selvarajan, MA Alam, TS Humble, S Kais",
+    "container": "Frontiers in Physics 9, 589626",
+    "year": 2021,
+    "citations": 71,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:5bg8sr1QxYwC"
+  },
+  {
+    "id": "2021-implementation-of-quantum-machine-learning-for",
+    "title": "Implementation of quantum machine learning for electronic structure calculations of periodic systems on quantum computing devices",
+    "authors": "SH Sureshbabu, M Sajjan, S Oh, S Kais",
+    "container": "Journal of Chemical Information and Modeling 61 (6), 2667-2674",
+    "year": 2021,
+    "citations": 57,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:w0F2JDEymm0C"
+  },
+  {
+    "id": "2021-practical-quantum-encryption-protocol-with-varying",
+    "title": "Practical quantum encryption protocol with varying encryption configurations",
+    "authors": "J Li, Z Hu, S Kais",
+    "container": "Physical Review Research 3 (2), 023251",
+    "year": 2021,
+    "citations": 11,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:uVUOdF_882EC"
+  },
+  {
+    "id": "2021-enhancement-of-photovoltaic-current-through-dark",
+    "title": "Enhancement of Photovoltaic Current through Dark States in Donor\u2010Acceptor Pairs of Tungsten\u2010Based Transition Metal Di\u2010Chalcogenides",
+    "authors": "S Roy, Z Hu, S Kais, P Bermel",
+    "container": "Advanced Functional Materials 31 (23), 2100387",
+    "year": 2021,
+    "citations": 30,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:jU7OWUQzBzMC"
+  },
+  {
+    "id": "2021-quantum-computing-for-atomic-and-molecular",
+    "title": "Quantum computing for atomic and molecular resonances",
+    "authors": "T Bian, S Kais",
+    "container": "The Journal of Chemical Physics 154 (19)",
+    "year": 2021,
+    "citations": 14,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:-jrNzM816MMC"
+  },
+  {
+    "id": "2021-training-a-quantum-annealing-based-restricted",
+    "title": "Training a quantum annealing based restricted boltzmann machine on cybersecurity data",
+    "authors": "V Dixit, R Selvarajan, T Aldwairi, Y Koshka, MA Novotny, TS Humble, ...",
+    "container": "IEEE Transactions on Emerging Topics in Computational Intelligence 6 (3\u00a0\u2026",
+    "year": 2021,
+    "citations": 67,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:QyXJ3EUuO1IC"
+  },
+  {
+    "id": "2021-metasurface-design-optimization-via-d-wave",
+    "title": "Metasurface design optimization via D-Wave based sampling",
+    "authors": "BA Wilson, ZA Kudyshev, AV Kildishev, S Kais, VM Shalaev, A Boltasseva",
+    "container": "CLEO: QELS_Fundamental Science, FTh2M. 2",
+    "year": 2021,
+    "citations": 4,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:DrR-2ekChdkC"
+  },
+  {
+    "id": "2021-dimensional-interpolation-for-metallic-hydrogen",
+    "title": "Dimensional interpolation for metallic hydrogen",
+    "authors": "KJB Ghosh, S Kais, DR Herschbach",
+    "container": "Physical Chemistry Chemical Physics 23 (13), 7841-7848",
+    "year": 2021,
+    "citations": 9,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:OBSaB-F7qqsC"
+  },
+  {
+    "id": "2021-time-domain-line-shape-analysis-from",
+    "title": "Time-domain line-shape analysis from 2d spectroscopy to precisely determine Hamiltonian parameters for a photosynthetic complex",
+    "authors": "BS Rolczynski, SH Yeh, P Navotnaya, LT Lloyd, AR Ginzburg, H Zheng, ...",
+    "container": "The Journal of Physical Chemistry B 125 (11), 2812-2820",
+    "year": 2021,
+    "citations": 7,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:F2UWTTQJPOcC"
+  },
+  {
+    "id": "2021-maximal-entropy-approach-for-quantum-state",
+    "title": "Maximal entropy approach for quantum state tomography",
+    "authors": "R Gupta, R Xia, RD Levine, S Kais",
+    "container": "PRX Quantum 2 (1), 010318",
+    "year": 2021,
+    "citations": 45,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:-7ulzOJl1JYC"
+  },
+  {
+    "id": "2021-magnetic-flux-noise-in-superconducting-qubits",
+    "title": "Magnetic flux noise in superconducting qubits and the gap states continuum",
+    "authors": "D Szcz\u0119\u015bniak, S Kais",
+    "container": "Scientific Reports 11 (1), 1813",
+    "year": 2021,
+    "citations": 5,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:1DsIQWDZLl8C"
+  },
+  {
+    "id": "2021-classifying-quantum-circuits-with-qubit-functional",
+    "title": "Classifying quantum circuits with qubit functional configurations",
+    "authors": "Z HU, S KAIS",
+    "container": "arXiv preprint arXiv:2110.02390",
+    "year": 2021,
+    "citations": 3,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:wvYxNZNCP7wC"
+  },
+  {
+    "id": "2021-constructive-quantum-interference-in-a-photo-2",
+    "title": "Constructive Quantum Interference in a Photo-Chemical Reaction of BEC",
+    "authors": "S Kale, S Kais",
+    "container": "APS March Meeting Abstracts 2021, Y18. 005",
+    "year": 2021,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:-95Q15plzcUC"
+  },
+  {
+    "id": "2021-protocol-of-quantum-communication-based-on",
+    "title": "Protocol of Quantum Communication Based on Shared Qubits",
+    "authors": "J Li, S Kais",
+    "container": "APS March Meeting Abstracts 2021, Y31. 011",
+    "year": 2021,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:kWvqk_afx_IC"
+  },
+  {
+    "id": "2021-implementation-of-quantum-machine-learning-for-2",
+    "title": "Implementation of quantum machine learning for electronic structure calculations of periodic systems on NISQ devices",
+    "authors": "SH Sureshbabu, R Xia, S Kais",
+    "container": "APS March Meeting Abstracts 2021, V32. 010",
+    "year": 2021,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ce2CqMG-AY4C"
+  },
+  {
+    "id": "2021-quantum-thermodynamics-of-quantum-boltzmann-machines",
+    "title": "Quantum Thermodynamics of Quantum Boltzmann Machines",
+    "authors": "S Oh, S Kais",
+    "container": "APS March Meeting Abstracts 2021, V32. 006",
+    "year": 2021,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:mKu_rENv82IC"
+  },
+  {
+    "id": "2021-qubit-coupled-cluster-singles-and-doubles",
+    "title": "Qubit coupled cluster singles and doubles variational quantum eigensolver ansatz for electronic structure calculations",
+    "authors": "R Xia, S Kais",
+    "container": "Quantum Science & Technology 6 (1), 015001",
+    "year": 2021,
+    "citations": 95,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Dem6FJhTUoYC"
+  },
+  {
+    "id": "2020-spin-momentum-entanglement-in-a-bose",
+    "title": "Spin-momentum entanglement in a Bose\u2013Einstein condensate",
+    "authors": "SS Kale, Y Ding, YP Chen, B Friedrich, S Kais",
+    "container": "Physical Chemistry Chemical Physics 22 (44), 25669-25674",
+    "year": 2020,
+    "citations": 9,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:6_hjMsCP8ZoC"
+  },
+  {
+    "id": "2020-qudits-and-high-dimensional-quantum-computing",
+    "title": "Qudits and high-dimensional quantum computing",
+    "authors": "Y Wang, Z Hu, BC Sanders, S Kais",
+    "container": "Frontiers in Physics 8, 589504",
+    "year": 2020,
+    "citations": 786,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:1Ye0OR6EYb4C"
+  },
+  {
+    "id": "2020-characterization-of-quantum-states-based-on",
+    "title": "Characterization of quantum states based on creation complexity",
+    "authors": "Z Hu, S Kais",
+    "container": "Advanced Quantum Technologies 3 (9), 2000043",
+    "year": 2020,
+    "citations": 11,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:rHJHxKgnXwkC"
+  },
+  {
+    "id": "2020-unorthodox-dimensional-interpolations-for-he-li",
+    "title": "Unorthodox dimensional interpolations for He, Li, Be atoms and hydrogen molecule",
+    "authors": "KJB Ghosh, S Kais, DR Herschbach",
+    "container": "Frontiers in Physics 8, 331",
+    "year": 2020,
+    "citations": 8,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:WC9gN4BGCRcC"
+  },
+  {
+    "id": "2020-hybrid-quantum-classical-neural-network-for",
+    "title": "Hybrid quantum-classical neural network for calculating ground state energies of molecules",
+    "authors": "R Xia, S Kais",
+    "container": "Entropy 22 (8), 828",
+    "year": 2020,
+    "citations": 59,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:jFemdcug13IC"
+  },
+  {
+    "id": "2020-training-and-classification-using-a-restricted",
+    "title": "Training and classification using a restricted boltzmann machine on the d-wave 2000q",
+    "authors": "V Dixit, R Selvarajan, MA Alam, TS Humble, S Kais",
+    "container": "arXiv preprint arXiv:2005.03247",
+    "year": 2020,
+    "citations": 22,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:XUvXOeBm_78C"
+  },
+  {
+    "id": "2020-coupled-cluster-singles-and-doubles-variational",
+    "title": "Coupled cluster singles and doubles variational quantum eigensolver ansatz for electronic structure calculations",
+    "authors": "R Xia, S Kais",
+    "container": "arXiv preprint arXiv:2005.08451",
+    "year": 2020,
+    "citations": 2,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:DBa1UEJaJKAC"
+  },
+  {
+    "id": "2020-bifacial-schottky-junction-plasmonic-based-solar",
+    "title": "Bifacial Schottky\u2010Junction Plasmonic\u2010Based Solar Cell",
+    "authors": "M Farhat, AAB Baloch, SN Rashkeev, N Tabet, S Kais, FH Alharbi",
+    "container": "Energy Technology 8 (5), 1901280",
+    "year": 2020,
+    "citations": 5,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:yxmsSjX2EkcC"
+  },
+  {
+    "id": "2020-gap-states-and-valley-spin-filtering",
+    "title": "Gap states and valley-spin filtering in transition metal dichalcogenide monolayers",
+    "authors": "D Szcz\u0119\u015bniak, S Kais",
+    "container": "Physical Review B 101 (11), 115423",
+    "year": 2020,
+    "citations": 15,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Br1UauaknNIC"
+  },
+  {
+    "id": "2020-quantum-neural-network-for-generating-quantum",
+    "title": "Quantum neural network for generating quantum states",
+    "authors": "R Xia, S Kais",
+    "container": "Bulletin of the American Physical Society 65",
+    "year": 2020,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:-mN3Mh-tlDkC"
+  },
+  {
+    "id": "2020-hybrid-quantum-classical-algorithms-for-generative",
+    "title": "Hybrid quantum-classical algorithms for generative models",
+    "authors": "T Bian, S Kais",
+    "container": "Bulletin of the American Physical Society 65",
+    "year": 2020,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:prdVHNxh-e8C"
+  },
+  {
+    "id": "2020-a-quantum-algorithm-for-evolving-open",
+    "title": "A quantum algorithm for evolving open quantum dynamics on quantum computing devices",
+    "authors": "Z Hu, R Xia, S Kais",
+    "container": "Scientific reports 10 (1), 3301",
+    "year": 2020,
+    "citations": 241,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:MhiOAD_qIWkC"
+  },
+  {
+    "id": "2020-direct-scheme-calculation-of-the-kinetic",
+    "title": "Direct scheme calculation of the kinetic energy functional derivative using machine learning",
+    "authors": "H Saidaoui, S Kais, S Rashkeev, FH Alharbi",
+    "container": "arXiv preprint arXiv:2003.00876",
+    "year": 2020,
+    "citations": 1,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:LPtt_HFRSbwC"
+  },
+  {
+    "id": "2020-introducing-open-boundary-conditions-in-modeling",
+    "title": "Introducing open boundary conditions in modeling nonperiodic materials and interfaces: the impact of the periodicity assumption",
+    "authors": "J Charles, S Kais, T Kubis",
+    "container": "ACS Materials Letters 2 (3), 247-253",
+    "year": 2020,
+    "citations": 8,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:3NQIlFlcGxIC"
+  },
+  {
+    "id": "2020-quantum-phase-estimation-with-time-frequency",
+    "title": "Quantum phase estimation with time\u2010frequency qudits in a single photon",
+    "authors": "HH Lu, Z Hu, MS Alshaykh, AJ Moore, Y Wang, P Imany, AM Weiner, ...",
+    "container": "Advanced Quantum Technologies 3 (2), 1900074",
+    "year": 2020,
+    "citations": 85,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:7H_MAutzIkAC"
+  },
+  {
+    "id": "2019-hybrid-quantum-classical-neural-network-for",
+    "title": "Hybrid quantum-classical neural network for generating quantum states",
+    "authors": "R Xia, S Kais",
+    "container": "arXiv preprint arXiv:1912.06184",
+    "year": 2019,
+    "citations": 4,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:L1USKYWJimsC"
+  },
+  {
+    "id": "2019-context-aware-quantum-simulation-of-a",
+    "title": "Context-aware quantum simulation of a matrix stored in quantum memory: A. Daskin et al.",
+    "authors": "A Daskin, T Bian, R Xia, S Kais",
+    "container": "Quantum Information Processing 18 (12), 357",
+    "year": 2019,
+    "citations": 6,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:7wO8s98CvbsC"
+  },
+  {
+    "id": "2019-elucidation-of-near-resonance-vibronic-coherence",
+    "title": "Elucidation of near-resonance vibronic coherence lifetimes by nonadiabatic electronic-vibrational state character mixing",
+    "authors": "SH Yeh, RD Hoehn, MA Allodi, GS Engel, S Kais",
+    "container": "Proceedings of the National Academy of Sciences 116 (37), 18263-18268",
+    "year": 2019,
+    "citations": 51,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:zCSUwVk65WsC"
+  },
+  {
+    "id": "2019-quantum-dynamics-and-resonances-in-chemistry",
+    "title": "\" Quantum Dynamics and Resonances in Chemistry and Physics''to honor Nimrod Moiseyev on his 70th birthday Foreword",
+    "authors": "U Peskin, O Alon, M Segev, S Kais",
+    "container": "MOLECULAR PHYSICS 117 (15-16), 1943-1943",
+    "year": 2019,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:PYBJJbyH-FwC"
+  },
+  {
+    "id": "2019-quantum-computing-methods-for-electronic-states",
+    "title": "Quantum computing methods for electronic states of the water molecule",
+    "authors": "T Bian, D Murphy, R Xia, A Daskin, S Kais",
+    "container": "Molecular Physics 117 (15-16), 2069-2082",
+    "year": 2019,
+    "citations": 58,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:PaBasH6fAo0C"
+  },
+  {
+    "id": "2019-entanglement-classifier-in-chemical-reactions",
+    "title": "Entanglement classifier in chemical reactions",
+    "authors": "J Li, S Kais",
+    "container": "Science advances 5 (8), eaax5283",
+    "year": 2019,
+    "citations": 51,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:WHdLCjDvYFkC"
+  },
+  {
+    "id": "2019-enhancing-the-electronic-dimensionality-of-hybrid",
+    "title": "Enhancing the electronic dimensionality of hybrid organic\u2013inorganic frameworks by hydrogen bonded molecular cations",
+    "authors": "F El-Mellouhi, ME Madjet, GR Berdiyorov, ET Bentria, SN Rashkeev, ...",
+    "container": "Materials Horizons 6 (6), 1187-1196",
+    "year": 2019,
+    "citations": 7,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:kw52XkFRtyQC"
+  },
+  {
+    "id": "2019-tailoring-donor-acceptor-pairs-of-tungsten",
+    "title": "Tailoring Donor-Acceptor Pairs of Tungsten-based Transition Metal Di-Chalcogenides (TMDCs) for Improved Photovoltaic Current Generation",
+    "authors": "S Roy, Z Hu, S Kais, P Bermel",
+    "container": "2019 IEEE 46th Photovoltaic Specialists Conference (PVSC), 0772-0776",
+    "year": 2019,
+    "citations": 1,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:1yWc8FF-_SYC"
+  },
+  {
+    "id": "2019-role-of-water-on-the-rotational",
+    "title": "Role of water on the rotational dynamics of the organic methylammonium cation: A first principles analysis",
+    "authors": "RD Hoehn, JS Francisco, S Kais, A Kachmar",
+    "container": "SCIENtIfIC REPORTs 9 (1), 668",
+    "year": 2019,
+    "citations": 17,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:nRpfm8aw39MC"
+  },
+  {
+    "id": "2019-orientational-dynamics-of-transition-dipoles-and",
+    "title": "Orientational dynamics of transition dipoles and exciton relaxation in LH2 from ultrafast two-dimensional anisotropy",
+    "authors": "SC Massey, PC Ting, SH Yeh, PD Dahlberg, SH Sohail, MA Allodi, ...",
+    "container": "The journal of physical chemistry letters 10 (2), 270-277",
+    "year": 2019,
+    "citations": 26,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:MpfHP-DdYjUC"
+  },
+  {
+    "id": "2018-double-excitation-manifold-s-effect-on",
+    "title": "Double-excitation manifold's effect on exciton transfer dynamics and the efficiency of coherent light harvesting",
+    "authors": "Z Hu, GS Engel, S Kais",
+    "container": "Physical Chemistry Chemical Physics 20 (47), 30032-30040",
+    "year": 2018,
+    "citations": 26,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:43bX7VzcjpAC"
+  },
+  {
+    "id": "2018-quantum-annealing-for-prime-factorization",
+    "title": "Quantum annealing for prime factorization",
+    "authors": "S Jiang, KA Britt, AJ McCaskey, TS Humble, S Kais",
+    "container": "Scientific reports 8 (1), 17667",
+    "year": 2018,
+    "citations": 288,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:wMgC3FpKEyYC"
+  },
+  {
+    "id": "2018-probing-entropic-uncertainty-relations-under-a",
+    "title": "Probing entropic uncertainty relations under a two-atom system coupled with structured bosonic reservoirs: D. Wang et al.",
+    "authors": "D Wang, WN Shi, RD Hoehn, F Ming, WY Sun, L Ye, S Kais",
+    "container": "Quantum Information Processing 17 (12), 335",
+    "year": 2018,
+    "citations": 37,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:cK4Rrx0J3m0C"
+  },
+  {
+    "id": "2018-a-generalized-circuit-for-the-hamiltonian",
+    "title": "A generalized circuit for the Hamiltonian dynamics through the truncated series: A. Daskin, S. Kais",
+    "authors": "A Daskin, S Kais",
+    "container": "Quantum Information Processing 17 (12), 328",
+    "year": 2018,
+    "citations": 4,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Bg7qf7VwUHIC"
+  },
+  {
+    "id": "2018-direct-application-of-the-phase-estimation",
+    "title": "Direct application of the phase estimation algorithm to find the eigenvalues of the hamiltonians",
+    "authors": "A Daskin, S Kais",
+    "container": "Chemical Physics 514, 87-94",
+    "year": 2018,
+    "citations": 19,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:LhH-TYMQEocC"
+  },
+  {
+    "id": "2018-quantum-machine-learning-for-electronic-structure",
+    "title": "Quantum machine learning for electronic structure calculations",
+    "authors": "R Xia, S Kais",
+    "container": "Nature communications 9 (1), 4195",
+    "year": 2018,
+    "citations": 245,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:4xDN1ZYqzskC"
+  },
+  {
+    "id": "2018-pendular-alignment-and-strong-chemical-binding",
+    "title": "Pendular alignment and strong chemical binding are induced in helium dimer molecules by intense laser fields",
+    "authors": "Q Wei, S Kais, T Yasuike, D Herschbach",
+    "container": "Proceedings of the National Academy of Sciences 115 (39), E9058-E9066",
+    "year": 2018,
+    "citations": 19,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:BzfGm06jWhQC"
+  },
+  {
+    "id": "2018-effects-of-hawking-radiation-on-the",
+    "title": "Effects of Hawking Radiation on the Entropic Uncertainty in a Schwarzschild Space\u2010Time",
+    "authors": "D Wang, WN Shi, RD Hoehn, F Ming, WY Sun, S Kais, L Ye",
+    "container": "Annalen der Physik 530 (9), 1800080",
+    "year": 2018,
+    "citations": 51,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:jgBuDB5drN8C"
+  },
+  {
+    "id": "2018-ultrafast-spectroscopy-of-synchronized-and-correlated",
+    "title": "Ultrafast spectroscopy of synchronized and correlated excited state motions in the presence of spectral diffusion",
+    "authors": "B Rolczynski, H Zheng, V Singh, P Navotnaya, A Ginzburg, J Caram, ...",
+    "container": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 256",
+    "year": 2018,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:7Hz3ACDFbsoC"
+  },
+  {
+    "id": "2018-novel-spectroscopic-probes-of-excitionic-structure",
+    "title": "Novel spectroscopic probes of excitionic structure and dynamics in photosynthetic systems",
+    "authors": "B Rolczynski, S Yeh, P Navotnaya, L Lloyd, A Ginzburg, H Zheng, ...",
+    "container": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 256",
+    "year": 2018,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:LdasjJ6CEcoC"
+  },
+  {
+    "id": "2018-molecules-enhanced-by-electromagnetic-fields",
+    "title": "Molecules enhanced by electromagnetic fields",
+    "authors": "B Friedrich, D Herschbach, S Kais, B Schmidt",
+    "container": "SciTech Europa Quarterly, 48-49",
+    "year": 2018,
+    "citations": 1,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:v1_lew4L6wgC"
+  },
+  {
+    "id": "2018-connecting-bright-and-dark-states-through",
+    "title": "Connecting bright and dark states through accidental degeneracy caused by lack of symmetry",
+    "authors": "Z Hu, GS Engel, S Kais",
+    "container": "The Journal of Chemical Physics 148 (20)",
+    "year": 2018,
+    "citations": 7,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:AHdEip9mkN0C"
+  },
+  {
+    "id": "2018-canonical-schottky-barrier-heights-of-transition",
+    "title": "Canonical Schottky barrier heights of transition metal dichalcogenide monolayers in contact with a metal",
+    "authors": "D Szcz\u0119\u015bniak, RD Hoehn, S Kais",
+    "container": "Physical Review B 97 (19), 195315",
+    "year": 2018,
+    "citations": 16,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:artPoR2Yc-kC"
+  },
+  {
+    "id": "2018-improved-photoactivity-of-pyroxene-silicates-by",
+    "title": "Improved photoactivity of pyroxene silicates by cation substitutions",
+    "authors": "M Legesse, H Park, F El Mellouhi, SN Rashkeev, S Kais, FH Alharbi",
+    "container": "ChemPhysChem 19 (8), 943-953",
+    "year": 2018,
+    "citations": 7,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:gKiMpY-AVTkC"
+  },
+  {
+    "id": "2018-tuning-the-stereoselectivity-and-solvation-selectivity",
+    "title": "Tuning the stereoselectivity and solvation selectivity at interfacial and bulk environments by changing solvent polarity: Isomerization of glyoxal in different solvent environments",
+    "authors": "J Zhong, MA Carignano, S Kais, XC Zeng, JS Francisco, I Gladich",
+    "container": "Journal of the American Chemical Society 140 (16), 5535-5543",
+    "year": 2018,
+    "citations": 30,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:QD3KBmkZPeQC"
+  },
+  {
+    "id": "2018-plasmonically-enhanced-schottky-solar-cell",
+    "title": "Plasmonically Enhanced Schottky Solar Cell",
+    "authors": "M Farhat, S Kais, F Alharbi",
+    "container": "Qatar Foundation Annual Research Conference Proceedings 2018 (1), EEPD488",
+    "year": 2018,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:PVgj2kMGcgYC"
+  },
+  {
+    "id": "2018-status-of-the-vibrational-theory-of",
+    "title": "Status of the vibrational theory of olfaction",
+    "authors": "RD Hoehn, DE Nichols, H Neven, S Kais",
+    "container": "Frontiers in Physics 6, 25",
+    "year": 2018,
+    "citations": 51,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:6yz0xqPARnAC"
+  },
+  {
+    "id": "2018-quantum-computation-using-arrays-of-n",
+    "title": "Quantum computation using arrays of N polar molecules",
+    "authors": "S Kais, Z Hu",
+    "container": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 255",
+    "year": 2018,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ubry08Y2EpUC"
+  },
+  {
+    "id": "2018-modeling-molecules-in-an-interacting-environment",
+    "title": "Modeling molecules in an interacting environment",
+    "authors": "J Charles, S Kais, T Kubis",
+    "container": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 255",
+    "year": 2018,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ALROH1vI_8AC"
+  },
+  {
+    "id": "2018-accessing-dark-states-optically-through-excitationferrying",
+    "title": "Accessing dark states optically through excitationferrying states",
+    "authors": "S Kais, Z Hu, GS Engel",
+    "container": "Qatar Foundation Annual Research Conference Proceedings Volume 2018 Issue 1\u00a0\u2026",
+    "year": 2018,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:NyGDZy8z5eUC"
+  },
+  {
+    "id": "2018-dark-states-and-delocalization-competing-effects",
+    "title": "Dark states and delocalization: Competing effects of quantum coherence on the efficiency of light harvesting systems",
+    "authors": "Z Hu, GS Engel, FH Alharbi, S Kais",
+    "container": "The Journal of chemical physics 148 (6)",
+    "year": 2018,
+    "citations": 30,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:lvd772isFD0C"
+  },
+  {
+    "id": "2018-correlated-protein-environments-drive-quantum-coherence",
+    "title": "Correlated protein environments drive quantum coherence lifetimes in photosynthetic pigment-protein complexes",
+    "authors": "BS Rolczynski, H Zheng, VP Singh, P Navotnaya, AR Ginzburg, ...",
+    "container": "Chem 4 (1), 138-149",
+    "year": 2018,
+    "citations": 65,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:vDZJ-YLwNdEC"
+  },
+  {
+    "id": "2018-designing-photon-absorbing-materials-by-cation",
+    "title": "Designing Photon Absorbing Materials by Cation Substitutions for Photovoltaics",
+    "authors": "M Belayneh, H Park, F El-Mellouhi, S Rashkeev, S Kais, F Alharbi",
+    "container": "APS March Meeting Abstracts 2018, P20. 007",
+    "year": 2018,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:RoXSNcbkSzsC"
+  },
+  {
+    "id": "2018-comparison-study-of-quantum-computing-methods",
+    "title": "Comparison study of quantum computing methods for simulating the Hamiltonian of the water molecule",
+    "authors": "T Bian, D Murphy, R Xia, A Daskin, S Kais",
+    "container": "arXiv preprint arXiv:1804.05453, 1-17",
+    "year": 2018,
+    "citations": 3,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:otzGkya1bYkC"
+  },
+  {
+    "id": "2018-engineering-graphene-work-function-by-changing",
+    "title": "Engineering Graphene Work function by Changing Metal Adatoms and their Concentrations",
+    "authors": "M Belayneh, F El-Mellouhi, T Fisher, S Kais, F Alharbi",
+    "container": "APS March Meeting Abstracts 2018, G60. 364",
+    "year": 2018,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:tH6gc1N1XXoC"
+  },
+  {
+    "id": "2017-effect-of-time-delayed-feedback-on",
+    "title": "Effect of time-delayed feedback on the interaction of a dimer system with its environment",
+    "authors": "M Farhat, S Kais, FH Alharbi",
+    "container": "Scientific Reports 7 (1), 15468",
+    "year": 2017,
+    "citations": 2,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:gVv57TyPmFsC"
+  },
+  {
+    "id": "2017-electronic-structure-calculations-and-the-ising",
+    "title": "Electronic structure calculations and the Ising Hamiltonian",
+    "authors": "R Xia, T Bian, S Kais",
+    "container": "The Journal of Physical Chemistry B 122 (13), 3384-3395",
+    "year": 2017,
+    "citations": 137,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:_OXeSy2IsFwC"
+  },
+  {
+    "id": "2017-plasmonically-enhanced-schottky-photovoltaic-devices",
+    "title": "Plasmonically enhanced Schottky photovoltaic devices",
+    "authors": "M Farhat, S Kais, FH Alharbi",
+    "container": "Scientific reports 7 (1), 14253",
+    "year": 2017,
+    "citations": 17,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:nVrZBo8bIpAC"
+  },
+  {
+    "id": "2017-quantum-information-science-factual-document-for",
+    "title": "Quantum Information Science: Factual Document for the Office of Basic Energy Sciences at the Department of Energy",
+    "authors": "DJ Dean, E Dumitrescu, S Economou, PG Evans, T Humble, S Jesse, ...",
+    "container": "USDOE Office of Science (SC)(United States)",
+    "year": 2017,
+    "citations": 3,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:SjuI4pbJlxcC"
+  },
+  {
+    "id": "2017-cation-effect-on-hot-carrier-cooling",
+    "title": "Cation effect on hot carrier cooling in halide perovskite materials",
+    "authors": "ME Madjet, GR Berdiyorov, F El-Mellouhi, FH Alharbi, AV Akimov, S Kais",
+    "container": "The journal of physical chemistry letters 8 (18), 4439-4445",
+    "year": 2017,
+    "citations": 144,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:5MTHONV0fEkC"
+  },
+  {
+    "id": "2017-efficient-optimization-of-perturbative-gadgets",
+    "title": "Efficient optimization of perturbative gadgets",
+    "authors": "Y Cao, S Kais",
+    "container": "arXiv preprint arXiv:1709.02705",
+    "year": 2017,
+    "citations": 8,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:fbc8zXXH2BUC"
+  },
+  {
+    "id": "2017-pursuit-of-the-kramers-henneberger-atom",
+    "title": "Pursuit of the Kramers-Henneberger atom",
+    "authors": "Q Wei, P Wang, S Kais, D Herschbach",
+    "container": "Chemical Physics Letters 683, 240-246",
+    "year": 2017,
+    "citations": 33,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:yqoGN6RLRZoC"
+  },
+  {
+    "id": "2017-mapping-electronic-structure-hamiltonian-to-an",
+    "title": "Mapping electronic structure Hamiltonian to an Ising type Hamiltonian",
+    "authors": "S Kais",
+    "container": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 254",
+    "year": 2017,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:CaZNVDsoPx4C"
+  },
+  {
+    "id": "2017-ring-flipping-in-heterobimetallic-re-ir",
+    "title": "Ring flipping in heterobimetallic Re-Ir complexes and its effect on structural isomerism: Dynamic NMR and DFT study",
+    "authors": "KR Pichaandi, L Kabalan, S Kais, MM Abu-Omar",
+    "container": "Journal of Organometallic Chemistry 843, 62-65",
+    "year": 2017,
+    "citations": 3,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:GFxP56DSvIMC"
+  },
+  {
+    "id": "2017-alloys-and-environmental-related-issues-toward",
+    "title": "Alloys and Environmental Related Issues: Toward the Computational Design of Pb-Free and Stable Hybrid Materials for Solar Cells",
+    "authors": "F El Mellouhi, FH Alharbi, C Motta, S Rashkeev, S Sanvito, S Kais",
+    "container": "Theoretical Modeling of Organohalide Perovskites for Photovoltaic\u00a0\u2026",
+    "year": 2017,
+    "citations": 1,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ziOE8S1-AIUC"
+  },
+  {
+    "id": "2017-alloys-and-environmental-related-issues",
+    "title": "Alloys and Environmental Related Issues",
+    "authors": "F El Mellouhi, FH Alharbi, C Motta, S Rashkeev, S Sanvito, S Kais",
+    "container": "Theoretical Modeling of Organohalide Perovskites for Photovoltaic\u00a0\u2026",
+    "year": 2017,
+    "citations": 1,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:wKETBy42zhYC"
+  },
+  {
+    "id": "2017-kinetic-energy-density-for-orbital-free",
+    "title": "Kinetic energy density for orbital\u2010free density functional calculations by axiomatic approach",
+    "authors": "FH Alharbi, S Kais",
+    "container": "International Journal of Quantum Chemistry 117 (12), e25373",
+    "year": 2017,
+    "citations": 16,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:a3BOlSfXSfwC"
+  },
+  {
+    "id": "2017-experimental-evaluation-of-the-generalized-vibrational",
+    "title": "Experimental evaluation of the generalized vibrational theory of G protein-coupled receptor activation",
+    "authors": "RD Hoehn, DE Nichols, JD McCorvy, H Neven, S Kais",
+    "container": "Proceedings of the National Academy of Sciences 114 (22), 5595-5600",
+    "year": 2017,
+    "citations": 30,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:8xutWZnSdmoC"
+  },
+  {
+    "id": "2017-solar-cell-materials-by-design-hybrid",
+    "title": "Solar Cell Materials by Design: Hybrid Pyroxene Corner\u2010Sharing VO4 Tetrahedral Chains",
+    "authors": "F El\u2010Mellouhi, A Akande, C Motta, SN Rashkeev, G Berdiyorov, ...",
+    "container": "ChemSusChem 10 (9), 1931-1942",
+    "year": 2017,
+    "citations": 17,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:HeT0ZceujKMC"
+  },
+  {
+    "id": "2017-entropic-uncertainty-relations-for-markovian-and",
+    "title": "Entropic uncertainty relations for Markovian and non-Markovian processes under a structured bosonic reservoir",
+    "authors": "D Wang, AJ Huang, RD Hoehn, F Ming, WY Sun, JD Shi, L Ye, S Kais",
+    "container": "Scientific reports 7 (1), 1066",
+    "year": 2017,
+    "citations": 87,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:F9fV5C73w3QC"
+  },
+  {
+    "id": "2017-energy-gap-states-and-tunneling-currents",
+    "title": "Energy gap states and tunneling currents in semiconducting graphene",
+    "authors": "D Szczesniak, R Hoehn, S Kais",
+    "container": "APS March Meeting Abstracts 2017, T1. 091",
+    "year": 2017,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Ehil0879vHcC"
+  },
+  {
+    "id": "2017-the-coherence-lifetime-borrowing-effect-in",
+    "title": "The coherence lifetime-borrowing effect in vibronically coupled molecular aggregates under non-perturbative system-environment interactions.",
+    "authors": "SH Yeh, GS Engel, S Kais",
+    "container": "APS March Meeting Abstracts 2017, F25. 005",
+    "year": 2017,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:nZcligLrVowC"
+  },
+  {
+    "id": "2017-quantum-heat-engines-described-by-a",
+    "title": "Quantum Heat Engines Described by a Master Equation with Pumping Terms",
+    "authors": "S Oh, S Kais",
+    "container": "APS March Meeting Abstracts 2017, H38. 011",
+    "year": 2017,
+    "citations": 0,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:P7Ujq4OLJYoC"
+  },
+  {
+    "id": "2017-mechanism-of-me-re-bond-addition",
+    "title": "Mechanism of Me\u2013Re bond addition to Platinum (II) and dioxygen activation by the resulting Pt\u2013Re bimetallic center",
+    "authors": "KR Pichaandi, L Kabalan, H Amini, G Zhang, H Zhu, HI Kentta\u0308maa, ...",
+    "container": "Inorganic Chemistry 56 (4), 2145-2152",
+    "year": 2017,
+    "citations": 11,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:r_AWSJRzSzQC"
+  },
+  {
+    "id": "2017-reduced-work-function-of-graphene-by",
+    "title": "Reduced work function of graphene by metal adatoms",
+    "authors": "M Legesse, F El Mellouhi, ET Bentria, ME Madjet, TS Fisher, S Kais, ...",
+    "container": "Applied Surface Science 394, 98-107",
+    "year": 2017,
+    "citations": 60,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:IUKN3-7HHlwC"
+  },
+  {
+    "id": "2017-interfaces-select-specific-stereochemical-conformations-the",
+    "title": "Interfaces select specific stereochemical conformations: the isomerization of glyoxal at the liquid water interface",
+    "authors": "C Zhu, S Kais, XC Zeng, JS Francisco, I Gladich",
+    "container": "Journal of the American Chemical Society 139 (1), 27-30",
+    "year": 2017,
+    "citations": 53,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:cWzG1nlazyYC"
+  },
+  {
+    "id": "2017-an-ancilla-based-quantum-simulation-framework",
+    "title": "An ancilla-based quantum simulation framework for non-unitary matrices",
+    "authors": "A Daskin, S Kais",
+    "container": "Quantum Information Processing 16 (1), 33",
+    "year": 2017,
+    "citations": 22,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:8d8msizDQcsC"
   }
 ]

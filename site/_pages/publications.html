@@ -6,48 +6,25 @@ sitemap: false
 permalink: /publications/
 ---
 
-<h1>{{page.title}}</h1>
-<p>Selected recent publications. Full archives and PDFs remain available in the repository <code>docs/</code> folder. To add an entry, edit <code>_data/publications.json</code> (see the site README).</p>
+<h1>{{ page.title }}</h1>
+<p>
+  {{ site.data.publications | size }} publications, pulled from
+  <a href="https://scholar.google.com/citations?hl=en&amp;user=wtnZaMMAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener">Google Scholar</a>.
+  Full archives and PDFs remain available in the repository <code>docs/</code> folder.
+  To refresh this list, see the site README.
+</p>
 
-<div class="panel-group" id="accordion">
-    <div class="panel panel-default">
-
-    {% for publi in site.data.publications %}
-        <div class="panel-heading">
-            <a data-toggle="collapse" data-parent="#accordion"
-               href="#collapse{{forloop.index}}"
-               style="color: inherit;">
-            <!-- authors -->
-            {% assign authors = "" | split:"/" %}
-            {% for author in publi.author %}
-                {% assign authors = authors | push: author.family %}
-            {% endfor %}
-            {{ authors | array_to_sentence_string }},
-
-            <!-- title with link -->
-            "{{ publi.title }}",
-
-            <!-- container -->
-            <b>{{ publi.container-title }}</b>
-
-            <!-- issued date -->
-            ({{ publi.issued.date-parts | jsonify | slice: 3,4 }}),
-
-            <!-- DOI -->
-            {% if publi.DOI %}
-                <a href="https://doi.org/{{publi.DOI}}">DOI:{{publi.DOI}}</a>
-            {% endif %}
-            </a>
-        </div>
-
-        <div id="collapse{{forloop.index}}" class="panel-collapse collapse">
-            <div class="panel-body">
-                <p>{{ publi.abstract }}</p>
-
-                <a class="btn btn-outline-primary" href="https://doi.org/{{publi.DOI}}"
-                   role="button" target="blank">Link</a>
-            </div>
-        </div>
-    {% endfor %}
-    </div>
-</div>
+{% assign pubs_by_year = site.data.publications | group_by: "year" | sort: "name" | reverse %}
+{% for group in pubs_by_year %}
+  <h3>{{ group.name }}</h3>
+  <ul class="list-unstyled">
+  {% for publi in group.items %}
+    <li style="margin-bottom: 0.75em;">
+      {{ publi.authors }}.
+      &ldquo;<a href="{{ publi.link }}" target="_blank" rel="noopener">{{ publi.title }}</a>.&rdquo;
+      <i>{{ publi.container }}</i>.
+      {% if publi.citations > 0 %}<span class="text-muted">Cited by {{ publi.citations }}</span>{% endif %}
+    </li>
+  {% endfor %}
+  </ul>
+{% endfor %}

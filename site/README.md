@@ -58,25 +58,29 @@ Edit [`_data/news.yml`](_data/news.yml). Add a block at the **top**:
     One or two sentences describing the news item.
 ```
 
-### Add a publication
+### Add or refresh publications
 
-Edit [`_data/publications.json`](_data/publications.json). Add an object to the list
-(or export from Zotero in CSL-JSON and merge). Minimum fields:
+`_data/publications.json` is generated from Sabre Kais's
+[Google Scholar profile](https://scholar.google.com/citations?hl=en&user=wtnZaMMAAAAJ&view_op=list_works&sortby=pubdate)
+(all entries from 2017 onward, deduplicated so a published version replaces its
+arXiv preprint listing when both exist). Each entry:
 
 ```json
 {
   "id": "unique-id",
-  "type": "article-journal",
   "title": "Paper title",
-  "container-title": "Journal Name",
-  "DOI": "10.xxxx/xxxxx",
-  "abstract": "Optional abstract.",
-  "author": [
-    {"family": "Kais", "given": "Sabre"}
-  ],
-  "issued": {"date-parts": [["2024"]]}
+  "authors": "Initials Lastname, Initials Lastname, ...",
+  "container": "Journal Name 12 (3), 45-67",
+  "year": 2024,
+  "citations": 0,
+  "link": "https://scholar.google.com/citations?view_op=view_citation&..."
 }
 ```
+
+To refresh: re-fetch the Scholar profile pages (`cstart=0,100,200,...` with
+`pagesize=100`), parse the `gsc_a_tr` rows, filter/dedupe as above, and
+regenerate the file. To add a single one-off entry by hand, just append an
+object with the same fields.
 
 ### Edit research or home text
 
