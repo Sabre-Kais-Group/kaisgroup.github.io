@@ -5,10 +5,13 @@
 
 body {
   padding-top: 70px;
-  text-align: justify;
+  text-align: left; /* NC State brand: do not force-justify body copy */
+  background-color: #FFFFFF; /* Wolfpack White */
+  line-height: 1.5; /* ~150% — within brand 130–160% guidance */
 }
 
 figcaption {
+  font-family: "Roboto Slab", Georgia, serif; /* secondary typeface for captions */
   text-align: right;
   margin-top: -20px;
   margin-bottom: 20px;
@@ -40,7 +43,44 @@ figcaption {
 .container-fluid {
   margin-right: auto;
   margin-left: auto;
-  max-width: 900px; /* or 950px */
+  max-width: 1200px;
+}
+
+.navbar-brand {
+  font-family: "Roboto Condensed", "Roboto", sans-serif;
+  font-weight: 700;
+}
+
+.navbar-brand-logo {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.ncsu-logo-nav {
+  height: 34px;
+  width: auto;
+  display: inline-block;
+}
+
+.ncsu-logo-footer {
+  height: 48px;
+  width: auto;
+  margin-bottom: 10px;
+}
+
+/* Footer — Wolfpack accents on white */
+#footer .panel-footer {
+  background-color: #FFFFFF;
+  border-top: 3px solid #CC0000;
+  color: #000000;
+}
+
+#footer a {
+  color: #CC0000;
+}
+
+#footer a:hover {
+  color: #000000;
 }
 
 /* Carousel */

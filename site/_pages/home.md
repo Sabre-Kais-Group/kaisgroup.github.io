@@ -15,7 +15,8 @@ algorithms for molecular simulation, and advance quantum machine learning for
 scientific datasets.
 
 Professor Kais is the [Goodnight Distinguished Chair in Quantum Computing](https://ece.ncsu.edu/people/skais/)
-in the Department of Electrical and Computer Engineering at North Carolina State University.
+in the Department of Electrical and Computer Engineering at North Carolina State University,
+and is affiliated with the [NC State Quantum Initiative](https://quantum.ncsu.edu/).
 
 ### Research Highlights
 
