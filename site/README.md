@@ -5,7 +5,7 @@ This folder is the editable lab website, based on
 The old HTML site remains in the repository root as an archive.
 
 **Live site (after GitHub Pages is set to Actions):**  
-https://staimoo_ncstate.github.io/kais-website/
+https://sabre-kais-group.github.io/kaisgroup.github.io/
 
 You do **not** need to know HTML or CSS for routine updates. Edit Markdown or YAML
 files on GitHub, then commit to `main`.
@@ -98,7 +98,7 @@ bundle install
 bundle exec jekyll serve
 ```
 
-Open http://localhost:4000/kais-website/
+Open http://localhost:4000/kaisgroup.github.io/
 
 ---
 
