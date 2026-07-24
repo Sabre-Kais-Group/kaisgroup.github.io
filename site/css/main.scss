@@ -159,9 +159,11 @@ figcaption {
 
 .carousel .item > img {
   width: 100%;
-  max-height: 420px;
+  height: 420px;
   object-fit: cover;
+  object-position: center;
   margin: 0 auto;
+  display: block;
 }
 
 /* Home page — centered layout + larger slider */
@@ -175,12 +177,20 @@ figcaption {
   margin: 12px auto 32px;
 }
 
+.home-carousel .carousel-inner,
+.home-carousel .item {
+  height: 520px;
+}
+
 .home-carousel .item > img {
   width: 100%;
-  max-height: 560px;
-  min-height: 360px;
+  height: 520px;
+  max-height: none;
+  min-height: 0;
   object-fit: cover;
+  object-position: center;
   margin: 0 auto;
+  display: block;
 }
 
 .home-content {
@@ -221,8 +231,9 @@ figcaption {
     width: 140px;
   }
 
+  .home-carousel .carousel-inner,
+  .home-carousel .item,
   .home-carousel .item > img {
-    max-height: 320px;
-    min-height: 220px;
+    height: 280px;
   }
 }
