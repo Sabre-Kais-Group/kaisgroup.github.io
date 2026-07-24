@@ -3,7 +3,7 @@ layout: member
 category: student
 title: Turbasu Chatterjee
 image: turbasu-chatterjee.jpeg
-role: Ph.D. Student, Computer Science
+role: Ph.D. Student, Computer Engineering
 permalink: 'team/turbasu-chatterjee'
 social:
     website:
