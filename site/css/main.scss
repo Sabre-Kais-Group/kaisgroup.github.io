@@ -104,8 +104,8 @@ figcaption {
 }
 
 .member-profile-photo {
-  width: 280px;
-  max-width: 80%;
+  max-width: 200px;
+  width: auto;
   height: auto;
   margin: 0 auto 20px;
   display: block;
@@ -181,9 +181,5 @@ figcaption {
 
   .team-member-photo {
     width: 140px;
-  }
-
-  .member-profile-photo {
-    width: 220px;
   }
 }

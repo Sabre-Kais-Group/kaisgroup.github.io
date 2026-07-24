@@ -3,7 +3,7 @@ layout: member
 category: student
 title: Ishmam Mohtashim
 image: ishmam-mohtashim.png
-role: Ph.D. Student, Physics
+role: Ph.D. Student, Chemistry
 permalink: 'team/ishmam-mohtashim'
 social:
     website:
