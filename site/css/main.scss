@@ -10,6 +10,30 @@ body {
   line-height: 1.5; /* ~150% — within brand 130–160% guidance */
 }
 
+.site-main {
+  display: block;
+  width: 100%;
+}
+
+.site-content,
+.container-fluid {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1200px;
+  float: none;
+}
+
+.site-content {
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+/* Keep navbar/footer full-bleed within their own max width */
+.navbar > .container-fluid,
+#footer .container-fluid {
+  max-width: 1200px;
+}
+
 figcaption {
   font-family: "Roboto Slab", Georgia, serif; /* secondary typeface for captions */
   text-align: right;
@@ -36,14 +60,55 @@ figcaption {
 }
 
 .team-member-card {
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  clear: both;
 }
 
-.container-fluid {
-  margin-right: auto;
-  margin-left: auto;
-  max-width: 1200px;
+.team-member-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.team-member-photo {
+  width: 180px;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto 12px;
+}
+
+.team-member-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 180px;
+}
+
+.team-member-name {
+  margin-top: 0;
+  margin-bottom: 6px;
+}
+
+.team-member-name a {
+  color: #000000;
+}
+
+.team-member-name a:hover {
+  color: #CC0000;
+}
+
+.team-member-role {
+  margin-bottom: 0;
+  color: #333;
+}
+
+.member-profile-photo {
+  width: 280px;
+  max-width: 80%;
+  height: auto;
+  margin: 0 auto 20px;
+  display: block;
 }
 
 .navbar-brand {
@@ -86,7 +151,39 @@ figcaption {
 /* Carousel */
 
 .carousel {
-  border-radius: 3px 3px 3px 3px;
-  margin-bottom: 20px;
-  margin-top: 20px;
+  border-radius: 3px;
+  margin-bottom: 24px;
+  margin-top: 12px;
+  overflow: hidden;
+}
+
+.carousel .item > img {
+  width: 100%;
+  max-height: 420px;
+  object-fit: cover;
+  margin: 0 auto;
+}
+
+.contact-map {
+  display: block;
+  width: 100%;
+  max-width: 900px;
+  height: 450px;
+  margin: 24px auto 0;
+  border: 0;
+}
+
+@media (max-width: 767px) {
+  .team-member-info {
+    min-height: 0;
+    text-align: center;
+  }
+
+  .team-member-photo {
+    width: 140px;
+  }
+
+  .member-profile-photo {
+    width: 220px;
+  }
 }

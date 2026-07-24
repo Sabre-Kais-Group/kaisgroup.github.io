@@ -2,7 +2,8 @@
 layout: default
 ---
 
-<div id="homeid" class="col-sm-8 ml-0 nopadding-left">
+<div class="row">
+<div id="homeid" class="col-sm-8">
 	<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
 		<ol class="carousel-indicators">
 			<li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -12,13 +13,13 @@ layout: default
 
 		<div class="carousel-inner" markdown="0">
 			<div class="item active">
-				<img src="{{ site.url }}{{ site.baseurl }}/images/slider/group.jpg" alt="Kais research group" />
+				<img src="{{ site.url }}{{ site.baseurl }}/images/slider/group.jpg" alt="Kais research group" class="img-responsive center-block" />
 			</div>
 			<div class="item">
-				<img src="{{ site.url }}{{ site.baseurl }}/images/slider/research1.jpg" alt="Quantum algorithms research" />
+				<img src="{{ site.url }}{{ site.baseurl }}/images/slider/research1.jpg" alt="Quantum algorithms research" class="img-responsive center-block" />
 			</div>
 			<div class="item">
-				<img src="{{ site.url }}{{ site.baseurl }}/images/slider/research2.jpg" alt="Quantum machine learning" />
+				<img src="{{ site.url }}{{ site.baseurl }}/images/slider/research2.jpg" alt="Quantum machine learning" class="img-responsive center-block" />
 			</div>
 		</div>
 		<a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -34,6 +35,7 @@ layout: default
 	{{ content }}
 </div>
 
-<div id="newsid" class="col-sm-4 nopadding-right" >
+<div id="newsid" class="col-sm-4">
 	{% include tweets.html %}
+</div>
 </div>

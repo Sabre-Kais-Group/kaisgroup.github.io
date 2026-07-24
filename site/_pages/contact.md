@@ -21,4 +21,4 @@ Office: 2004H Engineering Building II
 890 Oval Drive  
 Raleigh, NC 27606
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="450" src="https://maps.google.com/maps?q=Engineering+Building+II,+890+Oval+Dr,+Raleigh,+NC+27606&amp;output=embed" style="border: 0; max-width: 100%;" width="600"></iframe>
+<iframe class="contact-map" allowfullscreen="allowfullscreen" frameborder="0" src="https://maps.google.com/maps?q=Engineering+Building+II,+890+Oval+Dr,+Raleigh,+NC+27606&amp;output=embed"></iframe>
