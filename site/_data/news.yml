@@ -1,9 +1,27 @@
+- date: 06/15/26
+  title: "Dr. Ammar Ali joins the group"
+  tags:
+    - new member
+  content: >
+      Dr. Ammar Ali joins the group as a Postdoctoral Researcher. Dr Ali finished his Ph.D. in Physics at Purdue University and will be working on quantum computing in the group. Welcome to the group, Dr. Ali!
+
+
 - date: 06/01/26
   title: "Summer Workshop on Quantum Machine Learning for Complex Science and Engineering Problems "
   tags:
     - workshop
   content: >
     Dr. Kais hosted a summer workshop on Quantum Machine Learning for Complex Science and Engineering Problems at NCSU.
+
+- date: 04/14/26
+  title: "Saurabh Shivpuje defense"
+  tags:
+    - defense
+    - alumni
+  content: >
+    Saurabh Shivpuje successfully defended his Ph.D. thesis,
+    “From Electronic Structure to Dynamics: Traversing the Fabric of Nature Using Quantum Computers.”
+    Congratulations, Dr. Shivpuje!
 
 - date: 04/07/26
   title: "Vinit Singh defense"
