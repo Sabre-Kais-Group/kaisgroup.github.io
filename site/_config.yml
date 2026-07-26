@@ -5,7 +5,7 @@ email: skais@ncsu.edu
 description: >-
   Quantum Information and Quantum Computation research group led by
   Goodnight Distinguished Chair Sabre Kais.
-baseurl: "/kaisgroup.github.io"
+baseurl: ""
 url: "https://sabre-kais-group.github.io"
 
 include:
