@@ -1,0 +1,32 @@
+---
+title: "Invited Lectures & Books"
+layout: default
+excerpt: "Sabre Kais Group — Invited Lectures & Books"
+sitemap: false
+permalink: /lectures-books/
+---
+
+<h1>{{ page.title }}</h1>
+<p>
+  {{ site.data.invited_lectures | size }} invited lectures/seminars and
+  {{ site.data.books | size }} edited books &amp; special issues, compiled from
+  Sabre Kais's curriculum vitae. To refresh this list, see the site README.
+</p>
+
+<h2>Books &amp; Special Issues</h2>
+<ul class="list-unstyled">
+{% for book in site.data.books %}
+  <li style="margin-bottom: 0.75em;">{{ book.text }}</li>
+{% endfor %}
+</ul>
+
+<h2>Invited Lectures</h2>
+{% assign lectures_by_year = site.data.invited_lectures | group_by: "year" | sort: "name" | reverse %}
+{% for group in lectures_by_year %}
+  <h3>{{ group.name }}</h3>
+  <ul class="list-unstyled">
+  {% for lecture in group.items %}
+    <li style="margin-bottom: 0.75em;">{{ lecture.text }}</li>
+  {% endfor %}
+  </ul>
+{% endfor %}
