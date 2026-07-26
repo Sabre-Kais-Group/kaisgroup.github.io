@@ -26,6 +26,13 @@ permalink: /team/
         <div class="col-sm-8 col-md-9 team-member-info">
             <h4 class="team-member-name"><a href="{{ member.url | relative_url }}">{{ member.title }}</a></h4>
             <p class="team-member-role">{{ member.role }}</p>
+            {% if member.social.website or member.cv %}
+            <p class="team-member-links">
+                {% if member.social.website %}<a href="{{ member.social.website }}" target="_blank" rel="noopener">Faculty profile</a>{% endif %}
+                {% if member.social.website and member.cv %} &middot; {% endif %}
+                {% if member.cv %}<a href="{{ member.cv | relative_url }}">Curriculum Vitae (PDF)</a>{% endif %}
+            </p>
+            {% endif %}
         </div>
     </div>
 </div>
