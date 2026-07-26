@@ -1,3 +1,9 @@
+- date: 06/16/26
+  title: "Dr. Hrushikesh Patil joins the group"
+  tags:
+    - new member
+  content: >
+      Dr. Hrushikesh Patil joins the group as a Postdoctoral Researcher. Dr Patil finished his Ph.D. in Computer Engineering at NC State University in quantum error correction and mitigation and will be working on quantum computing in the group. Welcome to the group, Dr. Patil!
 - date: 06/15/26
   title: "Dr. Ammar Ali joins the group"
   tags:
@@ -12,6 +18,13 @@
     - workshop
   content: >
     Dr. Kais hosted a summer workshop on Quantum Machine Learning for Complex Science and Engineering Problems at NCSU.
+
+- date: 05/01/26
+  title: "Dr Manas Sajjan joins ORNL as research scientist."
+  tags:
+    - alumni
+  content: >
+    Dr Manas Sajjan joins Oak Ridge National Laboratory as Research Scientist. Congratulations, Dr. Sajjan!
 
 - date: 04/14/26
   title: "Saurabh Shivpuje defense"
