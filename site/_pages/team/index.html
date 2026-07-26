@@ -26,6 +26,13 @@ permalink: /team/
         <div class="col-sm-8 col-md-9 team-member-info">
             <h4 class="team-member-name"><a href="{{ member.url | relative_url }}">{{ member.title }}</a></h4>
             <p class="team-member-role">{{ member.role }}</p>
+            {% if member.social.website or member.cv %}
+            <p class="team-member-links">
+                {% if member.social.website %}<a href="{{ member.social.website }}" target="_blank" rel="noopener">Faculty profile</a>{% endif %}
+                {% if member.social.website and member.cv %} &middot; {% endif %}
+                {% if member.cv %}<a href="{{ member.cv | relative_url }}">Curriculum Vitae (PDF)</a>{% endif %}
+            </p>
+            {% endif %}
         </div>
     </div>
 </div>
@@ -59,15 +66,38 @@ permalink: /team/
 <li>Dr. Manas Sajjan (Postdoc. 2026): Scientist, Oak Ridge National Laboratory</li>
 <li>Dr. Amandeep Singh Bhatia (Postdoc. 2026): Quantum AI Research Scientist, St. Jude Children's Research Hospital</li>
 <li>Dr. Mandeep Kaur Saggi (Postdoc. 2026)</li>
+<li>Dr. Rishabh Gupta (Postdoc. 2025)</li>
 <li>Dr. Sangchul Oh (Postdoc. 2023): Faculty, Department of Physics, Southern Illinois University Carbondale</li>
+<li>Dr. Zixuan Hu (Postdoc. 2023)</li>
 <li>Dr. Vivek Dixit (Postdoc. 2021): Associate Professor, uGDX School of Technology, ATLAS SkillTech University</li>
 <li>Dr. Kumar Ghosh (Postdoc. 2020): Quantum Scientist at E.ON, Essen, Germany</li>
 <li>Dr. Yijue Ding (Postdoc. 2020)</li>
+<li>Dr. Shuhao Yeh (Postdoc. 2019)</li>
+<li>Dr. Merid Legesse Belayneh (Postdoc. 2017)</li>
 <li>Dr. Sachin Yeole (Postdoc. 2016)</li>
 <li>Dr. Jian Wang (Postdoc. 2015)</li>
 <li>Dr. Nan Jiang (Postdoc. 2015)</li>
 <li>Dr. Dong Wang (Postdoc. 2014)</li>
 <li>Dr. Felipe Herrera (Postdoc. 2012)</li>
+<li>Dr. Jing Zhu (Postdoc. 2012)</li>
+<li>Dr. Edwin Antillon (Postdoc. 2012)</li>
+<li>Dr. Qi Wei (Postdoc. 2010)</li>
+<li>Dr. Winton Moy (Postdoc. 2010)</li>
+<li>Dr. Xu Qing (Postdoc. 2010)</li>
+<li>Dr. Hefeng Wang (Postdoc. 2008)</li>
+<li>Dr. Zheng Huang (Postdoc. 2007)</li>
+<li>Dr. Qicun Shi (Postdoc. 2005): Research Scientist, MIT</li>
+<li>Dr. Stephen Belair (Postdoc. 2004)</li>
+<li>Dr. Jiaxiang Wang (Postdoc. 2004): Faculty, East China Normal University</li>
+<li>Dr. Omar Osenda (Postdoc. 2004): University of Córdoba</li>
+<li>Dr. Pablo Nigra (Postdoc. 2001)</li>
+<li>Dr. Ricardo Sauerwein (Postdoc. 2001): Federal University of Santa Maria</li>
+<li>Dr. Aaron Stanton (Postdoc. 1999)</li>
+<li>Dr. Alexei V. Seregeev (Postdoc. 1999): Ben Gurion University</li>
+<li>Imad Ladadwa (Visiting Student, 1999)</li>
+<li>Dr. Juan Pablo Neirotti (Postdoc. 1998): São Paulo</li>
+<li>Dr. Pablo Serra (Postdoc. 1997): University of Córdoba</li>
+<li>Dr. Richard Bleil (Postdoc. 1995): Dakota State University</li>
 </ul>
 
 <h3>Ph.D. Alumni</h3>
@@ -76,18 +106,24 @@ permalink: /team/
 <li>Dr. Vinit Singh (Ph.D. 2026): Research Scientist, Meta, San Francisco</li>
 <li>Dr. Rishabh Gupta (Ph.D. 2024): Quantum Scientist, Xanadu, Canada</li>
 <li>Dr. Bilal Khalid (Ph.D. 2024)</li>
+<li>Dr. Juexiao Wang (Ph.D. 2024)</li>
+<li>Dr. Keerthi Kumaran (Ph.D. 2024)</li>
 <li>Dr. Sumit Kale (Ph.D. 2023): IBM, India</li>
 <li>Dr. Blake Wilson (Ph.D. 2023): Research Scientist, Quantinuum, UK</li>
 <li>Dr. Raja Selvarajan (Ph.D. 2023): Research Scientist, PASQAL, Netherlands</li>
 <li>Dr. Junxu Li (Ph.D. 2023): Faculty, Department of Physics, Northeastern University, Shenyang, China</li>
 <li>Dr. Shree Hari Sureshbabu (Ph.D. 2023): Sr. Applied Research Associate, JPMorgan Chase &amp; Co.</li>
 <li>Dr. Yuchen Wang (Ph.D. 2023): Postdoctoral Fellow, Dept. of Chemistry, Purdue University</li>
+<li>Dr. Vineet Mohanty (Ph.D. 2020)</li>
 <li>Dr. Ronxin Xia (Ph.D. 2020): Research Scientist, Facebook, San Francisco</li>
 <li>Dr. Teng Bian (Ph.D. 2020): Research Scientist, Facebook, San Francisco</li>
+<li>Zhanfu Yang (M.Sc. 2019)</li>
 <li>Dr. Shuxian Jiang (Ph.D. 2018)</li>
 <li>Dr. Yitang Zhang (Ph.D. 2017)</li>
 <li>Dr. Yudong Cao (Ph.D. 2016)</li>
 <li>Dr. Shuhao Yeh (Ph.D. 2016)</li>
 <li>Dr. Ross Hoehn (Ph.D. 2014)</li>
+<li>Dr. Rishabh Chandra (Ph.D. 2014)</li>
+<li>Dr. Cyrus Vandrevala (Ph.D. 2014)</li>
 <li>Dr. Anmer Daskin (Ph.D. 2013)</li>
 </ul>
