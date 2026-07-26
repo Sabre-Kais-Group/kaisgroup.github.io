@@ -26,13 +26,6 @@ permalink: /team/
         <div class="col-sm-8 col-md-9 team-member-info">
             <h4 class="team-member-name"><a href="{{ member.url | relative_url }}">{{ member.title }}</a></h4>
             <p class="team-member-role">{{ member.role }}</p>
-            {% if member.social.website or member.cv %}
-            <p class="team-member-links">
-                {% if member.social.website %}<a href="{{ member.social.website }}" target="_blank" rel="noopener">Faculty profile</a>{% endif %}
-                {% if member.social.website and member.cv %} &middot; {% endif %}
-                {% if member.cv %}<a href="{{ member.cv | relative_url }}">Curriculum Vitae (PDF)</a>{% endif %}
-            </p>
-            {% endif %}
         </div>
     </div>
 </div>
@@ -63,67 +56,67 @@ permalink: /team/
 
 <h3>Postdoctoral Fellows</h3>
 <ul>
-<li>Dr. Manas Sajjan (Postdoc. 2026): Scientist, Oak Ridge National Laboratory</li>
-<li>Dr. Amandeep Singh Bhatia (Postdoc. 2026): Quantum AI Research Scientist, St. Jude Children's Research Hospital</li>
-<li>Dr. Mandeep Kaur Saggi (Postdoc. 2026)</li>
-<li>Dr. Rishabh Gupta (Postdoc. 2025)</li>
-<li>Dr. Sangchul Oh (Postdoc. 2023): Faculty, Department of Physics, Southern Illinois University Carbondale</li>
-<li>Dr. Zixuan Hu (Postdoc. 2023)</li>
-<li>Dr. Vivek Dixit (Postdoc. 2021): Associate Professor, uGDX School of Technology, ATLAS SkillTech University</li>
-<li>Dr. Kumar Ghosh (Postdoc. 2020): Quantum Scientist at E.ON, Essen, Germany</li>
-<li>Dr. Yijue Ding (Postdoc. 2020)</li>
-<li>Dr. Shuhao Yeh (Postdoc. 2019)</li>
-<li>Dr. Merid Legesse Belayneh (Postdoc. 2017)</li>
-<li>Dr. Sachin Yeole (Postdoc. 2016)</li>
-<li>Dr. Jian Wang (Postdoc. 2015)</li>
-<li>Dr. Nan Jiang (Postdoc. 2015)</li>
-<li>Dr. Dong Wang (Postdoc. 2014)</li>
-<li>Dr. Felipe Herrera (Postdoc. 2012)</li>
-<li>Dr. Jing Zhu (Postdoc. 2012)</li>
-<li>Dr. Edwin Antillon (Postdoc. 2012)</li>
-<li>Dr. Qi Wei (Postdoc. 2010)</li>
-<li>Dr. Winton Moy (Postdoc. 2010)</li>
-<li>Dr. Xu Qing (Postdoc. 2010)</li>
-<li>Dr. Hefeng Wang (Postdoc. 2008)</li>
-<li>Dr. Zheng Huang (Postdoc. 2007)</li>
-<li>Dr. Qicun Shi (Postdoc. 2005): Research Scientist, MIT</li>
-<li>Dr. Stephen Belair (Postdoc. 2004)</li>
-<li>Dr. Jiaxiang Wang (Postdoc. 2004): Faculty, East China Normal University</li>
-<li>Dr. Omar Osenda (Postdoc. 2004): University of Córdoba</li>
-<li>Dr. Pablo Nigra (Postdoc. 2001)</li>
-<li>Dr. Ricardo Sauerwein (Postdoc. 2001): Federal University of Santa Maria</li>
-<li>Dr. Aaron Stanton (Postdoc. 1999)</li>
-<li>Dr. Alexei V. Seregeev (Postdoc. 1999): Ben Gurion University</li>
-<li>Imad Ladadwa (Visiting Student, 1999)</li>
-<li>Dr. Juan Pablo Neirotti (Postdoc. 1998): São Paulo</li>
-<li>Dr. Pablo Serra (Postdoc. 1997): University of Córdoba</li>
-<li>Dr. Richard Bleil (Postdoc. 1995): Dakota State University</li>
+<li>Dr. Manas Sajjan (2020-2026) - Scientist, Oak Ridge National Laboratory</li>
+<li>Dr. Amandeep Singh Bhatia (2021-2026) - Quantum AI Research Scientist, St. Jude Children's Research Hospital</li>
+<li>Dr. Mandeep Kaur Saggi (2022-2026)</li>
+<li>Dr. Yuchen Wang (2023–2024), Physics — Quantum entanglement</li>
+<li>Dr. Rishabh Gupta (2024–2025), Chemistry — Quantum computing</li>
+<li>Dr. Zixuan Hu (2016–2023) Chemistry — Quantum coherence & computing</li>
+<li>Dr. Sangchul Oh (2020–2023) Chemistry — Quantum computing algorithms</li>
+<li>Dr. Yijue Ding (2018–2020) Physics — Quantum entanglement</li>
+<li>Dr. Vivek Dixit (2019–2021) Chemistry — Quantum machine learning</li>
+<li>Dr. Kumar Ghosh (2018–2020) Chemistry — Quantum machine learning</li>
+<li>Dr. Merid Legesse Belayneh (2015–2017) Chemistry — Quantum materials</li>
+<li>Dr. Nan Jiang (2015–2016) Computer Science — Quantum entanglement</li>
+<li>Dr. Jiang Wang (2015–2016) Computer Science — Quantum computing</li>
+<li>Dr. Sachin D. Yeole (2014–2015) Chemistry — Finite size scaling</li>
+<li>Dr. Dong Wang (2014–2015) Chemistry — Anhui University</li>
+<li>Dr. Felipe Herrera (2012–Present) Chemistry — Universidad de Santiago de Chile
+<li>Dr. Omar Osenda (2002–2004) Physics — University of Córdoba</li>
+<li>Dr. Jiaxiang Wang (2001–2004) physics — East China Normal University</li>
+<li>Dr. Qicun Shi (1998–2005) Chemistry — Research Scientist, MIT</li>
+<li>Dr. Ricardo Sauerwein (1999–2001) Physics — Federal University of Santa Maria</li>
+<li>Dr. Alexei V. Seregeev (1998–1999) Physics — Ben Gurion University</li>
+<li>Dr. Juan Pablo Neirotti (1997–1998) Physics — São Paulo</li>
+<li>Dr. Pablo Serra (1995–1997) Physics — University of Córdoba</li>
+<li>Dr. Richard Bleil (1994–1995) Chemistry — Dakota State University</li>
 </ul>
 
 <h3>Ph.D. Alumni</h3>
 <ul>
-<li>Dr. Saurabh Shivpuje (Ph.D. 2026)</li>
-<li>Dr. Vinit Singh (Ph.D. 2026): Research Scientist, Meta, San Francisco</li>
-<li>Dr. Rishabh Gupta (Ph.D. 2024): Quantum Scientist, Xanadu, Canada</li>
-<li>Dr. Bilal Khalid (Ph.D. 2024)</li>
-<li>Dr. Juexiao Wang (Ph.D. 2024)</li>
-<li>Dr. Keerthi Kumaran (Ph.D. 2024)</li>
-<li>Dr. Sumit Kale (Ph.D. 2023): IBM, India</li>
+<li>Dr. Saurabh Shivpuje (2021–2026), Chemistry — Quantum computing algorithms</li>
+<li>Dr. Vinit Kumar Singh (2021–2026), Chemistry — Quantum computing algorithms. Research Scientist, Meta, San Francisco</li>
+<li>Dr. Bilal Khalid (2020–2024), Physics — Quantum topological phase transitions</li>
+<li>Dr. Sumit Kale (2019–2023), Chemistry — Quantum computing. Quantum Software Engineer at IBM, Bengaluru, Karnataka, India</li>
+<li>Dr. Rishabh Gupta (2019–2024), Chemistry — Quantum computing</li>
+<li>Dr. Junxu Li (2018–2023, Physics — Quantum machine learning. Faculty, Department of Physics, Northeastern University, Shenyang, China</li>
 <li>Dr. Blake Wilson (Ph.D. 2023): Research Scientist, Quantinuum, UK</li>
-<li>Dr. Raja Selvarajan (Ph.D. 2023): Research Scientist, PASQAL, Netherlands</li>
-<li>Dr. Junxu Li (Ph.D. 2023): Faculty, Department of Physics, Northeastern University, Shenyang, China</li>
-<li>Dr. Shree Hari Sureshbabu (Ph.D. 2023): Sr. Applied Research Associate, JPMorgan Chase &amp; Co.</li>
-<li>Dr. Yuchen Wang (Ph.D. 2023): Postdoctoral Fellow, Dept. of Chemistry, Purdue University</li>
-<li>Dr. Vineet Mohanty (Ph.D. 2020)</li>
-<li>Dr. Ronxin Xia (Ph.D. 2020): Research Scientist, Facebook, San Francisco</li>
-<li>Dr. Teng Bian (Ph.D. 2020): Research Scientist, Facebook, San Francisco</li>
-<li>Zhanfu Yang (M.Sc. 2019)</li>
-<li>Dr. Shuxian Jiang (Ph.D. 2018)</li>
-<li>Dr. Yitang Zhang (Ph.D. 2017)</li>
-<li>Dr. Yudong Cao (Ph.D. 2016)</li>
-<li>Dr. Shuhao Yeh (Ph.D. 2016)</li>
-<li>Dr. Ross Hoehn (Ph.D. 2014)</li>
-<li>Dr. Rishabh Chandra (Ph.D. 2014)</li>
-<li>Dr. Cyrus Vandrevala (Ph.D. 2014)</li>
-<li>Dr. Anmer Daskin (Ph.D. 2013)</li>
+<li>Dr. Juexiao Wang (2022–2024), Computer Science — Quantum machine learning</li>
+<li>Dr. Keerthi Kumaran (2023–2024), Physics — Quantum computing algorithms. PhD student at Purdue University</li>
+<li>Dr. Yuchen Wang (2017–2023), Physics — Quantum entanglement. Postdoctoral Fellow, Dept. of Chemistry, Purdue University</li>
+<li>Dr. Vineet Mohanty (2017–2020), Mechanical Engineering — Quantum phases</li>
+<li>Dr. Shree Hari Sureshbabu (2020–2023), ECE — Quantum machine learning. Sr. Applied Research Associate, JPMorgan Chase &amp; Co.</li>
+<li>Dr. Raja Selvarajan (2017–2023), Physics — Quantum algorithms. Research Scientist, PASQAL, Netherlands</li>
+<li>Dr. Rongxin Xia (2016–2020), Physics — Quantum computing. Research Scientist, Facebook, San Francisco</li>
+<li>Dr. Teng Bian (2016–2020), Physics — Quantum information. Research Scientist, Facebook, San Francisco</li>
+<li>Dr. Zhanfu Yang (2018–2019), M.Sc., Computer Science — Quantum machine learning </li>
+<li>Dr. Shuxian Jiang (2012–2017), Computer Science — Quantum annealing. </li>
+<li>Dr. Yudong Cao (2012–2016), Computer Science — Quantum algorithms. CTO at Zapata Quantum</li>
+<li>Dr. Rishabh Chandra (2012–2014), Mechanical Engineering — Quantum algorithms. AD Specialty Analytics at Regeneron</li>
+<li>Dr. Cyrus Vandrevala (2011–2014), Physics — Entanglement in materials. </li>
+<li>Dr. Yiteng Zhang (2011–2016), Physics — Entanglement in biological systems. </li>
+<li>Dr. Shu-Hao Yeh (2010–2015), Chemistry — Quantum coherence in photosynthesis. Senior Data Scientist at Lowe’s Companies, Inc.</li>
+<li>Dr. Edwin Antillon (2009–2012), Physics — Finite size scaling, conformal invariance. Research Physicist US Naval Research Laboratory</li>
+<li>Dr. Anmer Deskin (2009–2013), Computer Science — Quantum compiler. Principal Investigator and Research Scientist at Pison Technology, Inc.</li>
+<li>Dr. Ross Hoehn (2009–2014), Chemistry — Dimensional scaling. </li>
+<li>Dr. Jing Zhu (2006–2012), Chemistry — Quantum algorithms for global optimization. </li>
+<li>Dr. Qi Wei (2004–2010), Chemistry — Stability of matter, dimensional scaling. Associate Professor at East China Normal University</li>
+<li>Dr. Hefeng Wang (2004–2008), Chemistry — Quantum algorithms. </li>
+<li>Dr. Winton Moy (2004–2010), Chemistry — Finite elements and scaling. Staff Data Scientist at Kraft Heinz</li>
+<li>Dr. Xu Qing (2005–2010), Physics — Spin systems. </li>
+<li>Dr. Zheng Huang (2002–2007), Chemistry — Entanglement theory. </li>
+<li>Dr. Aaron Stanton (1995–1999), Chemistry — Global optimization. Owner at Cathartic Bliss, LLC</li>
+<li>Dr. Pablo Nigra (1996–2001), Chemistry — Water clusters and phase changes. Research Associate at University Castilla-LaMancha</li>
+<li>Dr. Stephen Belair (1998–2004), Chemistry — Electronic structure methods.</li>
+<li>Dr. Imad Ladadwa (1999), Visiting student — Finite size scaling in scattering theory. Assistant Professor: Fahad Bin Sultan University</li>
 </ul>
