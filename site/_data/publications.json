@@ -6,7 +6,8 @@
     "container": "Journal of the American Chemical Society",
     "year": 2026,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:I858iXPj1OkC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:I858iXPj1OkC",
+    "topics": []
   },
   {
     "id": "2026-joseph-s-francisco-a-biographical-sketch",
@@ -15,7 +16,8 @@
     "container": "The Journal of Physical Chemistry A 130 (24), 4481-4483",
     "year": 2026,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:J3LtWjKFLicC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:J3LtWjKFLicC",
+    "topics": []
   },
   {
     "id": "2026-tribute-to-joseph-s-francisco",
@@ -24,7 +26,8 @@
     "container": "The Journal of Physical Chemistry A 130 (24), 4479-4480",
     "year": 2026,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:vnF2_uLGgtgC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:vnF2_uLGgtgC",
+    "topics": []
   },
   {
     "id": "2026-emergence-of-a-luttinger-liquid-phase",
@@ -33,7 +36,10 @@
     "container": "Physical Review Research 8 (2), 023340",
     "year": 2026,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:PlWzFYVEG4EC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:PlWzFYVEG4EC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2026-topological-edge-states-from-molecular-chirality",
@@ -42,7 +48,10 @@
     "container": "arXiv preprint arXiv:2606.00877",
     "year": 2026,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:eH23hyXCXa4C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:eH23hyXCXa4C",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2026-drive-only-interaction-engineering-via-dynamical",
@@ -51,7 +60,10 @@
     "container": "arXiv preprint arXiv:2605.19114",
     "year": 2026,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:XDrR66g3YHsC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:XDrR66g3YHsC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2026-polynomially-efficient-quantum-enabled-variational-monte",
@@ -60,7 +72,11 @@
     "container": "npj Quantum Information",
     "year": 2026,
     "citations": 3,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:yY3RG6sOEgwC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:yY3RG6sOEgwC",
+    "topics": [
+      "quantum-machine-learning",
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2026-ensemble-engineering-to-overcome-destructive-cancellation",
@@ -69,7 +85,8 @@
     "container": "arXiv preprint arXiv:2605.03729",
     "year": 2026,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Y9VhQm-5nPIC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Y9VhQm-5nPIC",
+    "topics": []
   },
   {
     "id": "2026-superdiffusion-resilience-in-heisenberg-chains-with",
@@ -78,7 +95,10 @@
     "container": "Physical Review B 113 (17), 174408",
     "year": 2026,
     "citations": 1,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:6ZzL7HXColQC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:6ZzL7HXColQC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2026-quantum-machine-learning-for-complex-systems",
@@ -87,7 +107,10 @@
     "container": "Academia Quantum 3 (2)",
     "year": 2026,
     "citations": 1,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:g8uWPOAv7ggC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:g8uWPOAv7ggC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2026-quantum-ai-for-cancer-diagnostic-biomarker",
@@ -96,7 +119,10 @@
     "container": "arXiv preprint arXiv:2604.18621",
     "year": 2026,
     "citations": 1,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:kUhpeDhEZMUC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:kUhpeDhEZMUC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2026-chiral-discrimination-on-gate-based-quantum",
@@ -105,7 +131,10 @@
     "container": "The Journal of Chemical Physics 164 (14)",
     "year": 2026,
     "citations": 2,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:x21FZCSn4ZoC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:x21FZCSn4ZoC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2026-out-of-time-order-correlators-bridge",
@@ -114,7 +143,10 @@
     "container": "The Journal of chemical physics 164 (13)",
     "year": 2026,
     "citations": 1,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:EaFouW7jFu4C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:EaFouW7jFu4C",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2026-qflux-an-open-source-toolkit-for",
@@ -123,7 +155,11 @@
     "container": "",
     "year": 2026,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:aDl3D7KC1E4C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:aDl3D7KC1E4C",
+    "topics": [
+      "open-quantum-systems",
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2026-quantum-simulation-of-interlayer-charge-ordering",
@@ -132,7 +168,10 @@
     "container": "arXiv preprint arXiv:2603.27826",
     "year": 2026,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:KI9T_ytC6pkC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:KI9T_ytC6pkC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2026-quantum-simulation-of-inelastic-neutron-scattering",
@@ -141,7 +180,10 @@
     "container": "APS Global Physics Summit 2026",
     "year": 2026,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:BAanoTsO0WEC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:BAanoTsO0WEC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2026-quantum-computing-algorithms-and-applications-for",
@@ -150,7 +192,11 @@
     "container": "Purdue University",
     "year": 2026,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:PuOEWVtPfzwC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:PuOEWVtPfzwC",
+    "topics": [
+      "quantum-algorithms-chemistry",
+      "quantum-coherence-entanglement"
+    ]
   },
   {
     "id": "2026-quantum-reinforcement-learning-for-semantic-ranking",
@@ -159,7 +205,10 @@
     "container": "APS Global Physics Summit 2026",
     "year": 2026,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:3A3nxV7CjKIC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:3A3nxV7CjKIC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2026-pearsan-a-machine-learning-method-for",
@@ -168,7 +217,10 @@
     "container": "Advanced Optical Materials 14 (10), e00249",
     "year": 2026,
     "citations": 2,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:2vr6o8x5NLkC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:2vr6o8x5NLkC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2026-quantum-machine-learning-for-complex-systems-2",
@@ -177,7 +229,10 @@
     "container": "arXiv preprint arXiv:2602.20352",
     "year": 2026,
     "citations": 1,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ifOnle78iJkC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ifOnle78iJkC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2026-qflux-quantum-circuit-implementations-of-molecular",
@@ -186,7 +241,10 @@
     "container": "",
     "year": 2026,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:TGkaJS32XoUC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:TGkaJS32XoUC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2026-quantum-computing-for-electronic-circular-dichroism",
@@ -195,7 +253,10 @@
     "container": "arXiv preprint arXiv:2602.03710",
     "year": 2026,
     "citations": 1,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:wyM6WWKXmoIC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:wyM6WWKXmoIC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2026-qflux-an-open-source-toolkit-for-2",
@@ -204,7 +265,10 @@
     "container": "",
     "year": 2026,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:rOcdG6UcVlcC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:rOcdG6UcVlcC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2026-qflux-quantum-circuit-implementations-of-molecular-2",
@@ -213,7 +277,10 @@
     "container": "Yale University, New Haven, CT 06511, USA",
     "year": 2026,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:xGWFX6Gbr9MC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:xGWFX6Gbr9MC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2026-qflux-an-open-source-toolkit-for-3",
@@ -222,7 +289,10 @@
     "container": "",
     "year": 2026,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:YPNY0knpFBYC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:YPNY0knpFBYC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2026-qflux-classical-foundations-for-quantum-dynamics",
@@ -231,7 +301,10 @@
     "container": "",
     "year": 2026,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:3_LpOwP6eMYC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:3_LpOwP6eMYC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2026-digital-quantum-simulation-of-wavepacket-correlations",
@@ -240,7 +313,11 @@
     "container": "Entropy 28 (2), 144",
     "year": 2026,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:TesyEGJKHF4C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:TesyEGJKHF4C",
+    "topics": [
+      "quantum-algorithms-chemistry",
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2026-introduction-quantum-computing",
@@ -249,7 +326,8 @@
     "container": "Chemical Reviews 126 (1), 1-3",
     "year": 2026,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:bVQMTfhMCi4C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:bVQMTfhMCi4C",
+    "topics": []
   },
   {
     "id": "2026-multi-omic-and-quantum-machine-learning",
@@ -258,7 +336,10 @@
     "container": "Future Generation Computer Systems 174, 107905",
     "year": 2026,
     "citations": 28,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ijdKiLOsEJMC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ijdKiLOsEJMC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2025-quantum-smell-tunneling-mechanisms-in-olfaction",
@@ -267,7 +348,8 @@
     "container": "Molecules 30 (24), 4663",
     "year": 2025,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:DXE8ND7PrJAC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:DXE8ND7PrJAC",
+    "topics": []
   },
   {
     "id": "2025-strong-local-passivity-in-unconventional-scenarios",
@@ -276,7 +358,8 @@
     "container": "Entropy 27 (11), 1147",
     "year": 2025,
     "citations": 2,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:RMgMIBzvq-4C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:RMgMIBzvq-4C",
+    "topics": []
   },
   {
     "id": "2025-multimodal-quantum-vision-transformer-for-enzyme",
@@ -285,7 +368,10 @@
     "container": "2025 IEEE International Conference on Quantum Artificial Intelligence (QAI\u00a0\u2026",
     "year": 2025,
     "citations": 2,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:QoJ_w57xiyAC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:QoJ_w57xiyAC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2025-machine-learning-assisted-surrogate-annealing-for",
@@ -294,7 +380,10 @@
     "container": "Photonic Computing: From Materials and Devices to Systems and Applications\u00a0\u2026",
     "year": 2025,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:cBPnxVikjH8C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:cBPnxVikjH8C",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2025-quantum-integration-of-spiking-leaky-integrate",
@@ -303,7 +392,10 @@
     "container": "2025 IEEE International Conference on Quantum Computing and Engineering (QCE\u00a0\u2026",
     "year": 2025,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:I8rxH6phXEkC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:I8rxH6phXEkC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2025-enhancing-quantum-federated-learning-with-fisher",
@@ -312,7 +404,10 @@
     "container": "2025 IEEE International Conference on Quantum Computing and Engineering (QCE\u00a0\u2026",
     "year": 2025,
     "citations": 3,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:KS-xo-ZNxMsC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:KS-xo-ZNxMsC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2025-a-deep-dive-into-the-interplay",
@@ -321,7 +416,10 @@
     "container": "2025 IEEE International Conference on Quantum Computing and Engineering (QCE\u00a0\u2026",
     "year": 2025,
     "citations": 1,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:M0leSnx2MbUC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:M0leSnx2MbUC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2025-roadblocks-and-opportunities-in-quantum-algorithms",
@@ -330,7 +428,8 @@
     "container": "arXiv preprint arXiv:2508.13973",
     "year": 2025,
     "citations": 1,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:6VlyvFCUEfcC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:6VlyvFCUEfcC",
+    "topics": []
   },
   {
     "id": "2025-spectral-bounds-on-entropy-and-ergotropy",
@@ -339,7 +438,8 @@
     "container": "Physical Review Research 7 (3), 033117",
     "year": 2025,
     "citations": 7,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:7Frjd3zlGBUC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:7Frjd3zlGBUC",
+    "topics": []
   },
   {
     "id": "2025-generalized-multipartite-entropic-uncertainty-relations-theory",
@@ -348,7 +448,10 @@
     "container": "arXiv (Cornell University)",
     "year": 2025,
     "citations": 2,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ghEM2AJqZyQC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ghEM2AJqZyQC",
+    "topics": [
+      "quantum-coherence-entanglement"
+    ]
   },
   {
     "id": "2025-classical-analog-of-entanglement-for-a",
@@ -357,7 +460,10 @@
     "container": "Physical Review A 112 (1), 012201",
     "year": 2025,
     "citations": 3,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:sJPMR1oEGYQC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:sJPMR1oEGYQC",
+    "topics": [
+      "quantum-coherence-entanglement"
+    ]
   },
   {
     "id": "2025-the-qubit-information-logic-theory-for",
@@ -366,7 +472,10 @@
     "container": "Annalen der Physik 537 (7), 2500176",
     "year": 2025,
     "citations": 1,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:oPLKW5k6eA4C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:oPLKW5k6eA4C",
+    "topics": [
+      "quantum-coherence-entanglement"
+    ]
   },
   {
     "id": "2025-modulator-assisted-local-control-of-quantum",
@@ -375,7 +484,8 @@
     "container": "arXiv preprint arXiv:2506.18276",
     "year": 2025,
     "citations": 2,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Vr2j17o0sqMC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Vr2j17o0sqMC",
+    "topics": []
   },
   {
     "id": "2025-entanglement-entropy-as-a-potential-measure",
@@ -384,7 +494,10 @@
     "container": "56th Annual Meeting of the APS Division of Atomic, Molecular and Optical Physics",
     "year": 2025,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:L24QuVWYgZ0C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:L24QuVWYgZ0C",
+    "topics": [
+      "quantum-coherence-entanglement"
+    ]
   },
   {
     "id": "2025-maximal-entropy-formalism-and-the-restricted",
@@ -393,7 +506,11 @@
     "container": "The Journal of Physical Chemistry A 129 (24), 5405-5414",
     "year": 2025,
     "citations": 5,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:hNSvKAmkeYkC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:hNSvKAmkeYkC",
+    "topics": [
+      "quantum-state-tomography",
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2025-application-of-quantum-inspired-tensor-networks",
@@ -402,7 +519,10 @@
     "container": "Quantum Machine Intelligence 7 (1), 12",
     "year": 2025,
     "citations": 14,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:m92CDrhVnKEC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:m92CDrhVnKEC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2025-photonic-inverse-design-through-machine-learning",
@@ -411,7 +531,10 @@
     "container": "2025 Conference on Lasers and Electro-Optics (CLEO), 1-2",
     "year": 2025,
     "citations": 2,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:rCNdntzdTkkC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:rCNdntzdTkkC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2025-open-quantum-system-simulation-through-exploiting",
@@ -420,7 +543,10 @@
     "container": "Physical Review A 111 (5), 052612",
     "year": 2025,
     "citations": 4,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ymY9cBF3mdcC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ymY9cBF3mdcC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2025-entropy-assisted-quality-pattern-identification-in",
@@ -429,7 +555,8 @@
     "container": "Entropy 27 (4), 430",
     "year": 2025,
     "citations": 1,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:nPTYJWkExTIC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:nPTYJWkExTIC",
+    "topics": []
   },
   {
     "id": "2025-teleporting-extracting-and-storing-energy-from",
@@ -438,7 +565,8 @@
     "container": "APS Global Physics Summit 2025",
     "year": 2025,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Y0-TYkg6YM4C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Y0-TYkg6YM4C",
+    "topics": []
   },
   {
     "id": "2025-pearsan-an-inverse-design-framework-for",
@@ -447,7 +575,10 @@
     "container": "APS Global Physics Summit 2025",
     "year": 2025,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:9NZAP19TdFAC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:9NZAP19TdFAC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2025-quantum-simulation-of-infinite-temperature-spin",
@@ -456,7 +587,10 @@
     "container": "APS Global Physics Summit 2025",
     "year": 2025,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:7H_jS4BsgvYC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:7H_jS4BsgvYC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2025-superdiffusion-resilience-in-heisenberg-chains-with",
@@ -465,7 +599,10 @@
     "container": "arXiv preprint arXiv:2503.14371",
     "year": 2025,
     "citations": 1,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:aEW5N-EHWIMC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:aEW5N-EHWIMC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2025-efficient-quantum-enabled-monte-carlo-sampling",
@@ -474,7 +611,11 @@
     "container": "APS Global Physics Summit 2025",
     "year": 2025,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:tz746QTLzJkC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:tz746QTLzJkC",
+    "topics": [
+      "quantum-machine-learning",
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2025-quantum-simulation-of-superdiffusion-breakdown-in",
@@ -483,7 +624,10 @@
     "container": "arXiv e-prints, arXiv: 2503.14371",
     "year": 2025,
     "citations": 2,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:n3vGvpFsckwC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:n3vGvpFsckwC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2025-refined-phase-diagram-for-a-spin",
@@ -492,7 +636,10 @@
     "container": "Physical Review B 111 (8), 085303",
     "year": 2025,
     "citations": 4,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:c_xDhezhKKUC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:c_xDhezhKKUC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2025-quantum-algorithms-and-applications-for-open",
@@ -501,7 +648,10 @@
     "container": "Chemical Reviews 125 (4), 1823-1839",
     "year": 2025,
     "citations": 66,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:37UQlXuwjP4C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:37UQlXuwjP4C",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2025-quantum-energy-teleportation-a-novel-protocol",
@@ -510,7 +660,8 @@
     "container": "arXiv e-prints, arXiv: 2502.05288",
     "year": 2025,
     "citations": 1,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:iyewoVqAXLQC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:iyewoVqAXLQC",
+    "topics": []
   },
   {
     "id": "2025-designing-variational-ansatz-for-quantum-enabled",
@@ -519,7 +670,11 @@
     "container": "Advanced Quantum Technologies 8 (2), 2400088",
     "year": 2025,
     "citations": 7,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:s85pQhAUCrAC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:s85pQhAUCrAC",
+    "topics": [
+      "open-quantum-systems",
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2024-experimental-test-of-generalized-multipartite-entropic",
@@ -528,7 +683,10 @@
     "container": "Physical Review A 110 (6), 062220",
     "year": 2024,
     "citations": 19,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:AZju0d2GQJ0C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:AZju0d2GQJ0C",
+    "topics": [
+      "quantum-coherence-entanglement"
+    ]
   },
   {
     "id": "2024-psitrum-an-open-source-simulator-for",
@@ -537,7 +695,10 @@
     "container": "IET Quantum Communication 5 (4), 586-600",
     "year": 2024,
     "citations": 7,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:aIdbFUkbNIkC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:aIdbFUkbNIkC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2024-entropy-corrected-geometric-brownian-motion",
@@ -546,7 +707,8 @@
     "container": "Scientific Reports 14 (1), 28384",
     "year": 2024,
     "citations": 13,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:_AeoHAGD03cC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:_AeoHAGD03cC",
+    "topics": []
   },
   {
     "id": "2024-communication-efficient-quantum-federated-learning-optimization",
@@ -555,7 +717,10 @@
     "container": "2024 IEEE EMBS International Conference on Biomedical and Health Informatics\u00a0\u2026",
     "year": 2024,
     "citations": 16,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:OzeSX8-yOCQC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:OzeSX8-yOCQC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2024-statistical-virtual-temperature-of-classical-and",
@@ -564,7 +729,8 @@
     "container": "arXiv e-prints, arXiv: 2410.01286",
     "year": 2024,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:wLxue7F8ec0C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:wLxue7F8ec0C",
+    "topics": []
   },
   {
     "id": "2024-defect-induced-localization-of-information-scrambling",
@@ -573,7 +739,10 @@
     "container": "Physica Scripta 99 (10), 105123",
     "year": 2024,
     "citations": 4,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:QVtou7C4vgoC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:QVtou7C4vgoC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2024-quantum-computing-and-chemistry",
@@ -582,7 +751,10 @@
     "container": "Cell Reports Physical Science 5 (9)",
     "year": 2024,
     "citations": 63,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:pQTOvowfQioC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:pQTOvowfQioC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2024-on-the-robustness-of-variational-quantum",
@@ -591,7 +763,10 @@
     "container": "2024 IEEE International Conference on Quantum Computing and Engineering (QCE\u00a0\u2026",
     "year": 2024,
     "citations": 4,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:m4fbC6XIj1kC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:m4fbC6XIj1kC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2024-mqml-multi-omic-quantum-machine-learning",
@@ -600,7 +775,10 @@
     "container": "2024 IEEE International Conference on Quantum Computing and Engineering (QCE\u00a0\u2026",
     "year": 2024,
     "citations": 8,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:eI34FqJmdUoC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:eI34FqJmdUoC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2024-time-resolved-quantum-tomography-in-molecular",
@@ -609,7 +787,10 @@
     "container": "The Journal of Physical Chemistry Letters 15 (37), 9525-9534",
     "year": 2024,
     "citations": 7,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:jmjb1lOE9QIC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:jmjb1lOE9QIC",
+    "topics": [
+      "quantum-state-tomography"
+    ]
   },
   {
     "id": "2024-extracting-and-storing-energy-from-a",
@@ -618,7 +799,8 @@
     "container": "arXiv preprint arXiv:2409.03973",
     "year": 2024,
     "citations": 2,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:JWITY9-sCbMC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:JWITY9-sCbMC",
+    "topics": []
   },
   {
     "id": "2024-simulating-chemistry-on-bosonic-quantum-devices",
@@ -627,7 +809,10 @@
     "container": "Journal of Chemical Theory and Computation 20 (15), 6426-6441",
     "year": 2024,
     "citations": 48,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:X0DADzN9RKwC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:X0DADzN9RKwC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2024-non-native-quantum-generative-optimization-with",
@@ -636,7 +821,10 @@
     "container": "arXiv preprint arXiv:2407.13830",
     "year": 2024,
     "citations": 8,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:c59VksA5Vz4C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:c59VksA5Vz4C",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2024-rf-control-of-an-ultracold-photochemical",
@@ -645,7 +833,10 @@
     "container": "APS Division of Atomic, Molecular and Optical Physics Meeting Abstracts 2024\u00a0\u2026",
     "year": 2024,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:wUn16MOA3RoC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:wUn16MOA3RoC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2024-imagaing-ultrafast-molecular-dynamics-wirh-quantum",
@@ -654,7 +845,11 @@
     "container": "APS Division of Atomic, Molecular and Optical Physics Meeting Abstracts 2024\u00a0\u2026",
     "year": 2024,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:jtI9f0ekYq0C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:jtI9f0ekYq0C",
+    "topics": [
+      "quantum-state-tomography",
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2024-simulation-of-chemical-reactions-on-a",
@@ -663,7 +858,10 @@
     "container": "The Journal of Physical Chemistry Letters 15 (21), 5633-5642",
     "year": 2024,
     "citations": 19,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:hQUaER0FWQ4C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:hQUaER0FWQ4C",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2024-robustness-of-quantum-federated-learning-qfl",
@@ -672,7 +870,10 @@
     "container": "2024 IEEE international reliability physics symposium (IRPS), 1-4",
     "year": 2024,
     "citations": 11,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:z8nqeaKD1nsC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:z8nqeaKD1nsC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2024-walking-with-the-atoms-in-a",
@@ -681,7 +882,8 @@
     "container": "Entropy 26 (3), 230",
     "year": 2024,
     "citations": 1,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:2ywjKiB__4kC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:2ywjKiB__4kC",
+    "topics": []
   },
   {
     "id": "2024-information-localization-in-defective-spin-chain",
@@ -690,7 +892,10 @@
     "container": "APS March Meeting Abstracts 2024, OD01. 069",
     "year": 2024,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ji7lAbPyDbYC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ji7lAbPyDbYC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2024-sampling-based-quantum-training-of-arbitrary",
@@ -699,7 +904,10 @@
     "container": "APS March Meeting Abstracts 2024, N49. 009",
     "year": 2024,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:t-hv7AR41mYC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:t-hv7AR41mYC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2024-scheduled-maintenance-close-the-message-box",
@@ -708,7 +916,8 @@
     "container": "",
     "year": 2024,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:yeL6HyUMUGUC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:yeL6HyUMUGUC",
+    "topics": []
   },
   {
     "id": "2024-information-bottleneck-of-quantum-neural-networks",
@@ -717,7 +926,10 @@
     "container": "NeurIPS 2024 Workshop Machine Learning with new Compute Paradigms",
     "year": 2024,
     "citations": 2,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Og1tA8FjbJAC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Og1tA8FjbJAC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2024-federated-quantum-machine-learning-for-drug",
@@ -726,7 +938,10 @@
     "container": "Annual Reports in Computational Chemistry 20, 269-322",
     "year": 2024,
     "citations": 13,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:BOlwja0KXvYC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:BOlwja0KXvYC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2024-random-projection-using-random-quantum-circuits",
@@ -735,7 +950,8 @@
     "container": "Physical Review Research 6 (1), 013010",
     "year": 2024,
     "citations": 8,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:RtRctb2lSbAC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:RtRctb2lSbAC",
+    "topics": []
   },
   {
     "id": "2023-defect-induced-localization-of-information-in",
@@ -744,7 +960,10 @@
     "container": "arXiv preprint arXiv:2312.11765",
     "year": 2023,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:BmWJbWwHJAwC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:BmWJbWwHJAwC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2023-dimensionality-reduction-with-variational-encoders-based",
@@ -753,7 +972,10 @@
     "container": "Mathematics 11 (22), 4678",
     "year": 2023,
     "citations": 11,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:AYInfyleIOsC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:AYInfyleIOsC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2023-physics-inspired-quantum-simulation-of-resonating",
@@ -762,7 +984,10 @@
     "container": "The Journal of Physical Chemistry A 127 (41), 8751-8764",
     "year": 2023,
     "citations": 5,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:G1UMdFYMoxkC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:G1UMdFYMoxkC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2023-federated-quanvolutional-neural-network-a-new",
@@ -771,7 +996,10 @@
     "container": "Quantum Science and Technology 8 (4), 045032",
     "year": 2023,
     "citations": 47,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:BJrgspguQaEC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:BJrgspguQaEC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2023-foray-into-the-topology-of-poly",
@@ -780,7 +1008,8 @@
     "container": "Natural Sciences 3 (4), e20230015",
     "year": 2023,
     "citations": 3,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:NMlhSUseqAsC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:NMlhSUseqAsC",
+    "topics": []
   },
   {
     "id": "2023-mapping-molecular-hamiltonians-into-hamiltonians-of",
@@ -789,7 +1018,10 @@
     "container": "Journal of Chemical Theory and Computation 19 (19), 6564-6576",
     "year": 2023,
     "citations": 12,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:8dzOF9BpDQoC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:8dzOF9BpDQoC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2023-cutoff-phenomenon-and-entropic-uncertainty-for",
@@ -798,7 +1030,8 @@
     "container": "Electronic Structure 5 (3), 035004",
     "year": 2023,
     "citations": 5,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:-uzm3Y7AvW0C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:-uzm3Y7AvW0C",
+    "topics": []
   },
   {
     "id": "2023-quantum-machine-learning-predicting-adme-tox",
@@ -807,7 +1040,10 @@
     "container": "Journal of Chemical Information and Modeling 63 (21), 6476-6486",
     "year": 2023,
     "citations": 79,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:mel-f30kHHgC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:mel-f30kHHgC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2023-m-o-ller-plesset-perturbation-theory",
@@ -816,7 +1052,10 @@
     "container": "arXiv preprint arXiv:2308.01559",
     "year": 2023,
     "citations": 4,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:hvmnpdAuIbkC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:hvmnpdAuIbkC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2023-dormant-entanglement-that-can-be-activated",
@@ -825,7 +1064,10 @@
     "container": "arXiv preprint arXiv:2306.05517",
     "year": 2023,
     "citations": 2,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Zh0EY9V9P6UC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Zh0EY9V9P6UC",
+    "topics": [
+      "quantum-coherence-entanglement"
+    ]
   },
   {
     "id": "2023-simulating-open-quantum-system-dynamics-on",
@@ -834,7 +1076,10 @@
     "container": "Journal of Chemical Theory and Computation 19 (15), 4851-4862",
     "year": 2023,
     "citations": 68,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:KWzIFqRkAKkC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:KWzIFqRkAKkC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2023-photonic-realization-of-qudit-quantum-computing",
@@ -843,7 +1088,10 @@
     "container": "Photonic Quantum Technologies: Science and Applications 2, 651-674",
     "year": 2023,
     "citations": 8,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ZqE1mSdD_DYC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ZqE1mSdD_DYC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2023-quantum-federated-learning-in-healthcare-the",
@@ -852,7 +1100,10 @@
     "container": "",
     "year": 2023,
     "citations": 20,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:JP7YXuLIOvAC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:JP7YXuLIOvAC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2023-toward-perturbation-theory-methods-on-a",
@@ -861,7 +1112,10 @@
     "container": "Science Advances 9 (19), eadg4576",
     "year": 2023,
     "citations": 22,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:eGYfIraVYiQC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:eGYfIraVYiQC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2023-supplementary-information-simulating-open-quantum-system",
@@ -870,7 +1124,10 @@
     "container": "",
     "year": 2023,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:4aZ_i-5WJEQC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:4aZ_i-5WJEQC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2023-analogy-between-boltzmann-machines-and-feynman",
@@ -879,7 +1136,10 @@
     "container": "Journal of Chemical Theory and Computation 19 (9), 2446-2454",
     "year": 2023,
     "citations": 5,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:__bU50VfleQC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:__bU50VfleQC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2023-measurement-induced-nonlocality-for-observers-near",
@@ -888,7 +1148,8 @@
     "container": "Universe 9 (4), 199",
     "year": 2023,
     "citations": 4,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:H_jBuBxbQIAC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:H_jBuBxbQIAC",
+    "topics": []
   },
   {
     "id": "2023-the-unitary-dependence-theory-for-characterizing",
@@ -897,7 +1158,8 @@
     "container": "Communications Physics 6 (1), 68",
     "year": 2023,
     "citations": 4,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:CNPyR2KL9-0C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:CNPyR2KL9-0C",
+    "topics": []
   },
   {
     "id": "2023-characterizing-quantum-circuits-with-qubit-functional",
@@ -906,7 +1168,8 @@
     "container": "Scientific Reports 13 (1), 5539",
     "year": 2023,
     "citations": 8,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:c1e4I3QdEKYC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:c1e4I3QdEKYC",
+    "topics": []
   },
   {
     "id": "2023-hamiltonian-learning-from-time-dynamics-using",
@@ -915,7 +1178,10 @@
     "container": "The Journal of Physical Chemistry A 127 (14), 3246-3255",
     "year": 2023,
     "citations": 16,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:A8cqit5AE6sC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:A8cqit5AE6sC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2023-dimension-reduction-and-redundancy-removal-through",
@@ -924,7 +1190,8 @@
     "container": "Applied Sciences 13 (5), 3172",
     "year": 2023,
     "citations": 9,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:-yGd096yOn8C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:-yGd096yOn8C",
+    "topics": []
   },
   {
     "id": "2023-comparison-of-quantum-advantage-experiments-using",
@@ -933,7 +1200,8 @@
     "container": "Physical Review A 107 (2), 022610",
     "year": 2023,
     "citations": 5,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:NxmKEeNBbOMC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:NxmKEeNBbOMC",
+    "topics": []
   },
   {
     "id": "2023-imaginary-components-of-out-of-time",
@@ -942,7 +1210,10 @@
     "container": "Physical Review Research 5 (1), 013146",
     "year": 2023,
     "citations": 51,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:RJOyoaXV5v8C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:RJOyoaXV5v8C",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2023-quantum-simulation-of-the-radical-pair",
@@ -951,7 +1222,10 @@
     "container": "The Journal of Physical Chemistry Letters 14 (3), 832-837",
     "year": 2023,
     "citations": 32,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:tHtfpZlB6tUC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:tHtfpZlB6tUC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2023-psitrum-and-simulation-of-decoherence-in",
@@ -960,7 +1234,10 @@
     "container": "APS March Meeting Abstracts 2023, G00. 296",
     "year": 2023,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:MIg0yeAD4ggC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:MIg0yeAD4ggC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2023-comparison-of-random-circuit-sampling-on",
@@ -969,7 +1246,8 @@
     "container": "APS March Meeting Abstracts 2023, LL07. 005",
     "year": 2023,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:z6xuaG2dYH0C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:z6xuaG2dYH0C",
+    "topics": []
   },
   {
     "id": "2023-demystifying-a-generative-quantum-machine-learning",
@@ -978,7 +1256,10 @@
     "container": "APS March Meeting Abstracts 2023, K73. 012",
     "year": 2023,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:-6RzNnnwWf8C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:-6RzNnnwWf8C",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2023-using-quantum-circuits-with-convolutional-neural",
@@ -987,7 +1268,10 @@
     "container": "APS march meeting abstracts 2023, D73. 001",
     "year": 2023,
     "citations": 2,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:T_ojBgVMvoEC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:T_ojBgVMvoEC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2023-handling-privacy-sensitive-clinical-data-with",
@@ -996,7 +1280,10 @@
     "container": "APS March Meeting Abstracts 2023, T70. 007",
     "year": 2023,
     "citations": 13,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:SAZ1SQo2q1kC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:SAZ1SQo2q1kC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2023-simulation-of-open-quantum-system-dynamics",
@@ -1005,7 +1292,10 @@
     "container": "APS March Meeting Abstracts 2023, LL08. 004",
     "year": 2023,
     "citations": 6,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:isU91gLudPYC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:isU91gLudPYC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2022-magnetic-phases-of-spatially-modulated-spin",
@@ -1014,7 +1304,10 @@
     "container": "The Journal of Chemical Physics 157 (22)",
     "year": 2022,
     "citations": 13,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:C33y2ycGS3YC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:C33y2ycGS3YC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2022-variational-approach-to-quantum-state-tomography",
@@ -1023,7 +1316,10 @@
     "container": "Physical Chemistry Chemical Physics 24 (47), 28870-28877",
     "year": 2022,
     "citations": 20,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:2v_ZtQDX9iAC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:2v_ZtQDX9iAC",
+    "topics": [
+      "quantum-state-tomography"
+    ]
   },
   {
     "id": "2022-race-for-quantum-advantage-using-random",
@@ -1032,7 +1328,8 @@
     "container": "arXiv preprint arXiv:2211.13267",
     "year": 2022,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:D_tqNUsBuKoC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:D_tqNUsBuKoC",
+    "topics": []
   },
   {
     "id": "2022-realization-of-heisenberg-models-of-spin",
@@ -1041,7 +1338,10 @@
     "container": "Physical Chemistry Chemical Physics 24 (41), 25270-25278",
     "year": 2022,
     "citations": 11,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:65Yg0jNCQDAC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:65Yg0jNCQDAC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2022-psitrum-and-universal-simulation-of-quantum",
@@ -1050,7 +1350,10 @@
     "container": "2022 IEEE International Conference on Quantum Computing and Engineering (QCE\u00a0\u2026",
     "year": 2022,
     "citations": 11,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:L_l9e5I586QC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:L_l9e5I586QC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2022-statistical-analysis-on-random-quantum-circuit",
@@ -1059,7 +1362,8 @@
     "container": "Physical Review A 106 (3), 032433",
     "year": 2022,
     "citations": 7,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:SIv7DqKytYAC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:SIv7DqKytYAC",
+    "topics": []
   },
   {
     "id": "2022-statistical-properties-of-bit-strings-sampled",
@@ -1068,7 +1372,8 @@
     "container": "The Journal of Physical Chemistry Letters 13 (32), 7469-7475",
     "year": 2022,
     "citations": 6,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:0aBXIfxlw9sC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:0aBXIfxlw9sC",
+    "topics": []
   },
   {
     "id": "2022-the-wave-particle-duality-of-the",
@@ -1077,7 +1382,10 @@
     "container": "arXiv preprint arXiv:2207.05213",
     "year": 2022,
     "citations": 5,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:hGdtkIFZdKAC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:hGdtkIFZdKAC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2022-empowering-quantum-2-0-devices-and",
@@ -1086,7 +1394,10 @@
     "container": "Quantum 2.0, QTu2A. 13",
     "year": 2022,
     "citations": 7,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:1tZ8xJnm2c8C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:1tZ8xJnm2c8C",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2022-a-relative-church-turing-deutsch-thesis",
@@ -1095,7 +1406,8 @@
     "container": "arXiv preprint arXiv:2206.06419",
     "year": 2022,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:hSRAE-fF4OAC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:hSRAE-fF4OAC",
+    "topics": []
   },
   {
     "id": "2022-measurement-induced-nonlocality-for-noninertial-observers",
@@ -1104,7 +1416,8 @@
     "container": "arXiv e-prints, arXiv: 2206.14787",
     "year": 2022,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:v6i8RKmR8ToC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:v6i8RKmR8ToC",
+    "topics": []
   },
   {
     "id": "2022-a-general-quantum-algorithm-for-open",
@@ -1113,7 +1426,11 @@
     "container": "Quantum 6, 726",
     "year": 2022,
     "citations": 100,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:O0nohqN1r9EC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:O0nohqN1r9EC",
+    "topics": [
+      "open-quantum-systems",
+      "quantum-coherence-entanglement"
+    ]
   },
   {
     "id": "2022-finite-size-scaling-on-a-digital",
@@ -1122,7 +1439,10 @@
     "container": "Frontiers in Physics 10, 915863",
     "year": 2022,
     "citations": 7,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:LXmCCkuhhTsC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:LXmCCkuhhTsC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2022-tribute-to-dor-ben-amotz",
@@ -1131,7 +1451,8 @@
     "container": "The Journal of Physical Chemistry B 126 (16), 2943-2945",
     "year": 2022,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:UmS_249rOGwC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:UmS_249rOGwC",
+    "topics": []
   },
   {
     "id": "2022-geometrical-picture-of-the-electron-electron",
@@ -1140,7 +1461,10 @@
     "container": "Physical Chemistry Chemical Physics 24 (16), 9298-9307",
     "year": 2022,
     "citations": 2,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:IsPWOBWtZBwC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:IsPWOBWtZBwC",
+    "topics": [
+      "quantum-coherence-entanglement"
+    ]
   },
   {
     "id": "2022-the-unitary-dependence-theory-for-understanding",
@@ -1149,7 +1473,8 @@
     "container": "arXiv preprint arXiv:2204.02452",
     "year": 2022,
     "citations": 1,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:silx2ntsSuwC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:silx2ntsSuwC",
+    "topics": []
   },
   {
     "id": "2022-front-cover-the-quantum-condition-space",
@@ -1158,7 +1483,8 @@
     "container": "Advanced Quantum Technologies 5 (4), 2270041",
     "year": 2022,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:sA9dB-pw3HoC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:sA9dB-pw3HoC",
+    "topics": []
   },
   {
     "id": "2022-the-quantum-condition-space",
@@ -1167,7 +1493,8 @@
     "container": "Advanced Quantum Technologies 5 (4), 2100158",
     "year": 2022,
     "citations": 6,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:mWEH9CqjF64C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:mWEH9CqjF64C",
+    "topics": []
   },
   {
     "id": "2022-statistical-approach-to-quantum-phase-estimation",
@@ -1176,7 +1503,10 @@
     "container": "APS March Meeting Abstracts 2022, M40. 001",
     "year": 2022,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Hck25ST_3aIC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Hck25ST_3aIC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2022-quantum-machine-learning-algorithm-for-complex",
@@ -1185,7 +1515,10 @@
     "container": "APS March Meeting Abstracts 2022, B01. 001",
     "year": 2022,
     "citations": 1,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:UuEBAcK4md4C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:UuEBAcK4md4C",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2022-variational-quantum-circuits-to-prepare-low",
@@ -1194,7 +1527,10 @@
     "container": "Symmetry 14 (3), 457",
     "year": 2022,
     "citations": 20,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:zGdJYJv2LkUC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:zGdJYJv2LkUC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2022-relaxation-of-stationary-states-on-a",
@@ -1203,7 +1539,10 @@
     "container": "Communications Physics 5 (1), 28",
     "year": 2022,
     "citations": 24,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:oi2SiIJ9l4AC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:oi2SiIJ9l4AC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2022-variational-quantum-circuits-to-prepare-low-2",
@@ -1212,7 +1551,10 @@
     "container": "s Note: MDPI stays neutral with regard to jurisdictional claims in published\u00a0\u2026",
     "year": 2022,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:LK8CI43ZvvMC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:LK8CI43ZvvMC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2022-quantum-machine-learning-for-chemistry-and",
@@ -1221,7 +1563,10 @@
     "container": "Chemical Society Reviews 51 (15), 6475-6573",
     "year": 2022,
     "citations": 226,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:X9ykpCP0fEIC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:X9ykpCP0fEIC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2021-a-quantum-encryption-design-featuring-confusion",
@@ -1230,7 +1575,8 @@
     "container": "Scientific Reports 11 (1), 23774",
     "year": 2021,
     "citations": 24,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:MAUkC_7iAq8C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:MAUkC_7iAq8C",
+    "topics": []
   },
   {
     "id": "2021-statistical-correlation-between-quantum-entanglement-and",
@@ -1239,7 +1585,10 @@
     "container": "Advanced Quantum Technologies 4 (12), 2100098",
     "year": 2021,
     "citations": 6,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:69ZgNCALVd0C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:69ZgNCALVd0C",
+    "topics": [
+      "quantum-coherence-entanglement"
+    ]
   },
   {
     "id": "2021-machine-learning-framework-for-quantum-sampling",
@@ -1248,7 +1597,10 @@
     "container": "Applied Physics Reviews 8 (4)",
     "year": 2021,
     "citations": 52,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:YsrPvlHIBpEC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:YsrPvlHIBpEC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2021-constructive-quantum-interference-in-photochemical-reactions",
@@ -1257,7 +1609,10 @@
     "container": "Journal of Chemical Theory and Computation 17 (12), 7822-7826",
     "year": 2021,
     "citations": 9,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:rbm3iO8VlycC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:rbm3iO8VlycC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2021-quantum-computing-enhanced-machine-learning-for",
@@ -1266,7 +1621,10 @@
     "container": "arXiv preprint arXiv:2111.00851",
     "year": 2021,
     "citations": 8,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:PkcyUWeTMh0C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:PkcyUWeTMh0C",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2021-quantum-machine-learning-for-eigenstate-filtration",
@@ -1275,7 +1633,10 @@
     "container": "Journal of the American Chemical Society 143 (44), 18426-18445",
     "year": 2021,
     "citations": 61,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:WAzi4Gm8nLoC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:WAzi4Gm8nLoC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2021-prime-factorization-using-quantum-variational-imaginary",
@@ -1284,7 +1645,8 @@
     "container": "Scientific reports 11 (1), 20835",
     "year": 2021,
     "citations": 21,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:SnGPuo6Feq8C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:SnGPuo6Feq8C",
+    "topics": []
   },
   {
     "id": "2021-quantum-cluster-algorithm-for-data-classification",
@@ -1293,7 +1655,10 @@
     "container": "Materials Theory 5 (1), 6",
     "year": 2021,
     "citations": 18,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:kzcSZmkxUKAC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:kzcSZmkxUKAC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2021-non-randomness-of-google-s-quantum",
@@ -1302,7 +1667,8 @@
     "container": "arXiv (Cornell University)",
     "year": 2021,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:rLGzs9wiiwIC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:rLGzs9wiiwIC",
+    "topics": []
   },
   {
     "id": "2021-a-universal-quantum-circuit-design-for",
@@ -1311,7 +1677,8 @@
     "container": "New Journal of Physics 23 (10), 103022",
     "year": 2021,
     "citations": 14,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:kF1pexMAQbMC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:kF1pexMAQbMC",
+    "topics": []
   },
   {
     "id": "2021-quantum-information-and-quantum-computing-for",
@@ -1320,7 +1687,10 @@
     "container": "Frontiers in Physics 9, 753618",
     "year": 2021,
     "citations": 1,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:HJSXoJQnj-YC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:HJSXoJQnj-YC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2021-dimensional-interpolation-for-random-walk",
@@ -1329,7 +1699,8 @@
     "container": "The Journal of Physical Chemistry A 125 (34), 7581-7587",
     "year": 2021,
     "citations": 2,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:DkZNVXde3BIC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:DkZNVXde3BIC",
+    "topics": []
   },
   {
     "id": "2021-convergence-of-a-reconstructed-density-matrix",
@@ -1338,7 +1709,10 @@
     "container": "The Journal of Physical Chemistry A 125 (34), 7588-7595",
     "year": 2021,
     "citations": 16,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:rTD5ala9j4wC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:rTD5ala9j4wC",
+    "topics": [
+      "quantum-state-tomography"
+    ]
   },
   {
     "id": "2021-constructive-quantum-interference-in-a-photo",
@@ -1347,7 +1721,10 @@
     "container": "arXiv preprint arXiv:2107.05441",
     "year": 2021,
     "citations": 1,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:QUX0mv85b1cC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:QUX0mv85b1cC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2021-training-restricted-boltzmann-machines-with-a",
@@ -1356,7 +1733,10 @@
     "container": "Frontiers in Physics 9, 589626",
     "year": 2021,
     "citations": 71,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:5bg8sr1QxYwC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:5bg8sr1QxYwC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2021-implementation-of-quantum-machine-learning-for",
@@ -1365,7 +1745,11 @@
     "container": "Journal of Chemical Information and Modeling 61 (6), 2667-2674",
     "year": 2021,
     "citations": 57,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:w0F2JDEymm0C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:w0F2JDEymm0C",
+    "topics": [
+      "quantum-machine-learning",
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2021-practical-quantum-encryption-protocol-with-varying",
@@ -1374,7 +1758,8 @@
     "container": "Physical Review Research 3 (2), 023251",
     "year": 2021,
     "citations": 11,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:uVUOdF_882EC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:uVUOdF_882EC",
+    "topics": []
   },
   {
     "id": "2021-enhancement-of-photovoltaic-current-through-dark",
@@ -1383,7 +1768,10 @@
     "container": "Advanced Functional Materials 31 (23), 2100387",
     "year": 2021,
     "citations": 30,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:jU7OWUQzBzMC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:jU7OWUQzBzMC",
+    "topics": [
+      "quantum-coherence-entanglement"
+    ]
   },
   {
     "id": "2021-quantum-computing-for-atomic-and-molecular",
@@ -1392,7 +1780,10 @@
     "container": "The Journal of Chemical Physics 154 (19)",
     "year": 2021,
     "citations": 14,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:-jrNzM816MMC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:-jrNzM816MMC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2021-training-a-quantum-annealing-based-restricted",
@@ -1401,7 +1792,10 @@
     "container": "IEEE Transactions on Emerging Topics in Computational Intelligence 6 (3\u00a0\u2026",
     "year": 2021,
     "citations": 67,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:QyXJ3EUuO1IC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:QyXJ3EUuO1IC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2021-metasurface-design-optimization-via-d-wave",
@@ -1410,7 +1804,10 @@
     "container": "CLEO: QELS_Fundamental Science, FTh2M. 2",
     "year": 2021,
     "citations": 4,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:DrR-2ekChdkC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:DrR-2ekChdkC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2021-dimensional-interpolation-for-metallic-hydrogen",
@@ -1419,7 +1816,8 @@
     "container": "Physical Chemistry Chemical Physics 23 (13), 7841-7848",
     "year": 2021,
     "citations": 9,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:OBSaB-F7qqsC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:OBSaB-F7qqsC",
+    "topics": []
   },
   {
     "id": "2021-time-domain-line-shape-analysis-from",
@@ -1428,7 +1826,10 @@
     "container": "The Journal of Physical Chemistry B 125 (11), 2812-2820",
     "year": 2021,
     "citations": 7,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:F2UWTTQJPOcC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:F2UWTTQJPOcC",
+    "topics": [
+      "quantum-coherence-entanglement"
+    ]
   },
   {
     "id": "2021-maximal-entropy-approach-for-quantum-state",
@@ -1437,7 +1838,10 @@
     "container": "PRX Quantum 2 (1), 010318",
     "year": 2021,
     "citations": 45,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:-7ulzOJl1JYC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:-7ulzOJl1JYC",
+    "topics": [
+      "quantum-state-tomography"
+    ]
   },
   {
     "id": "2021-magnetic-flux-noise-in-superconducting-qubits",
@@ -1446,7 +1850,8 @@
     "container": "Scientific Reports 11 (1), 1813",
     "year": 2021,
     "citations": 5,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:1DsIQWDZLl8C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:1DsIQWDZLl8C",
+    "topics": []
   },
   {
     "id": "2021-classifying-quantum-circuits-with-qubit-functional",
@@ -1455,7 +1860,8 @@
     "container": "arXiv preprint arXiv:2110.02390",
     "year": 2021,
     "citations": 3,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:wvYxNZNCP7wC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:wvYxNZNCP7wC",
+    "topics": []
   },
   {
     "id": "2021-constructive-quantum-interference-in-a-photo-2",
@@ -1464,7 +1870,10 @@
     "container": "APS March Meeting Abstracts 2021, Y18. 005",
     "year": 2021,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:-95Q15plzcUC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:-95Q15plzcUC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2021-protocol-of-quantum-communication-based-on",
@@ -1473,7 +1882,8 @@
     "container": "APS March Meeting Abstracts 2021, Y31. 011",
     "year": 2021,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:kWvqk_afx_IC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:kWvqk_afx_IC",
+    "topics": []
   },
   {
     "id": "2021-implementation-of-quantum-machine-learning-for-2",
@@ -1482,7 +1892,11 @@
     "container": "APS March Meeting Abstracts 2021, V32. 010",
     "year": 2021,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ce2CqMG-AY4C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ce2CqMG-AY4C",
+    "topics": [
+      "quantum-machine-learning",
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2021-quantum-thermodynamics-of-quantum-boltzmann-machines",
@@ -1491,7 +1905,10 @@
     "container": "APS March Meeting Abstracts 2021, V32. 006",
     "year": 2021,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:mKu_rENv82IC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:mKu_rENv82IC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2021-qubit-coupled-cluster-singles-and-doubles",
@@ -1500,7 +1917,10 @@
     "container": "Quantum Science & Technology 6 (1), 015001",
     "year": 2021,
     "citations": 95,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Dem6FJhTUoYC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Dem6FJhTUoYC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2020-spin-momentum-entanglement-in-a-bose",
@@ -1509,7 +1929,10 @@
     "container": "Physical Chemistry Chemical Physics 22 (44), 25669-25674",
     "year": 2020,
     "citations": 9,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:6_hjMsCP8ZoC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:6_hjMsCP8ZoC",
+    "topics": [
+      "quantum-coherence-entanglement"
+    ]
   },
   {
     "id": "2020-qudits-and-high-dimensional-quantum-computing",
@@ -1518,7 +1941,10 @@
     "container": "Frontiers in Physics 8, 589504",
     "year": 2020,
     "citations": 786,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:1Ye0OR6EYb4C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:1Ye0OR6EYb4C",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2020-characterization-of-quantum-states-based-on",
@@ -1527,7 +1953,10 @@
     "container": "Advanced Quantum Technologies 3 (9), 2000043",
     "year": 2020,
     "citations": 11,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:rHJHxKgnXwkC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:rHJHxKgnXwkC",
+    "topics": [
+      "quantum-state-tomography"
+    ]
   },
   {
     "id": "2020-unorthodox-dimensional-interpolations-for-he-li",
@@ -1536,7 +1965,8 @@
     "container": "Frontiers in Physics 8, 331",
     "year": 2020,
     "citations": 8,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:WC9gN4BGCRcC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:WC9gN4BGCRcC",
+    "topics": []
   },
   {
     "id": "2020-hybrid-quantum-classical-neural-network-for",
@@ -1545,7 +1975,11 @@
     "container": "Entropy 22 (8), 828",
     "year": 2020,
     "citations": 59,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:jFemdcug13IC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:jFemdcug13IC",
+    "topics": [
+      "quantum-machine-learning",
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2020-training-and-classification-using-a-restricted",
@@ -1554,7 +1988,10 @@
     "container": "arXiv preprint arXiv:2005.03247",
     "year": 2020,
     "citations": 22,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:XUvXOeBm_78C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:XUvXOeBm_78C",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2020-coupled-cluster-singles-and-doubles-variational",
@@ -1563,7 +2000,10 @@
     "container": "arXiv preprint arXiv:2005.08451",
     "year": 2020,
     "citations": 2,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:DBa1UEJaJKAC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:DBa1UEJaJKAC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2020-bifacial-schottky-junction-plasmonic-based-solar",
@@ -1572,7 +2012,8 @@
     "container": "Energy Technology 8 (5), 1901280",
     "year": 2020,
     "citations": 5,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:yxmsSjX2EkcC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:yxmsSjX2EkcC",
+    "topics": []
   },
   {
     "id": "2020-gap-states-and-valley-spin-filtering",
@@ -1581,7 +2022,8 @@
     "container": "Physical Review B 101 (11), 115423",
     "year": 2020,
     "citations": 15,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Br1UauaknNIC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Br1UauaknNIC",
+    "topics": []
   },
   {
     "id": "2020-quantum-neural-network-for-generating-quantum",
@@ -1590,7 +2032,10 @@
     "container": "Bulletin of the American Physical Society 65",
     "year": 2020,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:-mN3Mh-tlDkC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:-mN3Mh-tlDkC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2020-hybrid-quantum-classical-algorithms-for-generative",
@@ -1599,7 +2044,10 @@
     "container": "Bulletin of the American Physical Society 65",
     "year": 2020,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:prdVHNxh-e8C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:prdVHNxh-e8C",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2020-a-quantum-algorithm-for-evolving-open",
@@ -1608,7 +2056,10 @@
     "container": "Scientific reports 10 (1), 3301",
     "year": 2020,
     "citations": 241,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:MhiOAD_qIWkC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:MhiOAD_qIWkC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2020-direct-scheme-calculation-of-the-kinetic",
@@ -1617,7 +2068,8 @@
     "container": "arXiv preprint arXiv:2003.00876",
     "year": 2020,
     "citations": 1,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:LPtt_HFRSbwC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:LPtt_HFRSbwC",
+    "topics": []
   },
   {
     "id": "2020-introducing-open-boundary-conditions-in-modeling",
@@ -1626,7 +2078,8 @@
     "container": "ACS Materials Letters 2 (3), 247-253",
     "year": 2020,
     "citations": 8,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:3NQIlFlcGxIC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:3NQIlFlcGxIC",
+    "topics": []
   },
   {
     "id": "2020-quantum-phase-estimation-with-time-frequency",
@@ -1635,7 +2088,10 @@
     "container": "Advanced Quantum Technologies 3 (2), 1900074",
     "year": 2020,
     "citations": 85,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:7H_MAutzIkAC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:7H_MAutzIkAC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2019-hybrid-quantum-classical-neural-network-for",
@@ -1644,7 +2100,10 @@
     "container": "arXiv preprint arXiv:1912.06184",
     "year": 2019,
     "citations": 4,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:L1USKYWJimsC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:L1USKYWJimsC",
+    "topics": [
+      "quantum-machine-learning"
+    ]
   },
   {
     "id": "2019-context-aware-quantum-simulation-of-a",
@@ -1653,7 +2112,8 @@
     "container": "Quantum Information Processing 18 (12), 357",
     "year": 2019,
     "citations": 6,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:7wO8s98CvbsC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:7wO8s98CvbsC",
+    "topics": []
   },
   {
     "id": "2019-elucidation-of-near-resonance-vibronic-coherence",
@@ -1662,7 +2122,10 @@
     "container": "Proceedings of the National Academy of Sciences 116 (37), 18263-18268",
     "year": 2019,
     "citations": 51,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:zCSUwVk65WsC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:zCSUwVk65WsC",
+    "topics": [
+      "quantum-coherence-entanglement"
+    ]
   },
   {
     "id": "2019-quantum-dynamics-and-resonances-in-chemistry",
@@ -1671,7 +2134,8 @@
     "container": "MOLECULAR PHYSICS 117 (15-16), 1943-1943",
     "year": 2019,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:PYBJJbyH-FwC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:PYBJJbyH-FwC",
+    "topics": []
   },
   {
     "id": "2019-quantum-computing-methods-for-electronic-states",
@@ -1680,7 +2144,10 @@
     "container": "Molecular Physics 117 (15-16), 2069-2082",
     "year": 2019,
     "citations": 58,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:PaBasH6fAo0C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:PaBasH6fAo0C",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2019-entanglement-classifier-in-chemical-reactions",
@@ -1689,7 +2156,10 @@
     "container": "Science advances 5 (8), eaax5283",
     "year": 2019,
     "citations": 51,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:WHdLCjDvYFkC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:WHdLCjDvYFkC",
+    "topics": [
+      "quantum-coherence-entanglement"
+    ]
   },
   {
     "id": "2019-enhancing-the-electronic-dimensionality-of-hybrid",
@@ -1698,7 +2168,8 @@
     "container": "Materials Horizons 6 (6), 1187-1196",
     "year": 2019,
     "citations": 7,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:kw52XkFRtyQC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:kw52XkFRtyQC",
+    "topics": []
   },
   {
     "id": "2019-tailoring-donor-acceptor-pairs-of-tungsten",
@@ -1707,7 +2178,10 @@
     "container": "2019 IEEE 46th Photovoltaic Specialists Conference (PVSC), 0772-0776",
     "year": 2019,
     "citations": 1,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:1yWc8FF-_SYC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:1yWc8FF-_SYC",
+    "topics": [
+      "quantum-coherence-entanglement"
+    ]
   },
   {
     "id": "2019-role-of-water-on-the-rotational",
@@ -1716,7 +2190,8 @@
     "container": "SCIENtIfIC REPORTs 9 (1), 668",
     "year": 2019,
     "citations": 17,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:nRpfm8aw39MC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:nRpfm8aw39MC",
+    "topics": []
   },
   {
     "id": "2019-orientational-dynamics-of-transition-dipoles-and",
@@ -1725,7 +2200,10 @@
     "container": "The journal of physical chemistry letters 10 (2), 270-277",
     "year": 2019,
     "citations": 26,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:MpfHP-DdYjUC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:MpfHP-DdYjUC",
+    "topics": [
+      "quantum-coherence-entanglement"
+    ]
   },
   {
     "id": "2018-double-excitation-manifold-s-effect-on",
@@ -1734,7 +2212,10 @@
     "container": "Physical Chemistry Chemical Physics 20 (47), 30032-30040",
     "year": 2018,
     "citations": 26,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:43bX7VzcjpAC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:43bX7VzcjpAC",
+    "topics": [
+      "quantum-coherence-entanglement"
+    ]
   },
   {
     "id": "2018-quantum-annealing-for-prime-factorization",
@@ -1743,7 +2224,8 @@
     "container": "Scientific reports 8 (1), 17667",
     "year": 2018,
     "citations": 288,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:wMgC3FpKEyYC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:wMgC3FpKEyYC",
+    "topics": []
   },
   {
     "id": "2018-probing-entropic-uncertainty-relations-under-a",
@@ -1752,7 +2234,11 @@
     "container": "Quantum Information Processing 17 (12), 335",
     "year": 2018,
     "citations": 37,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:cK4Rrx0J3m0C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:cK4Rrx0J3m0C",
+    "topics": [
+      "quantum-coherence-entanglement",
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2018-a-generalized-circuit-for-the-hamiltonian",
@@ -1761,7 +2247,10 @@
     "container": "Quantum Information Processing 17 (12), 328",
     "year": 2018,
     "citations": 4,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Bg7qf7VwUHIC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Bg7qf7VwUHIC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2018-direct-application-of-the-phase-estimation",
@@ -1770,7 +2259,10 @@
     "container": "Chemical Physics 514, 87-94",
     "year": 2018,
     "citations": 19,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:LhH-TYMQEocC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:LhH-TYMQEocC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2018-quantum-machine-learning-for-electronic-structure",
@@ -1779,7 +2271,11 @@
     "container": "Nature communications 9 (1), 4195",
     "year": 2018,
     "citations": 245,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:4xDN1ZYqzskC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:4xDN1ZYqzskC",
+    "topics": [
+      "quantum-machine-learning",
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2018-pendular-alignment-and-strong-chemical-binding",
@@ -1788,7 +2284,8 @@
     "container": "Proceedings of the National Academy of Sciences 115 (39), E9058-E9066",
     "year": 2018,
     "citations": 19,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:BzfGm06jWhQC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:BzfGm06jWhQC",
+    "topics": []
   },
   {
     "id": "2018-effects-of-hawking-radiation-on-the",
@@ -1797,7 +2294,8 @@
     "container": "Annalen der Physik 530 (9), 1800080",
     "year": 2018,
     "citations": 51,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:jgBuDB5drN8C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:jgBuDB5drN8C",
+    "topics": []
   },
   {
     "id": "2018-ultrafast-spectroscopy-of-synchronized-and-correlated",
@@ -1806,7 +2304,10 @@
     "container": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 256",
     "year": 2018,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:7Hz3ACDFbsoC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:7Hz3ACDFbsoC",
+    "topics": [
+      "quantum-coherence-entanglement"
+    ]
   },
   {
     "id": "2018-novel-spectroscopic-probes-of-excitionic-structure",
@@ -1815,7 +2316,10 @@
     "container": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 256",
     "year": 2018,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:LdasjJ6CEcoC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:LdasjJ6CEcoC",
+    "topics": [
+      "quantum-coherence-entanglement"
+    ]
   },
   {
     "id": "2018-molecules-enhanced-by-electromagnetic-fields",
@@ -1824,7 +2328,8 @@
     "container": "SciTech Europa Quarterly, 48-49",
     "year": 2018,
     "citations": 1,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:v1_lew4L6wgC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:v1_lew4L6wgC",
+    "topics": []
   },
   {
     "id": "2018-connecting-bright-and-dark-states-through",
@@ -1833,7 +2338,10 @@
     "container": "The Journal of Chemical Physics 148 (20)",
     "year": 2018,
     "citations": 7,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:AHdEip9mkN0C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:AHdEip9mkN0C",
+    "topics": [
+      "quantum-coherence-entanglement"
+    ]
   },
   {
     "id": "2018-canonical-schottky-barrier-heights-of-transition",
@@ -1842,7 +2350,8 @@
     "container": "Physical Review B 97 (19), 195315",
     "year": 2018,
     "citations": 16,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:artPoR2Yc-kC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:artPoR2Yc-kC",
+    "topics": []
   },
   {
     "id": "2018-improved-photoactivity-of-pyroxene-silicates-by",
@@ -1851,7 +2360,8 @@
     "container": "ChemPhysChem 19 (8), 943-953",
     "year": 2018,
     "citations": 7,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:gKiMpY-AVTkC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:gKiMpY-AVTkC",
+    "topics": []
   },
   {
     "id": "2018-tuning-the-stereoselectivity-and-solvation-selectivity",
@@ -1860,7 +2370,8 @@
     "container": "Journal of the American Chemical Society 140 (16), 5535-5543",
     "year": 2018,
     "citations": 30,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:QD3KBmkZPeQC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:QD3KBmkZPeQC",
+    "topics": []
   },
   {
     "id": "2018-plasmonically-enhanced-schottky-solar-cell",
@@ -1869,7 +2380,8 @@
     "container": "Qatar Foundation Annual Research Conference Proceedings 2018 (1), EEPD488",
     "year": 2018,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:PVgj2kMGcgYC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:PVgj2kMGcgYC",
+    "topics": []
   },
   {
     "id": "2018-status-of-the-vibrational-theory-of",
@@ -1878,7 +2390,8 @@
     "container": "Frontiers in Physics 6, 25",
     "year": 2018,
     "citations": 51,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:6yz0xqPARnAC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:6yz0xqPARnAC",
+    "topics": []
   },
   {
     "id": "2018-quantum-computation-using-arrays-of-n",
@@ -1887,7 +2400,10 @@
     "container": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 255",
     "year": 2018,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ubry08Y2EpUC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ubry08Y2EpUC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2018-modeling-molecules-in-an-interacting-environment",
@@ -1896,7 +2412,10 @@
     "container": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 255",
     "year": 2018,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ALROH1vI_8AC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ALROH1vI_8AC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2018-accessing-dark-states-optically-through-excitationferrying",
@@ -1905,7 +2424,10 @@
     "container": "Qatar Foundation Annual Research Conference Proceedings Volume 2018 Issue 1\u00a0\u2026",
     "year": 2018,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:NyGDZy8z5eUC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:NyGDZy8z5eUC",
+    "topics": [
+      "quantum-coherence-entanglement"
+    ]
   },
   {
     "id": "2018-dark-states-and-delocalization-competing-effects",
@@ -1914,7 +2436,10 @@
     "container": "The Journal of chemical physics 148 (6)",
     "year": 2018,
     "citations": 30,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:lvd772isFD0C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:lvd772isFD0C",
+    "topics": [
+      "quantum-coherence-entanglement"
+    ]
   },
   {
     "id": "2018-correlated-protein-environments-drive-quantum-coherence",
@@ -1923,7 +2448,10 @@
     "container": "Chem 4 (1), 138-149",
     "year": 2018,
     "citations": 65,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:vDZJ-YLwNdEC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:vDZJ-YLwNdEC",
+    "topics": [
+      "quantum-coherence-entanglement"
+    ]
   },
   {
     "id": "2018-designing-photon-absorbing-materials-by-cation",
@@ -1932,7 +2460,8 @@
     "container": "APS March Meeting Abstracts 2018, P20. 007",
     "year": 2018,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:RoXSNcbkSzsC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:RoXSNcbkSzsC",
+    "topics": []
   },
   {
     "id": "2018-comparison-study-of-quantum-computing-methods",
@@ -1941,7 +2470,10 @@
     "container": "arXiv preprint arXiv:1804.05453, 1-17",
     "year": 2018,
     "citations": 3,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:otzGkya1bYkC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:otzGkya1bYkC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2018-engineering-graphene-work-function-by-changing",
@@ -1950,7 +2482,8 @@
     "container": "APS March Meeting Abstracts 2018, G60. 364",
     "year": 2018,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:tH6gc1N1XXoC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:tH6gc1N1XXoC",
+    "topics": []
   },
   {
     "id": "2017-effect-of-time-delayed-feedback-on",
@@ -1959,7 +2492,10 @@
     "container": "Scientific Reports 7 (1), 15468",
     "year": 2017,
     "citations": 2,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:gVv57TyPmFsC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:gVv57TyPmFsC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2017-electronic-structure-calculations-and-the-ising",
@@ -1968,7 +2504,10 @@
     "container": "The Journal of Physical Chemistry B 122 (13), 3384-3395",
     "year": 2017,
     "citations": 137,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:_OXeSy2IsFwC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:_OXeSy2IsFwC",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2017-plasmonically-enhanced-schottky-photovoltaic-devices",
@@ -1977,7 +2516,8 @@
     "container": "Scientific reports 7 (1), 14253",
     "year": 2017,
     "citations": 17,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:nVrZBo8bIpAC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:nVrZBo8bIpAC",
+    "topics": []
   },
   {
     "id": "2017-quantum-information-science-factual-document-for",
@@ -1986,7 +2526,8 @@
     "container": "USDOE Office of Science (SC)(United States)",
     "year": 2017,
     "citations": 3,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:SjuI4pbJlxcC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:SjuI4pbJlxcC",
+    "topics": []
   },
   {
     "id": "2017-cation-effect-on-hot-carrier-cooling",
@@ -1995,7 +2536,8 @@
     "container": "The journal of physical chemistry letters 8 (18), 4439-4445",
     "year": 2017,
     "citations": 144,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:5MTHONV0fEkC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:5MTHONV0fEkC",
+    "topics": []
   },
   {
     "id": "2017-efficient-optimization-of-perturbative-gadgets",
@@ -2004,7 +2546,8 @@
     "container": "arXiv preprint arXiv:1709.02705",
     "year": 2017,
     "citations": 8,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:fbc8zXXH2BUC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:fbc8zXXH2BUC",
+    "topics": []
   },
   {
     "id": "2017-pursuit-of-the-kramers-henneberger-atom",
@@ -2013,7 +2556,8 @@
     "container": "Chemical Physics Letters 683, 240-246",
     "year": 2017,
     "citations": 33,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:yqoGN6RLRZoC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:yqoGN6RLRZoC",
+    "topics": []
   },
   {
     "id": "2017-mapping-electronic-structure-hamiltonian-to-an",
@@ -2022,7 +2566,10 @@
     "container": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 254",
     "year": 2017,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:CaZNVDsoPx4C"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:CaZNVDsoPx4C",
+    "topics": [
+      "quantum-algorithms-chemistry"
+    ]
   },
   {
     "id": "2017-ring-flipping-in-heterobimetallic-re-ir",
@@ -2031,7 +2578,8 @@
     "container": "Journal of Organometallic Chemistry 843, 62-65",
     "year": 2017,
     "citations": 3,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:GFxP56DSvIMC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:GFxP56DSvIMC",
+    "topics": []
   },
   {
     "id": "2017-alloys-and-environmental-related-issues-toward",
@@ -2040,7 +2588,8 @@
     "container": "Theoretical Modeling of Organohalide Perovskites for Photovoltaic\u00a0\u2026",
     "year": 2017,
     "citations": 1,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ziOE8S1-AIUC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:ziOE8S1-AIUC",
+    "topics": []
   },
   {
     "id": "2017-alloys-and-environmental-related-issues",
@@ -2049,7 +2598,8 @@
     "container": "Theoretical Modeling of Organohalide Perovskites for Photovoltaic\u00a0\u2026",
     "year": 2017,
     "citations": 1,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:wKETBy42zhYC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:wKETBy42zhYC",
+    "topics": []
   },
   {
     "id": "2017-kinetic-energy-density-for-orbital-free",
@@ -2058,7 +2608,8 @@
     "container": "International Journal of Quantum Chemistry 117 (12), e25373",
     "year": 2017,
     "citations": 16,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:a3BOlSfXSfwC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:a3BOlSfXSfwC",
+    "topics": []
   },
   {
     "id": "2017-experimental-evaluation-of-the-generalized-vibrational",
@@ -2067,7 +2618,8 @@
     "container": "Proceedings of the National Academy of Sciences 114 (22), 5595-5600",
     "year": 2017,
     "citations": 30,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:8xutWZnSdmoC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:8xutWZnSdmoC",
+    "topics": []
   },
   {
     "id": "2017-solar-cell-materials-by-design-hybrid",
@@ -2076,7 +2628,8 @@
     "container": "ChemSusChem 10 (9), 1931-1942",
     "year": 2017,
     "citations": 17,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:HeT0ZceujKMC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:HeT0ZceujKMC",
+    "topics": []
   },
   {
     "id": "2017-entropic-uncertainty-relations-for-markovian-and",
@@ -2085,7 +2638,11 @@
     "container": "Scientific reports 7 (1), 1066",
     "year": 2017,
     "citations": 87,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:F9fV5C73w3QC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:F9fV5C73w3QC",
+    "topics": [
+      "quantum-coherence-entanglement",
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2017-energy-gap-states-and-tunneling-currents",
@@ -2094,7 +2651,8 @@
     "container": "APS March Meeting Abstracts 2017, T1. 091",
     "year": 2017,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Ehil0879vHcC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:Ehil0879vHcC",
+    "topics": []
   },
   {
     "id": "2017-the-coherence-lifetime-borrowing-effect-in",
@@ -2103,7 +2661,11 @@
     "container": "APS March Meeting Abstracts 2017, F25. 005",
     "year": 2017,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:nZcligLrVowC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:nZcligLrVowC",
+    "topics": [
+      "quantum-coherence-entanglement",
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2017-quantum-heat-engines-described-by-a",
@@ -2112,7 +2674,10 @@
     "container": "APS March Meeting Abstracts 2017, H38. 011",
     "year": 2017,
     "citations": 0,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:P7Ujq4OLJYoC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:P7Ujq4OLJYoC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   },
   {
     "id": "2017-mechanism-of-me-re-bond-addition",
@@ -2121,7 +2686,8 @@
     "container": "Inorganic Chemistry 56 (4), 2145-2152",
     "year": 2017,
     "citations": 11,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:r_AWSJRzSzQC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:r_AWSJRzSzQC",
+    "topics": []
   },
   {
     "id": "2017-reduced-work-function-of-graphene-by",
@@ -2130,7 +2696,8 @@
     "container": "Applied Surface Science 394, 98-107",
     "year": 2017,
     "citations": 60,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:IUKN3-7HHlwC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:IUKN3-7HHlwC",
+    "topics": []
   },
   {
     "id": "2017-interfaces-select-specific-stereochemical-conformations-the",
@@ -2139,7 +2706,8 @@
     "container": "Journal of the American Chemical Society 139 (1), 27-30",
     "year": 2017,
     "citations": 53,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:cWzG1nlazyYC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:cWzG1nlazyYC",
+    "topics": []
   },
   {
     "id": "2017-an-ancilla-based-quantum-simulation-framework",
@@ -2148,6 +2716,9 @@
     "container": "Quantum Information Processing 16 (1), 33",
     "year": 2017,
     "citations": 22,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:8d8msizDQcsC"
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wtnZaMMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=wtnZaMMAAAAJ:8d8msizDQcsC",
+    "topics": [
+      "open-quantum-systems"
+    ]
   }
 ]

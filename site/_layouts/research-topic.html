@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<nav aria-label="breadcrumb">
+<ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="{{ site.baseurl }}/research">Research</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+</ol>
+</nav>
+
+<div class="research-topic-header">
+    <div class="research-topic-icon">
+        {% if page.image %}
+        <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+        {% else %}
+        <i class="{{ page.icon | default: 'fas fa-atom' }}" aria-hidden="true"></i>
+        {% endif %}
+    </div>
+    <h1>{{ page.title }}</h1>
+</div>
+
+<div class="research-topic-body">
+    {{ content }}
+</div>
+
+{% assign topic_pubs = site.data.publications | where_exp: "p", "p.topics contains page.topic_slug" | sort: "year" | reverse %}
+{% if topic_pubs.size > 0 %}
+<div class="research-topic-publications">
+    <h2>Related publications</h2>
+    <ul class="list-unstyled">
+    {% for publi in topic_pubs %}
+        <li style="margin-bottom: 0.75em;">
+            {{ publi.authors }}.
+            &ldquo;<a href="{{ publi.link }}" target="_blank" rel="noopener">{{ publi.title }}</a>.&rdquo;
+            <i>{{ publi.container }}</i>. {{ publi.year }}.
+            {% if publi.citations > 0 %}<span class="text-muted">Cited by {{ publi.citations }}</span>{% endif %}
+        </li>
+    {% endfor %}
+    </ul>
+</div>
+{% endif %}

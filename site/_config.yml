@@ -12,6 +12,11 @@ include:
   - .htaccess
   - _pages
 
+collections:
+  research:
+    output: true
+    permalink: /research/:path/
+
 sass:
   sass_dir: _sass
 

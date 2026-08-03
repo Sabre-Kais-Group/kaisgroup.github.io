@@ -11,36 +11,24 @@ permalink: /research/
 Our work spans quantum information science, quantum computing for chemistry, and
 quantum machine learning. Selected themes:
 
-### Quantum coherence and entanglement
-
-Understanding the role of quantum coherence and entanglement in complex systems
-such as photosynthesis, the avian compass, solar cells, and chemical reactions.
-We also develop entanglement measures as alternatives to traditional electron
-correlation metrics in quantum chemistry.
-
-### Quantum algorithms for chemistry
-
-Developing adiabatic and digital quantum algorithms for molecular electronic
-structure, phase estimation on qudit platforms, and near-term simulations on
-noisy intermediate-scale quantum devices.
-
-### Quantum machine learning
-
-Hybrid quantum–classical models for large-scale scientific datasets, including
-applications in chemistry, materials, and ADME-Tox property prediction for drug
-discovery. We also study training dynamics and information scrambling in QML
-models.
-
-### Quantum state tomography and validation
-
-Maximal-entropy approaches to reconstruct and validate quantum states from
-incomplete measurement data on noisy devices.
-
-### Open quantum systems and quantum simulation
-
-Algorithms for open quantum dynamics (including radical-pair models of the
-avian compass), resonating valence bond / spin-liquid states, and coherent
-control of photochemical reactions.
+<div class="research-grid" markdown="0">
+{% assign topics = site.research | sort: 'order' %}
+{% for topic in topics %}
+<div class="research-card">
+    <a href="{{ topic.url | relative_url }}" class="research-card-image">
+        {% if topic.image %}
+        <img src="{{ topic.image | relative_url }}" alt="{{ topic.title }}">
+        {% else %}
+        <i class="{{ topic.icon | default: 'fas fa-atom' }}" aria-hidden="true"></i>
+        {% endif %}
+    </a>
+    <div class="research-card-body">
+        <h3 class="research-card-title"><a href="{{ topic.url | relative_url }}">{{ topic.title }}</a></h3>
+        <p class="research-card-summary">{{ topic.summary }}</p>
+    </div>
+</div>
+{% endfor %}
+</div>
 
 ### Related centers
 
