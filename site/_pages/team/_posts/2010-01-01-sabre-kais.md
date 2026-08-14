@@ -1,7 +1,7 @@
 ---
 layout: member
 category: staff
-title: Sabre Kais
+title: Dr. Sabre Kais
 image: sabre-kais.jpg
 role: Goodnight Distinguished Chair in Quantum Computing
 permalink: 'team/sabre-kais'
